@@ -160,7 +160,7 @@ The YIP document was derived heavily from the SIP Synthetix Improvement Proposal
 
 [the unofficial yEarn Discord]: https://discord.com/invite/3AGgWxy
 [the unofficial yEarn Telegram]: https://t.me/yearnfinance
-[pull request]: https://github.com/milkyklim/YIPS/pulls
+[pull request]: https://github.com/iearn-finance/YIPS/pulls
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## Copyright
