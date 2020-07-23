@@ -1,0 +1,28 @@
+<style type="text/css">
+  .yiptable .title {
+    width: 67%;
+  }
+
+  .yiptable .author {
+    width: 33%;
+  }
+</style>
+{% for status in site.data.statuses %}
+  {% assign yips = include.yips|where:"status",status|sort:"yip" %}
+  {% assign count = yips|size %}
+  {% if count > 0 %}
+    <h2>{{status}}</h2>
+    <table class="yiptable">
+      <thead>
+        <tr><th class="yipnum">Number</th><th class="title">Title</th><th class="author">Author</th></tr>
+      </thead>
+      {% for page in yips %}
+        <tr>
+          <td class="yipnum"><a href="{{page.url|relative_url}}">{{page.yip|xml_escape}}</a></td>
+          <td class="title">{{page.title|xml_escape}}</td>
+          <td class="author">{% include authorlist.html authors=page.author %}</td>
+        </tr>
+      {% endfor %}
+    </table>
+  {% endif %}
+{% endfor %}
