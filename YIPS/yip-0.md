@@ -126,9 +126,15 @@ YIPs may include auxiliary files such as diagrams. Such files must be named YIP-
 
 The current YIP editors are:
 
-` * Andre Cronje (@andrecronje)`
+` * Artem K (@banteg)`
 
-` * TODO: who are the editors?`
+` * Cooper Turley (@Cooopahtroopa)`
+
+` * Daryl Lau (@Daryllautk)`
+
+` * Klim K (@milkyklim)`
+
+` * Sunil Srivatsa (@alphastorm)`
 
 ## YIP Editor Responsibilities
 
