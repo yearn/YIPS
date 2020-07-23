@@ -3,7 +3,7 @@ yip: <to be assigned>
 title: <YIP title>
 status: WIP
 author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
-discussions-to: <Create a new thread on https://gov.yearn.finance/ and drop the link here> 
+discussions-to: <Create a new thread on https://gov.yearn.finance/ and drop the link here>
 
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 requires (*optional): <YIP number(s)>
@@ -44,7 +44,7 @@ This is where you explain the reasoning behind how you propose to solve the prob
 
 ### Technical Specification
 <!--The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces yEarn Finance currently exposes or the creations of new ones.-->
-The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces yEarn Finance currently exposes or the creations of new ones. 
+The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces yEarn Finance currently exposes or the creations of new ones.
 
 ### Test Cases
 <!--Test cases for an implementation are mandatory for YIPs but can be included with the implementation..-->
