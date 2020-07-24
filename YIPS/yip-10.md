@@ -9,7 +9,7 @@ created: 2020-07-24
 
 ## Simple Summary
 <!--"If you can't explain it simply, you don't understand it well enough." Simply describe the outcome the proposed changes intends to achieve. This should be non-technical and accessible to a casual community member.-->
-Transition protocol temporarily to new voting contract deployed by Andre in order to mitigate risk of hostile takeover.
+The current yEarn governance mechanism puts the protocol at risk of a hostile takeover. The best immediate course of action would be to temporarily transition the protocol to a new voting contract recently deployed by Andre.
 
 ## Abstract
 <!--A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the YIP is implemented, not *why* it should be done or *how* it will be done. If the YIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".-->
@@ -24,6 +24,10 @@ The current yEarn voting contract accepts BPT (Balancer Pool Tokens) from a pool
 There are multiple different long term governance/voting approaches being debated, and it will take time to align on community consensus. While these are being analyzed/discussed, we should immediately transition to a temporary governance structure where only YFI can be used to vote in order to mitigate hostile takeover attacks.
 
 The community can replace this temporary YFI only voting structure after passing a new YIP.
+
+**FOR**: Governance moves to newly deployed YFI only voting contract.
+
+**AGAINST**: No governance changes.
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
