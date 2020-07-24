@@ -2,7 +2,7 @@
 yip: 5
 title: Reducing YFI weekly supply
 status: Rejected
-author: Damir Bandalo
+author: Damir Bandalo (@sikiriki12)
 discussions-to: https://gov.yearn.finance/t/proposal-5-reducing-yfi-weekly-supply/110
 created: 2020-07-20
 ---
