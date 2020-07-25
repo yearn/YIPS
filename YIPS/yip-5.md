@@ -27,5 +27,18 @@ In summary. If proposal #0 passes the issuance model should be altered as descri
 
 **AGAINST**: Do not support the new issuance model.
 
+## Metadata
+
+| Name                | Value                                      |
+|---------------------|--------------------------------------------|
+| Proposed by         | 0x5398850A9399Da87624874704FEAa8A9C6C4089B |
+| Total for votes     | 1123689.4842 (69.84%)                      |
+| Total against votes | 485164.6894 (30.15%)                       |
+| Quorum              | 6.19% 𐄂                                    |
+| Start block         | 10496829                                   |
+| End block           | 10514109                                   |
+
+Source: [yieldfarming.info YFI Governance Information](https://yieldfarming.info/yearn/vote/)
+
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
