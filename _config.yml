@@ -17,7 +17,7 @@ description: >-
   yEarn Improvement Proposals (YIPs) describe standards for the yEarn
   platform, including core protocol specifications, client APIs, and contract
   standards.
-url: "https://iearn-finance.github.io/YIPS/"
+url: "https://iearn-finance.github.io"
 repository: iearn-finance/YIPS
 twitter_username: iearnfinance
 github_username: iearn-finance
@@ -40,6 +40,10 @@ defaults:
       path: "YIPS"
     values:
       layout: "yip"
+  - scope:
+      path: ""
+    values:
+      image: "/assets/og_image.png"
 
 exclude:
   - Gemfile
