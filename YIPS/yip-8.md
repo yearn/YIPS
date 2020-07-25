@@ -1,7 +1,7 @@
 ---
 yip: 8
 title: Halving YFI weekly supply the same as bitcoin
-status: Proposed
+status: Rejected
 author: steamer.eth
 discussions-to: https://gov.yearn.finance/t/proposal-8-halving-yfi-weekly-supply-the-same-as-bitcoin/263/
 created: 2020-07-22
