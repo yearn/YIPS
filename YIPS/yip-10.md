@@ -1,7 +1,7 @@
 ---
 yip: 10
 title: Transitionary YFI Only Voting
-status: Proposed
+status: Approved
 author: Rewkang (@rewkang)
 discussions-to: https://gov.yearn.finance/t/yip-10-transitionary-yfi-only-voting/481 
 created: 2020-07-24
