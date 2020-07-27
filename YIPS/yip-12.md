@@ -40,5 +40,18 @@ Other ways to solve the quorum problem:
 
 **AGAINST**: No change for threshold.
 
+## Metadata
+
+| Name                | Value                                      |
+|---------------------|--------------------------------------------|
+| Proposed by         | 0x74630370197b4c4795bFEeF6645ee14F8cf8997D |
+| Total for votes     | 5291919.8701 (66.22%)                      |
+| Total against votes | 2699427.0543 (33.77%)                      |
+| Quorum              | 39.76% ✔                                   |
+| Start block         | 10522307                                   |
+| End block           | 10539587                                   |
+
+Source: [yieldfarming.info YFI Governance Information](https://yieldfarming.info/yearn/vote/)
+
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
