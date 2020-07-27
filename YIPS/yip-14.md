@@ -1,7 +1,7 @@
 ---
 yip: 14
 title: yEarn Rewards Reserve
-status: Proposed
+status: Rejected
 author: YieldBouncer (@yieldbouncer)
 discussions-to: https://gov.yearn.finance/t/yip-14-yearn-rewards-reserve/136
 created: 2020-07-24
