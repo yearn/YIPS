@@ -7,6 +7,7 @@ discussions-to: <Create a new thread on https://gov.yearn.finance/ and drop the 
 
 created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 requires (*optional): <YIP number(s)>
+implementation (*optional): <Added if YIP passes>
 ---
 
 <!--You can leave these HTML comments in your merged YIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new YIPs. Note that an YIP number will be assigned by an editor. When opening a pull request to submit your YIP, please use an abbreviated title in the filename, `yip-draft_title_abbrev.md`. The title should be 44 characters or less.-->

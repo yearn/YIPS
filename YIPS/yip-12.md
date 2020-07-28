@@ -5,6 +5,7 @@ status: Approved
 author: cp287 (@illlefr4u)
 discussions-to: https://gov.yearn.finance/t/yip-12-reducing-the-quorum-for-accepting-proposal/578
 created: 2020-07-24
+implementation: https://etherscan.io/tx/0x64ff868305c1271c51b85a4f69f547f3137bebeae611eff1e0a2d86714469b77#
 ---
 
 ## Simple Summary
