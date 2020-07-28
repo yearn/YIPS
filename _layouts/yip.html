@@ -22,6 +22,9 @@ layout: default
       <tr><th>Category</th><td>{{ page.category | xml_escape }}</td></tr>
     {% endif %}
     <tr><th>Created</th><td>{{ page.created | xml_escape }}</td></tr>
+    {% if page.implementation != undefined %}
+      <tr><th>Implementation</th><td>{% include yipnums.html yips=page.implementation %}</td></tr>
+    {% endif %}
     {% if page.requires != undefined %}
       <tr><th>Requires</th><td>{% include yipnums.html yips=page.requires %}</td></tr>
     {% endif %}
