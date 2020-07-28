@@ -2,7 +2,7 @@
 yip: 30
 title: YFI Inflation Schedule
 status: Proposed
-author: Substreight (@substreight), DeltaTiger (@deltatigernz), Hannes Graah, Daryl Lau (@Daryllautk), yfi_whale
+author: Substreight (@substreight), DeltaTiger (@deltatigernz), Hannes Graah <hannes@graah.se>, Daryl Lau (@Daryllautk), yfi_whale
 discussions-to: TODO
 created: 2020-07-28
 ---
@@ -28,10 +28,11 @@ Prior proposals are potentially too conservative and/or not specific enough. Thi
 
 ### Overview
 1. Inflation schedule to follow [[YFI Inflation Schedule](https://docs.google.com/spreadsheets/d/1yomUGpAWR8svL9RXD-_vL2ArgQPGj1x2XPNKDEuZR9Q/edit?usp=sharing)].
-  - Beginning annual inflation: 22.384%
-  - Weekly emissions reduction multiplier: 0.9937
-  - Week that terminal inflation starts: 416
-  - Fixed % ongoing inflation (tail emission): 1%
+  - Beginning annual inflation: 22.384%;
+  - Mint period duration: 1 week;
+  - Weekly emissions reduction multiplier: 0.9937;
+  - Week that terminal inflation starts: 416;
+  - Fixed % ongoing inflation (tail emission): 1%;
 2. 75% of future YFI emissions (15k YFI) designated to LP rewards.
 3. 25% of future YFI emissions (5k YFI) designated to Multisig//DAO.
 
