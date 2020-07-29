@@ -32,7 +32,7 @@ Using YFI from inflation to fund development is a mechanism to strengthen the ye
 
 Some YFI should be reserved to secure and improve the yearn ecosystem while properly incentivizing liquidity pools.Starting with a 75% // 25% split to LPs and Multisig, respectively, allows proper funding for both stakeholders, while retaining flexibility to adjust the distribution if necessary. 
 
-Reference: Inflation schedule proposal [YIP-30]
+Reference: Inflation schedule proposal [YIP-30](https://github.com/substreight/YIPS/blob/master/YIPS/yip-30.md)
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
