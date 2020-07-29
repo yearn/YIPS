@@ -17,7 +17,7 @@ Divide any further YFI inflation, allocating 75% to Liquidity Pools and 25% to t
 ## Motivation
 Using YFI from inflation to fund development is a mechanism to strengthen the yearn ecosystem while aligning contributors. 
 
-**FOR**: Implement an inflation schedule of 20,000 YFI over the next 8 years, with 12,802 distributed in the first 3 years, ending with a trailing tail of 1% inflation.
+**FOR**: Implement YFI inflation, allocating 75% to Liquidity Pools and 25% to the Multisig.
 
 **AGAINST**: No changes.
 
