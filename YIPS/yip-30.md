@@ -11,10 +11,10 @@ created: 2020-07-28
 Implement an inflation schedule of 20,000 YFI over the next 8 years, with 12,802 distributed in the first 3 years, ending with a trailing tail of 1% inflation.
 
 ## Abstract
-1. Update the YFI mint contract to reflect the new inflation schedule.
+* Update the YFI mint contract to reflect new inflation schedule.
 
 ## Motivation
-A clear inflation schedule which reflects the long-term best interest of the community, allowing some flexibility in the adjustment of reward schemes. 
+To create an inflation schedule after the passing of YIP-0. 
 
 **FOR**: Implement an inflation schedule of 20,000 YFI over the next 8 years, with 12,802 distributed in the first 3 years, ending with a trailing tail of 1% inflation.
 
@@ -28,7 +28,7 @@ A clear inflation schedule which reflects the long-term best interest of the com
   - Weekly emissions reduction multiplier: 0.9937
   - Week that terminal inflation starts: 416 weeks
   - Fixed % ongoing inflation (tail emission): 1%
-2. This final model will stay in place until it is stopped or adjusted.
+2. This model will stay in place until it is stopped or adjusted.
 
 ### Rationale
 
