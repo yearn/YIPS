@@ -21,9 +21,9 @@ Add either Chainlink (LINK) or Ether (ETH) as the first volatile asset to be use
 
 ## Motivation
 <!--This is the problem statement. This is the *why* of the YIP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the YIP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the YIP will address the issue!-->
-Delegated yVaults has initially launched with only USDC as collateral. Additional assets are necessary in order to generate more revenue to the protocol and grow the ecosystem. This proposal is to determine the first volatile asset to be used as collateral, which will be tested in trials before other volatile assets are added. A preliminary vote was conducted at https://yearn.gov.finance and the top two choices to add as the first volatile asset were LINK and ETH. 
+Delegated yVaults has initially launched with only USDC as collateral. Additional assets are necessary in order to generate more revenue to the protocol and grow the ecosystem. This proposal is to determine the first volatile asset to be used as collateral, which will be tested in trials before other volatile assets are added. A preliminary vote was conducted at https://gov.yearn.finance/t/add-link-as-the-first-asset-for-the-upcoming-delegated-yvaults-release/847 and the top two choices to add as the first volatile asset were LINK and ETH. 
 
-**FOR**: Add LINK as the first volatile asset to be used in delegated yVaults.
+**FOR**: Add LINK as the first volatile asset to be used in delegated yVaults. <br>
 **AGAINST**: Add ETH as the first asset to be be used in delegated yVaults. 
 
 ## Specification
