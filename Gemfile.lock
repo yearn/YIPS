@@ -242,9 +242,6 @@ GEM
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
-    sip_validator (0.1.1)
-      activemodel
-      front_matter_parser (~> 0.1.1)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
@@ -254,6 +251,9 @@ GEM
       thread_safe (~> 0.1)
     unicode-display_width (1.7.0)
     yell (2.2.2)
+    yip_validator (1.0.2)
+      activemodel
+      front_matter_parser (~> 0.1.1)
 
 PLATFORMS
   ruby
@@ -264,8 +264,8 @@ DEPENDENCIES
   jekyll (~> 3.6.2)
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
-  sip_validator (>= 0.1.1)
   tzinfo-data
+  yip_validator (>= 1.0.2)
 
 BUNDLED WITH
-   1.17.2
+   2.1.4

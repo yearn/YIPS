@@ -24,10 +24,10 @@ When you believe your YIP is mature and ready to progress past the WIP phase, yo
 
 # Validation
 
-YIPs must pass some validation tests.  The YIP repository ensures this by running tests using [html-proofer](https://rubygems.org/gems/html-proofer) and [sip_validator](https://rubygems.org/gems/sip_validator).
+YIPs must pass some validation tests.  The YIP repository ensures this by running tests using [html-proofer](https://rubygems.org/gems/html-proofer) and [yip_validator](https://rubygems.org/gems/yip_validator).
 
 It is possible to run the YIP validator locally:
 ```
-gem install sip_validator
-sip_validator <INPUT_FILES>
+gem install yip_validator
+yip_validator <INPUT_FILES>
 ```

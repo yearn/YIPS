@@ -14,7 +14,7 @@ on:
     branches: [ master ]
 
 jobs:
-  test:
+  validate:
 
     runs-on: ubuntu-latest
 
@@ -37,3 +37,5 @@ jobs:
       run: bundle exec htmlproofer ./_site --internal-domains=yips.yearn.finance --check-html --check-opengraph --report-missing-names --log-level=:debug --assume-extension --empty-alt-ignore --timeframe=6w --url-ignore=/YIPS/yip-0 --disable-external
     - name: GH Pages Healthcheck
       run: bundle exec github-pages health-check
+    - name: yip_validator
+      run: bundle exec yip_validator $(ls YIPS/*.md | egrep "yip-[0-9]+.md")
