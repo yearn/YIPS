@@ -2,7 +2,7 @@
 yip: 31
 title: YFI Inflation Distribution
 status: Proposed
-author: Substreight (@substreight), DeltaTiger (@deltatigernz), Hannes Graah <hannes@graah.se>, Daryl Lau (@Daryllautk)
+author: Substreight (@substreight), DeltaTiger (@deltatigernz), Hannes Graah (@Graadient), Daryl Lau (@Daryllautk)
 discussions-to: https://gov.yearn.finance/t/poll-yfi-inflation-reward-distribution-policy/550
 created: 2020-07-30
 ---
