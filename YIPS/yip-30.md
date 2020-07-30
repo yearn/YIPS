@@ -2,8 +2,8 @@
 yip: 30
 title: YFI Inflation Schedule
 status: Proposed
-author: Substreight (@substreight), DeltaTiger (@deltatigernz), Hannes Graah, Daryl Lau (@Daryllautk), yfi_whale
-discussions-to: TODO
+author: Substreight (@substreight), DeltaTiger (@deltatigernz), Hannes Graah <hannes@graah.se>, Daryl Lau (@Daryllautk), yfi_whale
+discussions-to: https://gov.yearn.finance/t/poll-yfi-inflation-reward-distribution-policy/550
 created: 2020-07-28
 ---
 
