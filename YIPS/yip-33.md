@@ -17,7 +17,7 @@ Add Chainlink (LINK) as the first volatile asset to be used as collateral in del
 
 ## Motivation
 
-Delegated yVaults have initially launched with only USDC as collateral. Additional assets are necessary in order to generate more revenue to the protocol and grow the ecosystem. This proposal nominates LINK as the first volatile asset to be used as collateral. LINK was top-1 choice in a preliminary [poll](https://gov.yearn.finance/t/add-link-as-the-first-asset-for-the-upcoming-delegated-yvaults-release/847/7) – it makes LINK good first canditate for trials before other volatile assets are added.
+Delegated yVaults have initially launched with only USDC as collateral. Additional assets are necessary in order to generate more revenue for the protocol and grow the ecosystem. This proposal nominates LINK as the first volatile asset to be used as collateral. LINK was the top choice in a preliminary [poll](https://gov.yearn.finance/t/add-link-as-the-first-asset-for-the-upcoming-delegated-yvaults-release/847/7) and is a good first candidate for trials before other volatile assets are added.
 
 **FOR**: Add LINK as the first volatile asset to be used in delegated yVaults.
 
