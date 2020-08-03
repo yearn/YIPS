@@ -1,7 +1,7 @@
 ---
 yip: 30
 title: YFI Inflation Schedule
-status: Proposed
+status: Rejected
 author: Substreight (@substreight), DeltaTiger (@deltatigernz), Hannes Graah (@Graadient), Daryl Lau (@Daryllautk), yfi_whale
 discussions-to: https://gov.yearn.finance/t/yip-30-yfi-inflation-schedule/1439
 created: 2020-07-28
@@ -14,7 +14,7 @@ Implement an inflation schedule of 20,000 YFI over the next 8 years, with 12,802
 * Update the YFI mint contract to reflect new inflation schedule.
 
 ## Motivation
-To create an inflation schedule after the passing of YIP-0. 
+To create an inflation schedule after the passing of YIP-0.
 
 **FOR**: Implement an inflation schedule of 20,000 YFI over the next 8 years, with 12,802 distributed in the first 3 years, ending with a trailing tail of 1% inflation.
 
