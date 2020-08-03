@@ -19,23 +19,43 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Ruby
-    # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
-    # change this to (see https://github.com/ruby/setup-ruby#versioning):
-    # uses: ruby/setup-ruby@v1
-      uses: ruby/setup-ruby@ec106b438a1ff6ff109590de34ddc62c540232e0
-      with:
-        ruby-version: 2.6
-    - name: Install dependencies
-      run: bundle install
-    - name: Doctor
-      run: bundle exec jekyll doctor
-    - name: Build
-      run: bundle exec jekyll build
-    - name: HTMLProofer
-      run: bundle exec htmlproofer ./_site --internal-domains=yips.yearn.finance --check-html --check-opengraph --report-missing-names --log-level=:debug --assume-extension --empty-alt-ignore --timeframe=6w --url-ignore=/YIPS/yip-0 --disable-external
-    - name: GH Pages Healthcheck
-      run: bundle exec github-pages health-check
-    - name: yip_validator
-      run: bundle exec yip_validator $(ls YIPS/*.md | egrep "yip-[0-9]+.md")
+      - name: Check out github repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+
+      - name: Set up Ruby
+      # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
+      # change this to (see https://github.com/ruby/setup-ruby#versioning):
+      # uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@ec106b438a1ff6ff109590de34ddc62c540232e0
+        with:
+          ruby-version: 2.6
+
+      - uses: actions/cache@v2
+        name: Restore cache
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      - name: Install dependencies
+        run: |
+          bundle config path vendor/bundle
+          bundle install --jobs 4 --retry 3
+
+      - name: Doctor
+        run: bundle exec jekyll doctor
+
+      - name: Build
+        run: bundle exec jekyll build
+
+      - name: Run HTMLProofer
+        run: bundle exec htmlproofer ./_site --internal-domains=yips.yearn.finance --check-html --check-opengraph --report-missing-names --log-level=:debug --assume-extension --empty-alt-ignore --timeframe=6w --url-ignore=/YIPS/yip-0 --disable-external
+
+      - name: Run GH pages healthcheck
+        run: bundle exec github-pages health-check
+
+      - name: Run YIP validator
+        run: bundle exec yip_validator $(ls YIPS/*.md | egrep "yip-[0-9]+.md")
