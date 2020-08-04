@@ -35,5 +35,18 @@ Some YFI should be reserved to secure and improve the yearn ecosystem while prop
 Reference
 * Inflation schedule proposal [YIP-30](https://github.com/iearn-finance/YIPS/blob/master/YIPS/yip-30.md)
 
+## Metadata
+
+| Name                | Value                                      |
+|---------------------|--------------------------------------------|
+| Proposed by         | 0x24394A4758DBdCf6fcbC14dc35af64Ac0D9a450A |
+| Total for votes     | 3304.5260 (42.28%)                         |
+| Total against votes | 4509.5851 (57.71%)                         |
+| Quorum              | 73.42% ✔                                   |
+| Start block         | 10560736                                   |
+| End block           | 10578016                                   |
+
+Source: [yieldfarming.info YFI Governance Information](https://yieldfarming.info/yearn/vote/)
+
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

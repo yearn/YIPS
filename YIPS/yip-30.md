@@ -38,5 +38,18 @@ To create an inflation schedule after the passing of YIP-0.
 
 Reference: [synthetix/contracts/SupplySchedule.sol](https://github.com/Synthetixio/synthetix/blob/master/contracts/SupplySchedule.sol)
 
+## Metadata
+
+| Name                | Value                                      |
+|---------------------|--------------------------------------------|
+| Proposed by         | 0x2D407dDb06311396fE14D4b49da5F0471447d45C |
+| Total for votes     | 3380.7051 (38.73%)                         |
+| Total against votes | 5346.6313 (61.26%)                         |
+| Quorum              | 82.39% ✔                                   |
+| Start block         | 10560113                                   |
+| End block           | 10577393                                   |
+
+Source: [yieldfarming.info YFI Governance Information](https://yieldfarming.info/yearn/vote/)
+
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
