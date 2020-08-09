@@ -1,7 +1,7 @@
 ---
 yip: 34
 title: Add Synthetix (SNX) to yVaults
-status: Proposed
+status: Approved
 author: Substreight (@substreight)
 discussions-to: https://gov.yearn.finance/t/yip-34-add-synthetix-snx-to-yvaults/2149
 created: 2020-08-06
@@ -30,6 +30,19 @@ Adding SNX as a collateral option to delegated yVaults will enable SNX holders t
 ### Rationale
 
 Synthetix stakers currently incur regularly high gas costs when claiming minted SNX rewards on a weekly basis. With the addition of SNX to yVaults, smaller SNX holders will be able to either allow their rewards to compound or claim them on a regular basis at very low gas costs. This inclusive model will likely draw small and large SNX holders alike, further increasing AUM and driving fee generation for YFI holders. While other tokens have polled higher, the strategy for SNX has already been developed and will be quicker to launch as a vault. 
+
+## Metadata
+
+| Name                | Value                                      |
+|---------------------|--------------------------------------------|
+| Proposed by         | 0xCa845A71d1ff53E7DB7769Ae3f356AF53Fb43000 |
+| Total for votes     | 4207.0774 (90.40%)                         |
+| Total against votes | 446.7678 (9.59%)                           |
+| Quorum              | 41.95% ✔                                   |
+| Start block         | 10609260                                   |
+| End block           | 10626540                                   |
+
+Source: [yieldfarming.info YFI Governance Information](https://yieldfarming.info/yearn/vote/)
 
 ## Copyright
 
