@@ -1,7 +1,7 @@
 ---
 yip: 36
 title: System rewards as operational capital
-status: WIP
+status: Proposed
 author: Andre Cronje (@andrecronje), iTo, n00b, Artem K (@banteg)
 discussions-to: https://gov.yearn.finance/t/system-rewards-as-operational-capital/1974
 
