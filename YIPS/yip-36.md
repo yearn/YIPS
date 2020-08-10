@@ -22,6 +22,9 @@ The YFI community is currently working with Delphi and Gauntlet to develop an ec
 
 But with the state of the market, the system rewards are adequately sufficient to cover operational expenses. The YIP proposes that the system rewards are directed to the multisig instead of streamed to governance stakers. This allows the multisig to cover operational expenses without minting additional YFI.
 
+**FOR:** Use system rewards for operational expenses with \$500k treasury cap and surplus distributed to governance stakers.
+
+**AGAINST:** Keep streaming rewards to governance stakers.
 
 ## Specification
 
@@ -32,4 +35,5 @@ Treasury should maintain a buffer of 500,000 USD equivalent, with further reward
 All surplus rewards are directed to the governance pool.
 
 ## Copyright
+
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
