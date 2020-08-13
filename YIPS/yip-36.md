@@ -1,7 +1,7 @@
 ---
 yip: 36
 title: System rewards as operational capital
-status: Proposed
+status: Approved
 author: Andre Cronje (@andrecronje), iTo, n00b (@jchi18), Artem K (@banteg)
 discussions-to: https://gov.yearn.finance/t/system-rewards-as-operational-capital/1974
 
@@ -33,6 +33,19 @@ But with the state of the market, the system rewards are adequately sufficient t
 Treasury should maintain a buffer of 500,000 USD equivalent, with further rewards distributed to YFI staked in the governance pool.
 
 All surplus rewards are directed to the governance pool.
+
+## Metadata
+
+| Name                | Value                                      |
+|---------------------|--------------------------------------------|
+| Proposed by         | 0x24394A4758DBdCf6fcbC14dc35af64Ac0D9a450A |
+| Total for votes     | 2002.4442 (94.51%)                         |
+| Total against votes | 116.1982 (5.48%)                           |
+| Quorum              | 45.11% ✔                                   |
+| Start block         | 10633194                                   |
+| End block           | 10650474                                   |
+
+Source: [yieldfarming.info YFI Governance Information](https://yieldfarming.info/yearn/vote/)
 
 ## Copyright
 
