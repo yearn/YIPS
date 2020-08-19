@@ -3,7 +3,7 @@ yip: 38
 title: Distribute / Keep Balancer Rewards
 status: Proposed
 author: Klim K (@milkyklim)
-discussions-to: https://gov.yearn.finance/t/yip-x-distribute-keep-balancer-rewards/2436
+discussions-to: https://gov.yearn.finance/t/yip-38-distribute-keep-balancer-rewards/2436
 
 created: 08/18/2020
 ---
