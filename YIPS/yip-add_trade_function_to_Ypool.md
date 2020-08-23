@@ -16,7 +16,8 @@ A `trade()` function is added to the Y pool such that traders can supply a certa
 
 
 ## Abstract
-<!--A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the YIP is implemented, not *why* it should be done or *how* it will be done. If the YIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".-->
+
+
 A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the YIP is implemented, not *why* it should be done or *how* it will be done. If the YIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".
 
 A `public trade(input X, min_output Y)` function is added to the Y facility. Anyone can call it to supply `X` amounts of one stablecoin and receive at least `Y` amount of another stablecoin. The quote provided is according to a stablecoin-optimized CFAMM curve. If the trade is successful, the Y pool is rebalanced if necessary. The effect on the pool yield-optimizing allocation is equivelant to having a batched transaction of `deposite(X) && withdraw(Y)`.
