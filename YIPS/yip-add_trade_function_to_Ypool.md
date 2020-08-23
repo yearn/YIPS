@@ -11,10 +11,9 @@ implementation: WIP
 ---
 
 ## Simple Summary
-<!--"If you can't explain it simply, you don't understand it well enough." Simply describe the outcome the proposed changes intends to achieve. This should be non-technical and accessible to a casual community member.-->
 
-A `trade()` function is added to the Y pool such that traders can supply a certain stablecoin X and receive another stablecoin Y according to a quote by stablecoin-optimized CFAMM curve. Interacting with `trade()` triggers the necessary re-balancing mechanism as usual. The net effect on the pool yield-optimizing allocation is equivelant to a `deposit(X)` followed immediately by a `withdraw(Y)`
-.
+A `trade()` function is added to the Y pool such that traders can supply a certain stablecoin X and receive another stablecoin Y according to a quote by stablecoin-optimized CFAMM curve. Interacting with `trade()` triggers the necessary re-balancing mechanism as usual. The net effect on the pool yield-optimizing allocation is equivelant to a `deposit(X)` followed immediately by a `withdraw(Y)`. Y pool depositors opt-in to participate and be eligible for trading fees. 
+
 
 ## Abstract
 <!--A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the YIP is implemented, not *why* it should be done or *how* it will be done. If the YIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".-->
