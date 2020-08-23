@@ -2,8 +2,8 @@
 yip: <to be assigned>
 title: add `trade()` functionality to the Y pool
 status: WIP
-author: 
-discussions-to: <Create a new thread on https://gov.yearn.finance/ and drop the link here>
+author: Ali Atiia (@aliatiia)
+discussions-to: https://gov.yearn.finance/t/proposal-bolt-a-cfamm-facility-to-the-y-pool/3434
 
 created: 2020-08-23
 requires: None
