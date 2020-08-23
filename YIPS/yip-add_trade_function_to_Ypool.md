@@ -39,7 +39,7 @@ A `public trade(input X, min_output Y)` function is added to the Y facility. Any
 
 - Governance risk minimization: Y depositors should not absorb more governance risk than necessary. YFI governance suffices.
 - Better UI/UX: opting-in to the trading facility is just a check box, not a whole dedicated frontend which adds confusion.
-- 
+- Sustainability and incentive alignments: the fruits of network effects of the trading facilities is kept within the YFI ecosystem, as opposed to being leaked.
 
 ### Technical Specification
 
