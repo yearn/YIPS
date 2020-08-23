@@ -1,7 +1,7 @@
 ---
 yip: 35
 title: Distribute Donations vs Purchase YFI
-status: Proposed
+status: Approved
 author: Andre Cronje (@andrecronje), Klim K (@milkyklim)
 discussions-to: https://gov.yearn.finance/t/distribution-donations-vs-purchasing-yfi/2244
 
@@ -29,6 +29,19 @@ Having spoken to donors, its a mix of “use it for the protocol” vs “it is 
 ## Specification
 
 I will implement a simplistic contract that allows donors to reclaim, should they not wish to do so, after maturity date, YFI will be purchased and staked in governance.
+
+## Metadata
+
+| Name                | Value                                      |
+|---------------------|--------------------------------------------|
+| Proposed by         | 0x74630370197b4c4795bFEeF6645ee14F8cf8997D |
+| Total for votes     | 1644.3648 (93.59%)                         |
+| Total against votes | 112.4983 (6.40%)                           |
+| Quorum              | 37.43% ✔                                   |
+| Start block         | 10633099                                   |
+| End block           | 10650379                                   |
+
+Source: [yieldfarming.info YFI Governance Information](https://yieldfarming.info/yearn/vote/)
 
 ## Copyright
 
