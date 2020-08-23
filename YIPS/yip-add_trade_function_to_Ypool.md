@@ -37,8 +37,8 @@ A `public trade(input X, min_output Y)` function is added to the Y facility. Any
 
 ### Rationale
 
-- Governance risk minimization: Y depositors should not absorb more governance risk more than YFI governance.
-- UI/UX: opting-in to the trading facility is just a check box, not a whole dedicated frontend which adds confusion
+- Governance risk minimization: Y depositors should not absorb more governance risk than necessary. YFI governance suffices.
+- Better UI/UX: opting-in to the trading facility is just a check box, not a whole dedicated frontend which adds confusion.
 - 
 
 ### Technical Specification
