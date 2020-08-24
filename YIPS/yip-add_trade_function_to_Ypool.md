@@ -25,7 +25,7 @@ A `public trade(input X, min_output Y)` function is added to the Y facility. Any
 - Remove intermediaries between Y pool LPs and the trading fees they earn should they opt-in in the trading facility.
 - Reduce extra-Y-protocol governance risks
 - Y depositors who are also interested in trading fees should not have to absorb governance risk from this choice other than YFI governance risk.
-- There is added risk but no added value to having a seperate govenance controlling the trading facility. The incentives are aligned between YFI governors who are not participating in the trading facility and Y depositors who are, because the funds accessable by CFAMM still earns yield in the same manner than Y funds opting out of the trading facility are. 
+- The incentives are aligned between YFI governors who are not participating in the trading facility and Y depositors who are, because the funds accessable by CFAMM still earns yield in the same manner than Y funds opting out of the trading facility are. 
 - 
 
 ## Specification
