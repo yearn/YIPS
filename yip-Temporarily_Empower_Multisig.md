@@ -54,8 +54,8 @@ This proposal does not grant the Multisig:
 ### Rationale
 <!--This is where you explain the reasoning behind how you propose to solve the problem. Why did you propose to implement the change in this way, what were the considerations and trade-offs. The rationale fleshes out what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.-->
 Forum Poll (202 votes)
-78% “Yes, empower the Multisig”
-22% “No, find a better solution”
+<br>78% “Yes, empower the Multisig”
+<br>22% “No, find a better solution”
 
 Important objections raised in the forum poll argued against moving to a foundation model and overly centralizing powers. Here is how we’re learning and adjusting from this feedback:
     <br>  - Clarification that this proposal is not for a foundation model and that the yearn governance DAO will retain its dominant authority including the ability to modify or     remove the multisig’s members or powers via future on-chain votes
