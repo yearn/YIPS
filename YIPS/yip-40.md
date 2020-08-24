@@ -25,16 +25,16 @@ yEarn needs a multisig which will quickly implement the decisions made, while no
 ### Overview
 
 The following signers have given up their spots:
-- Michael | Curve.fi
+- Michael (Curve.fi)
 - Cooper Turley
 - Calvin Liu
 - Damir Bandalo
 
 After careful consideration and voting, we suggest these four nominees:
 - Substreight
-- Tarun Chitra | Gauntlet
-- Vasiliy Shapovalov | p2p.org
-- Mariano Conti | ex-MakerDAO
+- Tarun Chitra (Gauntlet)
+- Vasiliy Shapovalov (p2p.org)
+- Mariano Conti (ex-MakerDAO)
 
 ### Rationale
 
@@ -50,7 +50,7 @@ To execute the transition we don't need to change the threshold, just execute 8 
 4. Remove 0x59171b87817C5F07157066Bd5284707A711229B3 (Cooper)
 5. Add 0xTBD (Tarun)
 6. Remove 0xb0325DbE7fA891436E83A094f9F12848c78e449b (Calvin)
-7. Add 0xTBD (Substreight)
+7. Add 0xc5082Aacb9240E8e5C0f334305c6519094d1b9ad (Substreight)
 8. Remove 0xa83838221278f22ee5bAe3E523f34D42b066D67D (Damir)
 
 ## Discussion
