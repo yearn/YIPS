@@ -2,7 +2,7 @@
 yip: 39
 title: Add Curve sBTC Pool LP-Tokens yVault
 status: Proposed
-author: uhmpepsK (@az)
+author: uhmpeps (@az)
 discussions-to: https://gov.yearn.finance/t/proposal-add-curve-sbtc-pool-lp-tokens-yvault/3251
 
 created: 08/23/2020
@@ -24,8 +24,6 @@ Create a Grow Vault for sBTC Curve Pool LP-token depositors which functions almo
 ## Motivation
 <!--This is the problem statement. This is the *why* of the SIP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the SIP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the SIP will address the issue!-->
 First big mover advantage. There is room to generate significant goodwill from bitcoin holders ($214b in potential AUM) by using our voting power to kick % rewards increase toward the sBTC pool, and to create the first fully passive mechanism for BTC holders to increase their Bitcoin holdings. Right now only the most confident BTC holders are depositing and recycling / farming CRV. This can become a black hole for BTC deposits into Curve via renBTC and LP tokens into yVault for passive returns and governance fees.
-
-However, the amount of $BAL seized is 3 times lower than protocol fees generated within a week (18k vs 60k). Therefore, I propose to keep $BALs in the multisig and count them towards operational capital, rather than writing a custom claim contract – this solution saves time and gas.
 
 ## Specification
 <!--The specification should describe the syntax and semantics of any new feature, there are five sections
@@ -50,4 +48,4 @@ However, the amount of $BAL seized is 3 times lower than protocol fees generated
 
 **For:** Add Vault for sBTC Curve Pool.
 
-**Against:** Don't add vault for sBTC curve Pool.
+**Against:** No change.
