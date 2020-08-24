@@ -48,7 +48,7 @@ To execute the transition we don't need to change the threshold, just execute 8 
 2. Remove 0xFe45baf0F18c207152A807c1b05926583CFE2e4b (Michael)
 3. Add 0x6F2A8Ee9452ba7d336b3fba03caC27f7818AeAD6 (Mariano)
 4. Remove 0x59171b87817C5F07157066Bd5284707A711229B3 (Cooper)
-5. Add 0xTBD (Tarun)
+5. Add 0x07425B7a76a52dE36dFA313E13E9E3a8DBC476CF (Tarun)
 6. Remove 0xb0325DbE7fA891436E83A094f9F12848c78e449b (Calvin)
 7. Add 0xc5082Aacb9240E8e5C0f334305c6519094d1b9ad (Substreight)
 8. Remove 0xa83838221278f22ee5bAe3E523f34D42b066D67D (Damir)
