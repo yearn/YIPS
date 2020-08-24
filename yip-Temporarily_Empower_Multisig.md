@@ -71,7 +71,7 @@ a) Creation of Treasury distribution contract.
 
 ### Test Cases
 **For:** Empower the Multisig for six (6) months.
-**Against:** No changes.
+<br>**Against:** No changes.
 
 ### Proposed Budget
 
