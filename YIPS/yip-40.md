@@ -31,7 +31,7 @@ The following signers have given up their spots:
 - Damir Bandalo
 
 After careful consideration and voting, we suggest these four nominees:
-- Substreight
+- Joe Mahon (Substreight)
 - Tarun Chitra (Gauntlet)
 - Vasiliy Shapovalov (p2p.org)
 - Mariano Conti (ex-MakerDAO)
