@@ -3,7 +3,7 @@ yip: <to be assigned>
 title: Temporarily Empower Multisig
 status: WIP
 author: @tTracheopteryx, @Substreight, @franklin501, Michael Anderson, Vance Spencer
-discussions-to: https://gov.yearn.finance/t/empower-the-multisig/2891/68
+discussions-to: https://gov.yearn.finance/t/empower-the-multisig/2891
 
 created: 2020-08-24
 ---
