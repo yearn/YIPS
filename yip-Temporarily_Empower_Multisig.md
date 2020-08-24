@@ -32,9 +32,9 @@ In this nascent stage of Yearn's lifetime, it is crucial to make rapid decisions
 
 ### Overview
 <!--This is a high level overview of *how* the YIP will solve the problem. The overview should clearly describe how the new feature will be implemented.-->
-This proposal grants the Multisig operational authority on the following decisions for six (6) months from implementation. 
-    - Determining and distributing protocol grants.
-    - Determining and distributing community grants.
+This proposal grants the Multisig operational authority on the following decisions for six (6) months from implementation: 
+    <br>- Determining and distributing protocol grants.
+    <br>- Determining and distributing community grants.
     - Determining and distributing legal + DAO consultation grants. 
     - Identifying and executing key hires listed on the attached budget.
     - Identifying and engaging security firms. 
