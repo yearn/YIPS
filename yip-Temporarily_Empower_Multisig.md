@@ -58,9 +58,9 @@ Forum Poll (202 votes)
 <br>22% “No, find a better solution”
 
 Important objections raised in the forum poll argued against moving to a foundation model and overly centralizing powers. Here is how we’re learning and adjusting from this feedback:
-    <br>  - Clarification that this proposal is not for a foundation model and that the yearn governance DAO will retain its dominant authority including the ability to modify or     remove the multisig’s members or powers via future on-chain votes.
-    <br>  - A deeper discussion about decentralization, governance, and the urgency for this YIP to pass can be found in this thread: Understanding Decentralization & Prioritizing an Operations Team.
-    <br>  - Clearer limitations on the multisig’s authority detailed above to be controlled via smart contract.
+    <br> - Clarification that this proposal is not for a foundation model and that the yearn governance DAO will retain its dominant authority including the ability to modify or     remove the multisig’s members or powers via future on-chain votes.
+    <br> - A deeper discussion about decentralization, governance, and the urgency for this YIP to pass can be found in this thread: Understanding Decentralization & Prioritizing an Operations Team.
+    <br> - Clearer limitations on the multisig’s authority detailed above to be controlled via smart contract.
 
 ### Technical Specification
 <!--The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces yEarn Finance currently exposes or the creations of new ones.-->
