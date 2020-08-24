@@ -35,32 +35,32 @@ In this nascent stage of Yearn's lifetime, it is crucial to make rapid decisions
 This proposal grants the Multisig operational authority on the following decisions for six (6) months from implementation: 
     <br>- Determining and distributing protocol grants.
     <br>- Determining and distributing community grants.
-    - Determining and distributing legal + DAO consultation grants. 
-    - Identifying and executing key hires listed on the attached budget.
-    - Identifying and engaging security firms. 
-    - Identifying and engaging analytical firms. 
-    - Continue executing yVault strategy changes until a dedicated team can take over.
-    - Facilitating UI & front-end development.
-    - Facilitating business development and integrations. 
+    <br>- Determining and distributing legal + DAO consultation grants. 
+    <br>- Identifying and executing key hires listed on the attached budget.
+    <br>- Identifying and engaging security firms. 
+    <br>- Identifying and engaging analytical firms. 
+    <br>- Continue executing yVault strategy changes until a dedicated team can take over.
+    <br>- Facilitating UI & front-end development.
+    <br>- Facilitating business development and integrations. 
 
 This proposal does not grant the Multisig: 
-    - Authority over YFI token or emissions.
-    - Leadership powers beyond those described above.
-    - Any powers over the YIP process or governance.
-    - Authority over the composition of the multisig group -- any changes to multisig signers will need to be approved by governance.
-    - The power to ignore or hinder any approved YIPs or the governance process in general.
-    - The power to create a legal entity.
+    <br>- Authority over YFI token or emissions.
+    <br>- Leadership powers beyond those described above.
+    <br>- Any powers over the YIP process or governance.
+    <br>- Authority over the composition of the Multisig group -- any changes to Multisig signers will need to be approved by governance.
+    <br>- The power to ignore or hinder any approved YIPs or the governance process in general.
+    <br>- The power to create a legal entity.
 
 ### Rationale
 <!--This is where you explain the reasoning behind how you propose to solve the problem. Why did you propose to implement the change in this way, what were the considerations and trade-offs. The rationale fleshes out what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.-->
 Forum Poll (202 votes)
-78% “Yes, empower the MultiSig”
+78% “Yes, empower the Multisig”
 22% “No, find a better solution”
 
 Important objections raised in the forum poll argued against moving to a foundation model and overly centralizing powers. Here is how we’re learning and adjusting from this feedback:
-    - Clarification that this proposal is not for a foundation model and that the yearn governance DAO will retain its dominant authority including the ability to modify or     remove the multisig’s members or powers via future on-chain votes
-    - A deeper discussion about decentralization, governance, and the urgency for this YIP to pass can be found in this thread: Understanding Decentralization & Prioritizing an Operations Team
-    - Clearer limitations on the multisig’s authority detailed above to be controlled via smart contract
+    <br>- Clarification that this proposal is not for a foundation model and that the yearn governance DAO will retain its dominant authority including the ability to modify or     remove the multisig’s members or powers via future on-chain votes
+    <br>- A deeper discussion about decentralization, governance, and the urgency for this YIP to pass can be found in this thread: Understanding Decentralization & Prioritizing an Operations Team
+    <br>- Clearer limitations on the multisig’s authority detailed above to be controlled via smart contract
 
 ### Technical Specification
 <!--The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces yEarn Finance currently exposes or the creations of new ones.-->
