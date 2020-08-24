@@ -74,7 +74,7 @@ a) Creation of Treasury distribution contract.
 <br>**Against:** No changes.
 
 ### Proposed Budget
-[img]https://i.imgur.com/a3W7XPU.png[/img]
+<a href="https://imgur.com/a3W7XPU">Budget</a>
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
