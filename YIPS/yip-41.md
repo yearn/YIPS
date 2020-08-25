@@ -56,7 +56,7 @@ Important objections raised in the forum poll argued against moving to a foundat
 **Against:** No changes.
 
 ### Proposed Budget
-[Budget](../assets/yip-41/budget.pdf)
+[Budget](../assets/yip-41/budget.png)
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
