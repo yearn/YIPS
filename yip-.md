@@ -2,7 +2,7 @@
 yip: 
 title: Add yRenBTC Vault + Delegated Vault
 status: Proposed
-author: Azeem (https://twitter.com/AzeemFi)
+author: Azeem (@zu-ctrl)
 discussions-to: https://gov.yearn.finance/t/proposal-yrenbtc-delegated-vault/3470
 
 created: 08/25/2020
