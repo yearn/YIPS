@@ -1,7 +1,7 @@
 ---
 yip: 40
 title: Replace inactive multisig signers
-status: Proposed
+status: Approved
 author: cp287 (@illlefr4u), Artem K (@banteg)
 discussions-to: https://gov.yearn.finance/t/change-participants-of-the-multisig-wallet/2991
 
