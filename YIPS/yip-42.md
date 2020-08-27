@@ -4,7 +4,7 @@ title: Add RenBTC to yVaults
 status: Proposed
 author: Azeem (@zu-ctrl)
 discussions-to: https://gov.yearn.finance/t/proposal-yrenbtc-delegated-vault/3470
-smart-contract: https://github.com/zu-ctrl/yfi-str-pub/blob/master/StrategyCreamRENBTC.sol
+implementation: https://github.com/zu-ctrl/yfi-str-pub/blob/master/StrategyCreamRENBTC.sol
 created: 08/26/2020
 ---
 <!--You can leave these HTML comments in your merged SIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new SIPs. Note that an SIP number will be assigned by an editor. When opening a pull request to submit your SIP, please use an abbreviated title in the filename, `sip-draft_title_abbrev.md`. The title should be 44 characters or less.-->
