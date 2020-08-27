@@ -1,13 +1,11 @@
 ---
-yip: <to be assigned>
-title: improve-yip-categories
-status: WIP 
+yip: 43
+title: Improve YIP categories
+status: Proposed
 author: sam bacha, @sambacha <sam@freighttrust.com>
 discussions-to: https://gov.yearn.finance/t/proposal-add-new-statuses-to-yip-proposals-non-protocol-change/3608
 
 created: 2020-08-24
-requires (*optional): <YIP number(s)>
-implementation (*optional): <Added if YIP passes>
 ---
 
 
