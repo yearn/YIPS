@@ -8,25 +8,6 @@ created: 2020-07-22
 updated: N/A
 ---
 
-## Table of Contents 
-
-- [What is an YIP?](#what-is-an-yip-)
-- [YIP Rationale](#yip-rationale)
-- [YIP Work Flow](#yip-work-flow)
-- [What belongs in a successful YIP?](#what-belongs-in-a-successful-yip-)
-- [YIP Formats and Templates](#yip-formats-and-templates)
-- [YIP Header Preamble](#yip-header-preamble)
-    + [`author` header](#-author--header)
-    + [`discussions-to` header](#-discussions-to--header)
-    + [`created` header](#-created--header)
-    + [`updated` header](#-updated--header)
-    + [`requires` header](#-requires--header)
-- [Auxiliary Files](#auxiliary-files)
-- [YIP Editors](#yip-editors)
-- [YIP Editor Responsibilities](#yip-editor-responsibilities)
-- [History](#history)
-  * [Bibliography](#bibliography)
-
 ## What is an YIP?
 
 YIP stands for yEarn Improvement Proposal, it has been adapted from the SIP (Synthetix Improvement Proposal). The purpose of this process is to ensure changes to yEarn are transparent and well governed. An YIP is a design document providing information to the yEarn community about a proposed change to the system. The author is responsible for building consensus within the community and documenting dissenting opinions.
