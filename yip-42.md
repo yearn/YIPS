@@ -1,5 +1,5 @@
 ---
-yip: 
+yip: 42
 title: Add RenBTC to yVaults
 status: Proposed
 author: Azeem (@zu-ctrl)
