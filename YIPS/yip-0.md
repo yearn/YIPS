@@ -8,6 +8,25 @@ created: 2020-07-22
 updated: N/A
 ---
 
+## Table of Contents 
+
+- [What is an YIP?](#what-is-an-yip-)
+- [YIP Rationale](#yip-rationale)
+- [YIP Work Flow](#yip-work-flow)
+- [What belongs in a successful YIP?](#what-belongs-in-a-successful-yip-)
+- [YIP Formats and Templates](#yip-formats-and-templates)
+- [YIP Header Preamble](#yip-header-preamble)
+    + [`author` header](#-author--header)
+    + [`discussions-to` header](#-discussions-to--header)
+    + [`created` header](#-created--header)
+    + [`updated` header](#-updated--header)
+    + [`requires` header](#-requires--header)
+- [Auxiliary Files](#auxiliary-files)
+- [YIP Editors](#yip-editors)
+- [YIP Editor Responsibilities](#yip-editor-responsibilities)
+- [History](#history)
+  * [Bibliography](#bibliography)
+
 ## What is an YIP?
 
 YIP stands for yEarn Improvement Proposal, it has been adapted from the SIP (Synthetix Improvement Proposal). The purpose of this process is to ensure changes to yEarn are transparent and well governed. An YIP is a design document providing information to the yEarn community about a proposed change to the system. The author is responsible for building consensus within the community and documenting dissenting opinions.
@@ -29,7 +48,13 @@ Parties involved in the process are the *author*, the [*YIP editors*](#yip-edito
 Your role as the champion is to write the YIP using the style and format described below, shepherd the discussions in the appropriate forums, and build community consensus around the idea. Following is the process that a successful YIP will move along:
 
 ```
-[ WIP ] -> [ PROPOSED ] -> [ APPROVED ] -> [ IMPLEMENTED ] X [ REJECTED ] 
+Proposed -> Approved -> Implemented
+  ^                     |
+  +----> Rejected       +----> Moribund
+  |
+  +----> Withdrawn
+  v
+Deferred
 ```
 
 Each status change is requested by the YIP author and reviewed by the YIP editors. Use a pull request to update the status. Please include a link to where people should continue discussing your YIP. The YIP editors will process these requests as per the conditions below.
@@ -41,6 +66,11 @@ Each status change is requested by the YIP author and reviewed by the YIP editor
 * **Implemented** -- This YIP has been implemented and deployed to mainnet.
 
 * **Rejected** -- This YIP has failed to reach community consensus.
+
+* **Withdrawn** -- Means that the YIP author has decided that the YIP is actually a bad idea, or has accepted that a competing proposal is a better alternative.
+* **Moribund** -- Obsolete and requires no explicit replacement, it SHOULD be marked "Moribund"
+* **Deferred** -- Governance placed status upon a YIP that means that they would like to know more information, or that they would like to see if the author(s) can work with another proposed YIP and combine it into a single YIP, etc.
+
 
 ## What belongs in a successful YIP?
 
