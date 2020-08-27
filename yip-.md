@@ -5,7 +5,7 @@ status: Proposed
 author: Azeem (@zu-ctrl)
 discussions-to: https://gov.yearn.finance/t/proposal-yrenbtc-delegated-vault/3470
 smart-contract: https://github.com/zu-ctrl/yfi-str-pub/blob/master/StrategyCreamRENBTC.sol
-created: 08/26/2020
+created: 08/27/2020
 ---
 <!--You can leave these HTML comments in your merged SIP and delete the visible duplicate text guides, they will not appear and may be helpful to refer to if you edit it again. This is the suggested template for new SIPs. Note that an SIP number will be assigned by an editor. When opening a pull request to submit your SIP, please use an abbreviated title in the filename, `sip-draft_title_abbrev.md`. The title should be 44 characters or less.-->
 
@@ -19,40 +19,19 @@ When Curve created an opportunity for RenBTC to generate returns, the RenVM TVL 
 
 ## Abstract
 <!--A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the SIP is implemented, not *why* it should be done or *how* it will be done. If the SIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".-->
-Strategy options / sequence:
-* Strategy 1: Accept RenBTC deposits immediately without RenVM bridge, start farming CREAM the same way as yYFI Vault, and deliver returns for depositors as RenBTC
-* Strategy 2: Accept RenBTC deposits immediately without RenVM bridge, start farming CRV the same way as yCRV Vault, and deliver returns for depositors as RenBTC
-* Strategy 3: Soon as sensible, add RenVM for Direct BTC Deposit as an option on Product Pages
-* Strategy 4: When MakerDAO launches RenBTC collateral, allow users to deposit BTC directly via RenVM Bridge on our site like Curve does for deposits (can also accept RenBTC if user already has it), we give user yRenBTC, turn their BTC into RenBTC, Create a CDP, manage collateral and use our vaults to generate yield, which is used to buy RenBTC on the market and deliver returns to depositors as RenBTC. This allows a user to deposit BTC and increase their BTC stack while also generating significant buy pressure on the market for BTC.
+The strategy linked to above models the current yYFI yVault strategy of farming CREAM and generating returns in more CREAM. We will require a new row in the yVault to accept RenBTC deposits. 
 
 ## Motivation
 <!--This is the problem statement. This is the *why* of the SIP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the SIP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the SIP will address the issue!-->
-Capture up to $214b in AUM from BTC holders who want to passively grow their BTC holdings to gain a big first mover advantage. There is room to generate significant goodwill from bitcoin holders by creating the first truly passive method to generate returns in BTC using the best strategy available at any time.
+Refer to thread with an overwhelming majority FOR the BTC strategic focus. This is a vote to approve the current Strategy Smart contract to go live and start generating returns for RenBTC depositors without forcing them to figure out Curve deposits. 
 
 ## Specification
 <!--The specification should describe the syntax and semantics of any new feature, there are five sections-->
 > Strategy 1:
 * Add a new Vault row in Table for yRenBTC Vault
-* User deposits RenBTC start farming CREAM the same way as yYFI Vault, and deliver returns for depositors as RenBTC
+* User deposits RenBTC start farming CREAM the same way as yYFI Vault, and deliver returns for depositors as RenBTC.
 
-> Strategy 2 (switch between 1 and 2 depending on best returns):
-* Add a new Vault row in Table for yRenBTC Vault or recycle row from Strategy 1
-* User deposits RenBTC start farming CRV the same way as yCRV Vault, and deliver returns for depositors as RenBTC
-* Consider dedicating a portion of CRV rewards weekly to restake to veCRV to maximize multiple rewards
-
-> Strategy 3:
-* Figure out how to create a RenVM bridge that works with our systems to accept BTC, we give user yRenBTC, turn their BTC into RenBTC, and manage appropriately.
-* Add this as an option to each UX touch point which accepts RenBTC. 
-
-> Strategy 4: 
-* Add a new Vault row in Table for yRenBTC Vault or recycle from S1/2
-* Create a RenVM Bridge deposit form in Vault Product similar to how Curvefi does it [here](https://www.curve.fi/ren/deposit) (click X on BTC icon) - this can be added as a toggle on the usual RenBTC deposit form, or it could be a separate deposit form just for BTC so holders don't get confused and think RenBTC is some alt/fork... we can explain correctly on the product page for it. 
-* User deposits BTC (or RenBTC if they already have it), we give user yRenBTC, turn their BTC into RenBTC, Create a CDP, manage collateral and use our vaults to generate yield through whatever method using DAI, which is used to buy RenBTC on the market and deliver returns to depositors as RenBTC. Or directly use RenBTC to farm CRV. 
-
-Zai in Discord mentioned: 
-> I know nobody asked, but #4 is amazing. There are intangible morale benefits to this vault continuously adding prime quality collateral into a Maker CDP, and pumping new Dai into the system. Yearn would be hailed as heroes of DeFi.
-
-**For:** Yes! Add RenBTC Vaults.
+**For:** Yes! Add yRenBTC Vault Strategy 1 - StrategyCreamRENBTC
 
 **Against:** No change.
 
