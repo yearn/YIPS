@@ -1,7 +1,7 @@
 ---
 yip: 42
 title: Add RenBTC to yVaults
-status: Proposed
+status: Rejected
 author: Azeem (@zu-ctrl)
 discussions-to: https://gov.yearn.finance/t/proposal-yrenbtc-delegated-vault/3470
 implementation: https://github.com/zu-ctrl/yfi-str-pub/blob/master/StrategyCreamRENBTC.sol

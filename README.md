@@ -22,9 +22,6 @@ When you believe your YIP is mature and ready to progress past the WIP phase, yo
 * **Approved** - a YIP that has been accepted for implementation by the yEarn community.
 * **Implemented** - a YIP that has been released to mainnet.
 * **Rejected** - a YIP that has been rejected.
-* **Withdrawn** - a YIP that has been withdrawn by the author(s).
-* **Deferred** - a YIP that governance has decided to wait for another YIP/some other change that should be bundled with it together
-* **Moribund** - a YIP that was once Implemeneted. It is now Obsolete 'AND' requires no explicit replacement.
 
 ## Validation
 
@@ -36,6 +33,6 @@ gem install yip_validator
 yip_validator <INPUT_FILES>
 ```
 
-## License 
+## Copyright
 
-CC-0
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

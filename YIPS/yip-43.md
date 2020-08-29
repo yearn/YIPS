@@ -1,7 +1,7 @@
 ---
 yip: 43
 title: Improve YIP categories
-status: Proposed
+status: Rejected
 author: sam bacha <sam@freighttrust.com>
 discussions-to: https://gov.yearn.finance/t/proposal-add-new-statuses-to-yip-proposals-non-protocol-change/3608
 
