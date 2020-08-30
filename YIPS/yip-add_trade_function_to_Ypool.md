@@ -35,11 +35,11 @@ Y pool stablecoin depositors (LPs) will have an additional revenue stream in the
 
 > - Usability: better UI/UX for market-making because opting-in to the trading facility is just a check box, not a whole dedicated frontend which adds confusion.
 
-> - Lucrative revenue stream that is rent-free and governance-risk-minimized
 > - Compensation for YFI holders for the service they provide to market-making LPs (namely, yEarn optimize the yield for these market-making stablecoins)
-> - Increase liquidity network effects of the yEarn ecosystem.
-> - Increase YFI's moat against copy-paste clones because
 
+> - Increase liquidity, network effects of the yEarn ecosystem.
+
+> - Increase YFI's moat against copy-paste clones.
 
 ## Specification
 
@@ -59,6 +59,30 @@ The stablecoin-optimized function is designed to reduce slippage for traders. Bu
 The minimal change in UI/UX is to reduce confusion and mental overhead. Opting-in is a simple checkbox. Withdrawal abstracts away the swapping of underlying AMM shares of the withdrawer to the desired withdraw stablecoin(s). The withdraw workflow and UI/UX is exactly the same for both types of LPs: those participating in the AMM and those that are not. Note that both types of LPs earn optimized yield.
 
 ### Test Cases
+
+
+
+### Risks:
+
+> - Overseeing this stablecoin market-making functionality is an added responsibility to the YFI governance.
+> - As with any additional contracts that get added to yEarn, there is smart contract risks.
+> - Stablecoin risks: a market-making LP is exposed to the risks of all the stablecoin being market made, not just the stablecoins they supplied.
+
+## For:
+
+> The Y pool provides stablecoin-to-stablecoin automatic market-making functionality and collects trading fees. This functionality will be implemented and added to the Y pool.
+
+## Against:
+
+> The Y pool does **not** provide stablecoin-to-stablecoin automatic market-making of stablecoins. 
+
+## Poll:
+
+[poll type=multiple results=on_vote min=1 max=1 chartType=bar]
+* Yes, provide the Y pool depositors the option to market-make stablecoins swapping natively and earn trading fees.
+* No, do not provide  Y pool depositors with the option to market-make stablecoins swapping.
+[/poll]
+
 
 ## Copyright
 
