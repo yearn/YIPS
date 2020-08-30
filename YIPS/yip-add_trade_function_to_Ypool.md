@@ -25,19 +25,19 @@ _Trade workflow_: traders go to yearn.finance and click on "trade" tab, input th
 
 ## Motivation
 
-- Efficiency: remove intermediaries between Y pool LPs and the trading fees they earn should they opt-in to market-make.
+- **Efficiency**: remove intermediaries between Y pool LPs and the trading fees they earn should they opt-in to market-make.
 
-- Security: reduce extra-yEarn-protocol governance risks.
+- **Security**: reduce extra-yEarn-protocol governance risks.
 
-- Sustainability: the fruits of network effects of the trading facilities is kept within the YFI ecosystem. This captures the value which is otherwise leaked outside the YFI ecosystem. This value comes from trading fees, liquidity network effects, and good governance.
+- **Sustainability**: the fruits of network effects of the trading facilities is kept within the YFI ecosystem. This captures the value which is otherwise leaked outside the YFI ecosystem. This value comes from trading fees, liquidity network effects, and good governance.
 
-- Incentive alignment between YFI governors and Y pool's LPs by (1) splitting trading fees 95% to LPs and 5% to YFI-holders and (2) enshrining upgrades as opt-in only. The 5% fee is fair compensation, not rent, fo YFI governors for maintaining the underlying yEarn machinery which LPs benefit from (interest rate optimization for now, other features and strategies added in the future).
+- **Incentive alignment** between YFI governors and Y pool's LPs by (1) splitting trading fees 95% to LPs and 5% to YFI-holders and (2) enshrining upgrades as opt-in only. The 5% fee is fair compensation, not rent, fo YFI governors for maintaining the underlying yEarn machinery which LPs benefit from (interest rate optimization for now, other features and strategies added in the future).
 
-- Usability: better UI/UX for market-making because opting-in to the trading facility is just a checkbox, not a whole dedicated frontend which creates confusion.
+- **Usability**: better UI/UX for market-making because opting-in to the trading facility is just a checkbox, not a whole dedicated frontend which creates confusion.
 
-- Increase liquidity and network effects of the yEarn ecosystem.
+- **Increase liquidity and network effects of the yEarn ecosystem.**
 
-- Increase YFI's moat against copy-paste clones. Clones can fork the AMM and the yield-optimizing strategies underneath it, but they can't fork the AMM's liquidity which results in extremely high slippage in their clone AMM.
+- **Increase YFI's moat** against copy-paste clones. Clones can fork the AMM and the yield-optimizing strategies underneath it, but they can't fork the AMM's liquidity which results in extremely high slippage in their clone AMM.
 
 ## Specification
 
@@ -73,10 +73,7 @@ The Y pool does **not** provide stablecoin-to-stablecoin automatic market-making
 
 ## Poll:
 
-[poll type=multiple results=on_vote min=1 max=1 chartType=bar]
-* Yes, provide the Y pool depositors the option to market-make stablecoins swapping natively and earn trading fees.
-* No, do not provide  Y pool depositors with the option to market-make stablecoins swapping.
-[/poll]
+[Cast your vote here](https://gov.yearn.finance/t/proposal-bolt-a-cfamm-facility-to-the-y-pool/3434/10?u=aliatiia)
 
 
 ## Copyright
