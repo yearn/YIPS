@@ -1,45 +1,58 @@
 ---
 yip: <to be assigned>
-title: add `trade()` functionality to the Y pool
+title: Add stablecoin-to-stablecoin autmatic market-making functionality to the Y pool
 status: WIP
 author: Ali Atiia (@aliatiia)
-discussions-to: https://gov.yearn.finance/t/proposal-bolt-a-cfamm-facility-to-the-y-pool/3434
+discussions-to: [https://gov.yearn.finance/t/proposal-bolt-a-cfamm-facility-to-the-y-pool/3434/](Thread 1) [https://gov.yearn.finance/t/proposal-bolt-a-cfamm-facility-to-the-y-pool/3434/](Thread 2)
 
 created: 2020-08-23
 requires: None
-implementation: WIP
 ---
 
 ## Simple Summary
 
-A `trade()` function is added to the Y pool such that traders can supply a certain stablecoin X and receive another stablecoin Y according to a quote by stablecoin-optimized CFAMM curve. Interacting with `trade()` triggers the necessary re-balancing mechanism as usual. The net effect on the pool yield-optimizing allocation is equivelant to a `deposit(X)` followed immediately by a `withdraw(Y)`. Y pool depositors opt-in to participate and be eligible for trading fees. 
+Y pool stablecoin depositors (LPs) will have an additional revenue stream in the form of trading fees from a stablecoin-to-stablecoin automatic market-making functionality. This is in addition to the yield they currently earn from having their stablecoins optimally rotated between Compound, Aave and DyDx. To align incentives between LPs and YFI holders: (1) trading fees are split 95% to LPs and 5% to YFI holders (2) upgrades to the trading functionality opt-in.
 
 
 ## Abstract
 
-A `public trade(input X, min_output Y)` function is added to the Y facility. Anyone can call it to supply `X` amounts of one stablecoin and receive at least `Y` amount of another stablecoin. The quote provided is according to a stablecoin-optimized CFAMM curve. If the trade is successful, the Y pool is rebalanced if necessary. The effect on the pool yield-optimizing allocation is equivelant to having a batched transaction of `deposite(X) && withdraw(Y)`.
+> In addition to earning yield from optimized lending, stablecoins in the Y pool could also earn trading fees from an automatic market making (AMM) functionality. A trader supplies stablecoin **A** (e.g. Dai) to the Y pool and receives stablecoin **B** (e.g. USDC) in return. The **A**:**B** exchange rate is provided by stablecoin-optimized constant function. Traders pay a fee which goes 95% to Y pool depositors (LPs) and 5% to YFI holders. This aligns YFI-holders' incentives with LPs and compensates them for the valuable services the yEarn ecosystem provides: liquidity network effects, good governance, community-powered improvements and technical prowess, etc.
+
+> _Deposit workflow_: as usual LPs deposit stablecoins to the Y pool by visiting yearn.finance and clicking on a "deposit" tab. But now there is also a checkbox that says "I also would like to contribute my stablecoins for market-making and earn trading fees". LPs that check the box earn lucrative trading fees but are also exposed to the risk of all the stablecoins in the trading pool. Depositors who do not check the box miss out on these fees but they also do not have exposure to stablecoin risks other than the stablecoin they deposited.
+
+> _Trade workflow_: traders go to yearn.finance and click on "trade" tab, input the desired amount of stablecoin to sell and be presented with a quote for the desired stablecoin to be bought. The stablecoin **sold** to the pool is wrapped into yTokens (e.g. USDC -> yUSDC) and begins earning interest yield immediately, and the stablecoin **bought** is unwrapped from yToken into the base (e.g. yDai -> Dai) and given to the trader.
 
 
 ## Motivation
 
-- Remove intermediaries between Y pool LPs and the trading fees they earn should they opt-in in the trading facility.
-- Reduce extra-Y-protocol governance risks
-- Y depositors who are also interested in trading fees should not have to absorb governance risk from this choice other than YFI governance risk.
-- The incentives are aligned between YFI governors who are not participating in the trading facility and Y depositors who are, because the funds accessable by CFAMM still earns yield in the same manner than Y funds opting out of the trading facility are. 
-- 
+> - Efficiency: remove intermediaries between Y pool LPs and the trading fees they earn should they opt-in to market-make.
+
+> - Security: reduce extra-yEarn-protocol governance risks.
+
+> - Sustainability: the fruits of network effects of the trading facilities is kept within the YFI ecosystem. This captures the value which is otherwise leaked outside the YFI ecosystem. This value comes from trading fees, liquidity network effects, and good governance.
+
+> - Incentive alignment between YFI governors and Y pool's LPs.
+
+> - Usability: better UI/UX for market-making because opting-in to the trading facility is just a check box, not a whole dedicated frontend which adds confusion.
+
 
 ## Specification
 
-### Overview
+> The constant function of the automatic market making function is stablecoin optimized in order to reduce slippage for traders. A similar function to that used in Curve or the upcoming Shell protocol can be used. A buffer of unwrapped stablecoins is kept to reduce gas costs for small depositors. The pool of AMM-participating Y depositors is the same as the current pool except for the additional publicly `call`able `trade()` function as well as backend utility functions that support it. The index token given to depositors is a pro rata claim on of the total stablecoins in the pool. From a UX/UI perspective, LPs can withdraw to their desirable stablecoin. The withdrawal function performs the necessary swaps in the background to provide the withdrawer with the desired stablecoin. For example, if the pool is currently 25% Dai, 25% USDC, 25% USDT, and 25% TUSD and Alice wants to withdraw her share of the pool which is, say, 4%, into Dai only .. then 1% of total yUSDC, yUSDT, and yTUSD is each unwrapped (i.e. withdrawn from lending protocols) and swapped for Dai. That represents 3% of Alice's share. The, then 4% of all Dai is given to Alice.
 
-### Rationale
+> The deployment admin key expires soon after deployment. Future upgrades of the AMM facility are opt-in, in a similar fashion to Uniswap -> Uniswap v2 migration. 
 
-- Governance risk minimization: Y depositors should not absorb more governance risk than necessary. YFI governance suffices.
-- Better UI/UX: opting-in to the trading facility is just a check box, not a whole dedicated frontend which adds confusion.
-- Sustainability and incentive alignments: the fruits of network effects of the trading facilities is kept within the YFI ecosystem
-### Technical Specification
+
+### Rationale**:
+
+> - Lucrative revenue stream that is rent-free and governance-risk-minimized
+> - Compensation for YFI holders for the service they provide to market-making LPs (namely, yEarn optimize the yield for these market-making stablecoins)
+> - Increase liquidity network effects of the yEarn ecosystem.
+> - Increase YFI's moat against copy-paste clones because
+
 
 ### Test Cases
 
 ## Copyright
+
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
