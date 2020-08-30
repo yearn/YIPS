@@ -35,21 +35,28 @@ Y pool stablecoin depositors (LPs) will have an additional revenue stream in the
 
 > - Usability: better UI/UX for market-making because opting-in to the trading facility is just a check box, not a whole dedicated frontend which adds confusion.
 
+> - Lucrative revenue stream that is rent-free and governance-risk-minimized
+> - Compensation for YFI holders for the service they provide to market-making LPs (namely, yEarn optimize the yield for these market-making stablecoins)
+> - Increase liquidity network effects of the yEarn ecosystem.
+> - Increase YFI's moat against copy-paste clones because
+
 
 ## Specification
+
+### Overview 
 
 > The constant function of the automatic market making function is stablecoin optimized in order to reduce slippage for traders. A similar function to that used in Curve or the upcoming Shell protocol can be used. A buffer of unwrapped stablecoins is kept to reduce gas costs for small depositors. The pool of AMM-participating Y depositors is the same as the current pool except for the additional publicly `call`able `trade()` function as well as backend utility functions that support it. The index token given to depositors is a pro rata claim on of the total stablecoins in the pool. From a UX/UI perspective, LPs can withdraw to their desirable stablecoin. The withdrawal function performs the necessary swaps in the background to provide the withdrawer with the desired stablecoin. For example, if the pool is currently 25% Dai, 25% USDC, 25% USDT, and 25% TUSD and Alice wants to withdraw her share of the pool which is, say, 4%, into Dai only .. then 1% of total yUSDC, yUSDT, and yTUSD is each unwrapped (i.e. withdrawn from lending protocols) and swapped for Dai. That represents 3% of Alice's share. The, then 4% of all Dai is given to Alice.
 
 > The deployment admin key expires soon after deployment. Future upgrades of the AMM facility are opt-in, in a similar fashion to Uniswap -> Uniswap v2 migration. 
 
 
-### Rationale**:
+### Rationale:
 
-> - Lucrative revenue stream that is rent-free and governance-risk-minimized
-> - Compensation for YFI holders for the service they provide to market-making LPs (namely, yEarn optimize the yield for these market-making stablecoins)
-> - Increase liquidity network effects of the yEarn ecosystem.
-> - Increase YFI's moat against copy-paste clones because
+There are three principles: (1) modularity (2) minimalism (3) gas efficiency. The proposed approach above trades some of (3) in exchange for more (1) and (2). The inverse would have been to implement one global pool for both participating and non-participating LPs in market making. This makes the rebalancing more gas efficient Y-pool-wide. But then it's less modulare and more bloated because the pool needs to keep track of the trading fee distribution to participating LPs. This means the current Y pool must be amended.
 
+The stablecoin-optimized function is designed to reduce slippage for traders. But it also assumes that some amount of de-pegging of one stablecoin should be arbitraged away by the market. The curve only becomes "concious" of a catastrophic de-pegging in a stablecoin after a certain threshold, after which the exponential nature of the pegged:depegged quote protects the pool from further draining. This is a risk that LPs should know and understand about all stablecoin-constant functions generally.
+
+The minimal change in UI/UX is to reduce confusion and mental overhead. Opting-in is a simple checkbox. Withdrawal abstracts away the swapping of underlying AMM shares of the withdrawer to the desired withdraw stablecoin(s). The withdraw workflow and UI/UX is exactly the same for both types of LPs: those participating in the AMM and those that are not. Note that both types of LPs earn optimized yield.
 
 ### Test Cases
 
