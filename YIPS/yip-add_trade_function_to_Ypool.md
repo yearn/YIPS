@@ -59,9 +59,9 @@ The minimal change in UI/UX is to reduce confusion and mental overhead. Opting-i
 
 ### Risks:
 
-Overseeing this stablecoin market-making functionality is an added responsibility to the YFI governance.
-As with any additional contracts that get added to yEarn, there is smart contract risks.
-Stablecoin risks: a market-making LP is exposed to the risks of all the stablecoin being market made, not just the stablecoins they supplied.
+- Overseeing this stablecoin market-making functionality is an added responsibility to the YFI governance.
+- As with any additional contracts that get added to yEarn, there is smart contract risks.
+- Stablecoin risks: a market-making LP is exposed to the risks of all the stablecoin being market made, not just the stablecoins they supplied.
 
 ## For:
 
