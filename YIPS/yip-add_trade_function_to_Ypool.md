@@ -3,8 +3,7 @@ yip: <to be assigned>
 title: Add stablecoin-to-stablecoin automatic market-making functionality to the Y pool
 status: WIP
 author: Ali Atiia (@aliatiia)
-discussions-to: [https://gov.yearn.finance/t/proposal-bolt-a-cfamm-facility-to-the-y-pool/3434/](Thread 1) [https://gov.yearn.finance/t/proposal-bolt-a-cfamm-facility-to-the-y-pool/3434/](Thread 2)
-
+discussions-to: [https://gov.yearn.finance/t/proposal-bolt-a-cfamm-facility-to-the-y-pool/3434/10]
 created: 2020-08-23
 requires: None
 ---
