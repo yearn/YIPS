@@ -1,7 +1,7 @@
 ---
 yip: 44
 title: Improve YIP categories
-status: Proposed
+status: Implemented
 author: sam bacha <sam@freighttrust.com>
 discussions-to: https://gov.yearn.finance/t/yip-44-improve-yip-categories/3608
 
