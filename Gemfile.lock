@@ -1,17 +1,16 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activemodel (4.2.9)
-      activesupport (= 4.2.9)
-      builder (~> 3.1)
-    activesupport (4.2.9)
-      i18n (~> 0.7)
+    activemodel (6.0.3.2)
+      activesupport (= 6.0.3.2)
+    activesupport (6.0.3.2)
+      concurrent-ruby (~> 1.0, >= 1.0.2)
+      i18n (>= 0.7, < 2)
       minitest (~> 5.1)
-      thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
+      zeitwerk (~> 2.2, >= 2.2.2)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    builder (3.2.4)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -218,7 +217,7 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minitest (5.14.1)
+    minitest (5.14.2)
     multipart-post (2.1.1)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
@@ -263,9 +262,10 @@ GEM
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
     yell (2.2.2)
-    yip_validator (1.0.2)
+    yip_validator (1.1.0)
       activemodel
       front_matter_parser (~> 0.1.1)
+    zeitwerk (2.4.0)
 
 PLATFORMS
   ruby
@@ -277,7 +277,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.13)
   minima (~> 2.5)
   tzinfo-data
-  yip_validator (>= 1.0.2)
+  yip_validator (>= 1.1.0)
 
 BUNDLED WITH
    2.1.4
