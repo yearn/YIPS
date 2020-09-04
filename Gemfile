@@ -31,4 +31,4 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "html-proofer", '>=3.3.1'
 
-gem "yip_validator", ">=1.0.2"
+gem "yip_validator", ">=1.1.0"

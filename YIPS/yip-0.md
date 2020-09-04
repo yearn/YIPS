@@ -5,7 +5,7 @@ status: Implemented
 author: yEarn Community
 discussions-to: https://gov.yearn.finance/
 created: 2020-07-22
-updated: N/A
+updated: 2020-09-03
 ---
 
 ## What is an YIP?
@@ -29,7 +29,13 @@ Parties involved in the process are the *author*, the [*YIP editors*](#yip-edito
 Your role as the champion is to write the YIP using the style and format described below, shepherd the discussions in the appropriate forums, and build community consensus around the idea. Following is the process that a successful YIP will move along:
 
 ```
-[ WIP ] -> [ PROPOSED ] -> [ APPROVED ] -> [ IMPLEMENTED ] X [ REJECTED ]
+Proposed -> Approved -> Implemented
+  ^                     |
+  +----> Rejected       +----> Moribund
+  |
+  +----> Withdrawn
+  v
+Deferred
 ```
 
 Each status change is requested by the YIP author and reviewed by the YIP editors. Use a pull request to update the status. Please include a link to where people should continue discussing your YIP. The YIP editors will process these requests as per the conditions below.
@@ -39,6 +45,9 @@ Each status change is requested by the YIP author and reviewed by the YIP editor
 * **Approved** -- This YIP has passed community governance and is now being prioritised for development.
 * **Implemented** -- This YIP has been implemented and deployed to mainnet.
 * **Rejected** -- This YIP has failed to reach community consensus.
+* **Withdrawn** -- This YIP has has been withdrawn by the author(s).
+* **Deferred** -- This YIP is pending another YIP/some other change that should be bundled with it together.
+* **Moribund** -- This YIP has been implemented and is now obsolete and requires no explicit replacement.
 
 ## What belongs in a successful YIP?
 
