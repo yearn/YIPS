@@ -1,7 +1,7 @@
 ---
 yip: 41
 title: Temporarily Empower Multisig
-status: Approved
+status: Implemented
 author: tracheopteryx (@tracheopteryx), Joe Mahon (@Substreight), franklin501 (@franklin501), Michael Anderson, Vance Spencer
 discussions-to: https://gov.yearn.finance/t/empower-the-multisig/2891
 
