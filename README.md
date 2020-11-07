@@ -1,6 +1,8 @@
 # YIPs [![Discord](https://img.shields.io/discord/734804446353031319.svg?color=768AD4&label=discord&logo=https%3A%2F%2Fdiscordapp.com%2Fassets%2F8c9701b98ad4372b58f13fd9f65f966e.svg)](https://discordapp.com/channels/734804446353031319/) [![Telegram](https://img.shields.io/badge/chat-on%20Telegram-blue.svg)](https://t.me/yearnfinance) [![Twitter Follow](https://img.shields.io/twitter/follow/iearnfinance.svg?label=iearnfinance&style=social)](https://twitter.com/iearnfinance)
 
 yEarn Improvement Proposals (YIPs) describe standards for the yEarn platform, including core protocol specifications, client APIs, and contract standards.
+
+> [view the YIP webpage to see all approved and rejected](https://yips.yearn.finance/all-yip)
  
 ## Contributing
 
@@ -35,6 +37,11 @@ It is possible to run the YIP validator locally:
 gem install yip_validator
 yip_validator <INPUT_FILES>
 ```
+
+## Tools
+
+[Yeoman Generator for YIP's](https://github.com/sambacha/generator-yyip)
+
 
 ## Copyright
 
