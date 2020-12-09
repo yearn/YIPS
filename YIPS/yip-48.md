@@ -36,7 +36,7 @@ https://github.com/iearn-finance/yearn-vaults/blob/master/SPECIFICATION.md
 | Name                | Value                                      |
 | ------------------- | ------------------------------------------ |
 | Proposed by         | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67 |
-| Total for votes     | 1.89k YFI (99.96%                          |
+| Total for votes     | 1.89k YFI (99.96%)                          |
 | Total against votes | 0.76  YFI (0.04%)                          |
 | Start date          | Oct 6                                      |
 | End date            | Oct 9                                      |
