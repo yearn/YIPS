@@ -73,7 +73,7 @@ Instead, the focus here is to determine _how fees are collected_, and _the total
 
 The backtesting data produced in [[4]](#References) shows how the new fee model is delivering roughly the same amount of total fees, compared to the model used in Vaults v1:
 
-![bar chart|1800x1200,30%](assets/yip-51/figure1.png)
+![1800x1200,30%](assets/yip-51/figure1.png)
 
 |         | Withdrawal fee | Performance fee | Management fee |  Total fees |    % |
 | ------- | -------------: | --------------: | -------------: | ----------: | ---: |
