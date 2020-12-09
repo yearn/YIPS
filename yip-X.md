@@ -45,7 +45,7 @@ This is where you explain the reasoning behind how you propose to solve the prob
 
 ### Technical Specification
 <!--The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces yEarn Finance currently exposes or the creations of new ones.-->
-The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces yEarn Finance currently exposes or the creations of new ones.
+The technical specification should outline the public API of the changes proposed. That is, changes to any of the interfaces Yearn Finance currently exposes or the creations of new ones.
 
 ### Test Cases
 <!--Test cases for an implementation are mandatory for YIPs but can be included with the implementation..-->
