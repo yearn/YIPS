@@ -72,7 +72,7 @@ The figure above summarizes the flow, responsibilities, and expectations.
 
 - Yearn gets a 65% membership interest in the yAcademy in return for bootstrapping funding, sponsorship of KERNELs, and rewards to outstanding shadow auditors. The Yearn core team will be instrumental in the early stages of yAcademy to bring auditors up to speed and share their expertise. The remaining membership interests go 10% to Gitcoin, 10% to Status, and 15% to the first five founding members: 5%, 4%, 3%, 1.5%, and 1.5% to the 1st, 2nd, 3rd, 4th and 5th founding members, respectively.
 
-### Rationale:
+### Rationale
 
 - Traditional ways of education and collaboration are obsolete.
 
@@ -88,7 +88,7 @@ The figure above summarizes the flow, responsibilities, and expectations.
 
 - Membership interests ensure incentive alignments and reduces bootstrapping operational costs to the absolute minimum. By granting membership interests to founding members, yAcademy can stay competitive with the industry standard while not allocating too much money on salaries. At the same time, auditors are incentivized to perform well since yAcademy's growth means the growth of their membership value.
 
-### Short-term operational outlook (1-2 years):
+### Short-term operational outlook (1-2 years)
 
 We expect a budget of ~150-200k in the first year out of the Multisig Council treasury, covering the funding of 1-2 founding members and including mentee rewards and kernel sponsorship. The second year's budget will be decided when the time comes, but is expected to not exceed the first year's significantly because the founding members may by then have reached a level where they can take on outside contracts for a premium, which then goes back to funding the yAcademy itself.
 
