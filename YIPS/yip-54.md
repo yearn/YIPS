@@ -62,7 +62,7 @@ The budget set in YIP-41 has so far been sufficient; there is no desire to incre
 
 ##### Approximating current allocation
 
-![|3200x1440, 20%](assets/yip-54/figure2.svg)
+![3200x1440, 20%](assets/yip-54/figure2.svg)
 
 The above diagram is based on data of the total fees collected by Yearn vaults in a four month period, from July 30 - Nov 05 2020.[[5]](#References)
 
@@ -82,7 +82,7 @@ This gives an **approximation** of how rewards would be allocated today, based o
 
 Based on this, the proposal is to round this number down to an **even 50%** and divide the Treasury funds equally between YFI staking rewards and Operations:
 
-![|3200x1440, 20%](assets/yip-54/figure3.svg)
+![3200x1440, 20%](assets/yip-54/figure3.svg)
 
 #### 2. Rewarding contributors
 
