@@ -1,6 +1,6 @@
 ---
 yip: 53
-title: yAcademy: Planting the Seed of a Sustainably Secure Future for Yearn and Beyond
+title: yAcademy- Planting the Seed of a Sustainably Secure Future for Yearn and Beyond
 status: Approved
 author: aliatiia (@aliatiia)
 discussions-to: https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of-a-sustainably-secure-future-for-yearn-and-beyond/7929
