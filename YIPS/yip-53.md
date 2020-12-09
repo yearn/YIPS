@@ -21,7 +21,7 @@ yAcademy will be operated as a joint venture by the yAcademy partners—Yearn (t
 - **_Stakeholders_**: Yearn (through the Multisig Council), Gitcoin, Status, yAcademy permanent members (auditors)
 - **_Founding members_**: the first five auditors to join the yAcademy. They get membership interests in yAcademy.
 - **_Mentees_**: outstanding participants in the KERNEL program that complete the curriculum and show promise, they are invited to shadow audit in yAcademy in close collaboration with Founding Members and Yearn core team.
-- **_Menbership Interests_**: non-transferable governance and economic rights in the yAcademy joint venture. 
+- **_Membership Interests_**: non-transferable governance and economic rights in the yAcademy joint venture. 
 
 
 ## Abstract
