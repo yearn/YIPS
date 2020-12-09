@@ -23,7 +23,7 @@ created: 2020-11-09
 
 Yearn is often referred to as a "Yield aggregator", in the context of Ben Thompson's Aggregation Theory[[1]](#References).
 
-![Aggregation Theory|1816x780, 30%](assets/yip-52/figure1.jpg)
+![1816x780, 30%](assets/yip-52/figure1.jpg)
 
 Similar to Google for search, Facebook for social, Netflix for movies, Airbnb for holiday rentals, and Uber for rides, the idea is that Yearn should be the go-to source for users who want to earn the best and most predictable ROI on their DeFi investments.
 
@@ -97,11 +97,11 @@ Drawing from the backtesting data produced in [[6]](#References), below is the V
 
 #### Previous allocation
 
-![Previous model sankey |2400x1400, 20%](assets/yip-52/figure2.png)
+![2400x1400, 20%](assets/yip-52/figure2.png)
 
 #### Proposed allocation
 
-![Previous model sankey|2400x1400, 20%](assets/yip-52/figure3.png)
+![2400x1400, 20%](assets/yip-52/figure3.png)
 
 #### Comments
 
