@@ -21,7 +21,7 @@ Although there are several informal standards governing the YIP introduction, vo
 
 ## Specification
 
-***Introducing the YIP***
+**_Introducing the YIP_**
 
 In order to submit a potential YIP for voting a user must first create a thread for the proposal on the Yearn governance forum. Complete the auto-populated fields that appear when creating a proposal on the forum. A screenshot of these fields are below:
 
@@ -31,7 +31,7 @@ Additionally, the thread should include a poll from the governance forum to gaug
 
 If a proposal was introduced on the governance forum and achieved at least a 25% “For” from the poll but is not submitted to Snapshot within 30 days, the author of the proposal must re-submit the proposal to the governance forum and restart the process. This ensures that proposals that previously received support from governance still retain support from the community.
 
-***Formal Voting Phase***
+**_Formal Voting Phase_**
 
 Snapshot is used for formal, binding votes. The user who authored the YIP will also create the proposal on [Snapshot](https://snapshot.page/#/yearn). Snapshot requires 1 YFI in a user’s wallet to create a proposal. If the author does not meet this requirement then contact a moderator who will submit the proposal on your behalf. Before creating the Snapshot vote, please wait for a moderator to assign your YIP a number and begin your Snapshot title with it.
 
@@ -67,7 +67,7 @@ Note: 5-day voting poll is **binding** (live from Nov 17 - Nov 22).
 | ------------------- | ------------------------------------------ |
 | Proposed by         | 0x25B28EE7f335F0396f41f129039F1583345B21b8 |
 | Total for votes     | 530.78 YFI (99.1%)                         |
-| Total against votes | 4.8    YFI (0.9%)                          |
+| Total against votes | 4.8 YFI (0.9%)                             |
 | Start date          | Nov 17                                     |
 | End date            | Nov 22                                     |
 

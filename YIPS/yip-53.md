@@ -7,22 +7,22 @@ discussions-to: https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of
 created: 2020-11-11
 ---
 
-This is the culmination of efforts since the [original proposal](https://gov.yearn.finance/t/lets-poach-samczsun-and-plant-the-seed-for-an-auditing-academy/5507) which led to a partnership with our friends at [Gitcoin and Status](https://gitcoin.co/blog/announcing-the-kernel-security-track/) who also have been thinking about security in our ecosystem. 
+This is the culmination of efforts since the [original proposal](https://gov.yearn.finance/t/lets-poach-samczsun-and-plant-the-seed-for-an-auditing-academy/5507) which led to a partnership with our friends at [Gitcoin and Status](https://gitcoin.co/blog/announcing-the-kernel-security-track/) who also have been thinking about security in our ecosystem.
 
 # Simple Summary
 
- We launch the yAcademy: a security wing tasked with auditing Yearn's contracts, attracting and retaining top talent, and eventually generating revenue by expanding its auditing services to the ecosystem at large. Mission: audit Yearn contracts in a collaborative and semi-structured process. Administrative costs are kept near zero, as the tasks of advocacy, event organizing, educational curriculum are handled by our partners at Gitcoin and Status. The yAcademy is net positive from day one since money that would have otherwise been an operational expense given to auditing firms is now an investment that should pay back the principle immediately (in the form of audits of Yearn contracts) and generate revenue eventually (once the team has expanded to offer services to the ecosystem). 
+We launch the yAcademy: a security wing tasked with auditing Yearn's contracts, attracting and retaining top talent, and eventually generating revenue by expanding its auditing services to the ecosystem at large. Mission: audit Yearn contracts in a collaborative and semi-structured process. Administrative costs are kept near zero, as the tasks of advocacy, event organizing, educational curriculum are handled by our partners at Gitcoin and Status. The yAcademy is net positive from day one since money that would have otherwise been an operational expense given to auditing firms is now an investment that should pay back the principle immediately (in the form of audits of Yearn contracts) and generate revenue eventually (once the team has expanded to offer services to the ecosystem).
 
 yAcademy will be operated as a joint venture by the yAcademy partners—Yearn (through the Multisig Council), Gitcoin, Status and member-auditors (including the first five auditors to join). The alignment can be seen in the following figure:
 
 ![](assets/yip53.png)
 
 ## _Glossary of terms_
+
 - **_Stakeholders_**: Yearn (through the Multisig Council), Gitcoin, Status, yAcademy permanent members (auditors)
 - **_Founding members_**: the first five auditors to join the yAcademy. They get membership interests in yAcademy.
 - **_Mentees_**: outstanding participants in the KERNEL program that complete the curriculum and show promise, they are invited to shadow audit in yAcademy in close collaboration with Founding Members and Yearn core team.
-- **_Membership Interests_**: non-transferable governance and economic rights in the yAcademy joint venture. 
-
+- **_Membership Interests_**: non-transferable governance and economic rights in the yAcademy joint venture.
 
 ## Abstract
 
@@ -40,23 +40,23 @@ The Yearn community should incentivise rising stars to stay and continue to work
 
 - Auditing firms are overbooked, they have financial incentive to speed up audits which can affect quality.
 
-- Negotiating audit contracts with auditing firms is a laborious and clunky analog process. 
+- Negotiating audit contracts with auditing firms is a laborious and clunky analog process.
 
 - Audit contracts are very expensive.
 
 - Yearn is a hub of innovation and as a result should attract top talent.
 
-- Smart contracts will probably experience an even bigger cambrian explosion once the enterprise starts using permissionless networks such as Ethereum as a settlement layer. Hence, the yAdademy will most likely become a highly-profitable organization, thereby paying back all the investment put into it, and then some—this could lead to a new source of sustainable research & development funding for Yearn ecosystem grants. 
+- Smart contracts will probably experience an even bigger cambrian explosion once the enterprise starts using permissionless networks such as Ethereum as a settlement layer. Hence, the yAdademy will most likely become a highly-profitable organization, thereby paying back all the investment put into it, and then some—this could lead to a new source of sustainable research & development funding for Yearn ecosystem grants.
 
 - Yearn are better off having auditing expenditure be an investment that pays itself back and more, rather than a realized operational cost lost to auditing firms.
 
-- Yearn has spent on security audits/bounties this year more than the projected budget for Yearn. 
+- Yearn has spent on security audits/bounties this year more than the projected budget for Yearn.
 
 ## Specification
 
 The figure above summarizes the flow, responsibilities, and expectations.
 
-### Overview 
+### Overview
 
 - The academy is governed by all of its stakeholders but not micro-managed. The day to day by the auditors themselves autonomously, in close collaboration with the Yearn core team and supervision of the multisig holders (with input from YFI holders).Gitcoin, and Status may get involved if major decisions are to be made.
 
@@ -80,7 +80,7 @@ The figure above summarizes the flow, responsibilities, and expectations.
 
 - Merit-based: auditors that stick around and bring value are rewarded.
 
-- Synchronous communication is inefficient. 
+- Synchronous communication is inefficient.
 
 - Some structure in the collaboration between mentors and mentees is needed to reduce time waste.
 
@@ -106,7 +106,7 @@ yAcademy may go through iterations as we learn and adjust during the first 1-2 y
 | ------------------- | ------------------------------------------ |
 | Proposed by         | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67 |
 | Total for votes     | 937.09 YFI (99.99%)                        |
-| Total against votes | 0.1    YFI (0.01%)                         |
+| Total against votes | 0.1 YFI (0.01%)                            |
 | Start date          | Nov 11                                     |
 | End date            | Nov 14                                     |
 

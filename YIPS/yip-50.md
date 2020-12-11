@@ -9,13 +9,13 @@ created: 2020-11-05
 
 ## Summary
 
-Seize ~8 YFI from treasury [contract](https://etherscan.io/address/0x93A62dA5a14C80f265DAbC077fCEE437B1a0Efde) and use these funds as a first step to create contributors' stash. 
- 
+Seize ~8 YFI from treasury [contract](https://etherscan.io/address/0x93A62dA5a14C80f265DAbC077fCEE437B1a0Efde) and use these funds as a first step to create contributors' stash.
+
 ## Rationale
 
-Normally, all tokens sitting in treasury [contract](https://etherscan.io/address/0x93A62dA5a14C80f265DAbC077fCEE437B1a0Efde) are recycled – sold for yCRV and send as rewards to YFI stakers. 
+Normally, all tokens sitting in treasury [contract](https://etherscan.io/address/0x93A62dA5a14C80f265DAbC077fCEE437B1a0Efde) are recycled – sold for yCRV and send as rewards to YFI stakers.
 
-Proposal is to start a slow paced accumulation of YFI for future contributors – seize ~8.005026733686906244 YFI currently sitting in treasury. 
+Proposal is to start a slow paced accumulation of YFI for future contributors – seize ~8.005026733686906244 YFI currently sitting in treasury.
 
 ### Voting
 
@@ -31,7 +31,7 @@ Proposal is to start a slow paced accumulation of YFI for future contributors �
 | ------------------- | ------------------------------------------ |
 | Proposed by         | 0x0Cec743b8CE4Ef8802cAc0e5df18a180ed8402A7 |
 | Total for votes     | 719.53 YFI (95.38%)                        |
-| Total against votes | 34.87  YFI (4.62%)                         |
+| Total against votes | 34.87 YFI (4.62%)                          |
 | Start date          | Nov 5                                      |
 | End date            | Nov 12                                     |
 
