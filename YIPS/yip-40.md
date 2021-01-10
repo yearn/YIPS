@@ -25,12 +25,14 @@ yEarn needs a multisig which will quickly implement the decisions made, while no
 ### Overview
 
 The following signers have given up their spots:
+
 - Michael (Curve.fi)
 - Cooper Turley
 - Calvin Liu
 - Damir Bandalo
 
 After careful consideration and voting, we suggest these four nominees:
+
 - Joe Mahon (Substreight)
 - Tarun Chitra (Gauntlet)
 - Vasiliy Shapovalov (p2p.org)

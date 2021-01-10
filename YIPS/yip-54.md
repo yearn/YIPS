@@ -19,7 +19,7 @@ created: 2020-11-12
 
 As Yearn evolves, so does the need to cover operational expenses and quickly react to changes.
 
-YIP-36[[1]](#References) laid the groundwork for Yearn operations funding. YIP-41[[2]](#References) extended this with the inclusion of a one-off operations budget. A forum thread envisioned the Multisig acting as an "operations special interest group"[[3]](#References). Today, there are multiple special interest groups (such as development, documentation, governance, branding/design, and communications) that are not directly related to the Multisig, but partly financed through the YIP-41 budget. The Multisig acts as an executor of the spending decisions of these groups.
+YIP-36[[1]](#1) laid the groundwork for Yearn operations funding. YIP-41[[2]](#2) extended this with the inclusion of a one-off operations budget. A forum thread envisioned the Multisig acting as an "operations special interest group"[[3]](#3). Today, there are multiple special interest groups (such as development, documentation, governance, branding/design, and communications) that are not directly related to the Multisig, but partly financed through the YIP-41 budget. The Multisig acts as an executor of the spending decisions of these groups.
 
 This YIP builds on the previously adopted proposals to formalize a structure for sustainable funding of operations, to further Yearn's development and growth.
 
@@ -27,7 +27,7 @@ This YIP builds on the previously adopted proposals to formalize a structure for
 
 The following questions are not covered:
 
-- **How should YFI staking rewards be spent?** Proposals such as [[4]](#References) argue for a change in how staking rewards should be spent. This should be decided on separately by YFI voters.
+- **How should YFI staking rewards be spent?** Proposals such as [[4]](#4) argue for a change in how staking rewards should be spent. This should be decided on separately by YFI voters.
 - **How should spending decisions be made?** This proposal focuses on the funding of operations activities, and how these are reported transparently. Decision-making processes are assumed to be existing per YIP-41.
 - **What is Yearn's long term governance structure?** YIP-41 temporarily empowers the Multisig while preparations are made for "a more robust governance architecture". Any material change to Yearn's governance would also need to consider the management of the Operations Fund.
 
@@ -48,7 +48,7 @@ The proposal attempts to answer the following questions:
 
 #### Current Yearn operations spend
 
-Estimated to total ~$434,000 as of November 10, 2020. More than half of the operations spend is security related, with the greater part of the remainder spent on funding contributors in various forms.
+Estimated to total ~\$434,000 as of November 10, 2020. More than half of the operations spend is security related, with the greater part of the remainder spent on funding contributors in various forms.
 
 ![](assets/yip-54/figure1.svg)
 
@@ -64,11 +64,11 @@ The budget set in YIP-41 has so far been sufficient; there is no desire to incre
 
 ![|3200x1440, 20%](assets/yip-54/figure2.svg)
 
-The above diagram is based on data of the total fees collected by Yearn vaults in a four month period, from July 30 - Nov 05 2020.[[5]](#References)
+The above diagram is based on data of the total fees collected by Yearn vaults in a four month period, from July 30 - Nov 05 2020.[[5]](#5)
 
-The fees have then been allocated according to the new vault fee structure of YIP-51[[6]](#References) and the updated Strategist allocation of YIP-52[[7]](#References).
+The fees have then been allocated according to the new vault fee structure of YIP-51[[6]](#6) and the updated Strategist allocation of YIP-52[[7]](#7).
 
-The current budget for operations is based off of the allocation in YIP-41[[2]](#References), calculated as:
+The current budget for operations is based off of the allocation in YIP-41[[2]](#2), calculated as:
 
 ```
 (a) $ 500,000 + (b) 4 * $ 181,000 = $ 1,224,000
@@ -102,7 +102,7 @@ As new Yearn products are introduced, so could the need emerge to buy back other
 
 As operations move to continuous funding, tracking spending decisions and holding contributors accountable becomes ever more important.
 
-This proposal does not introduce any new spending mechanisms. All spending is signed off by the Multisig, with activities already tracked and published in a dedicated repo, `/ychad-audit`[[8]](#References).
+This proposal does not introduce any new spending mechanisms. All spending is signed off by the Multisig, with activities already tracked and published in a dedicated repo, `/ychad-audit`[[8]](#8).
 
 In addition, a quarterly Operations Fund Report will be published documenting the activities of the previous period, how funds were spent, the current health of the Operations Fund, and what the focus for the upcoming quarter will be. The report helps YFI holders to audit the fund, and intervene as required by passing a YIP with new fund guidelines.
 
@@ -149,14 +149,14 @@ _Source: [Snapshot](https://snapshot.page/#/yearn/proposal/QmW2ZPfGrcNxVLvT2jm9f
 
 ## References
 
-1. https://yips.yearn.finance/YIPS/yip-36
-2. https://yips.yearn.finance/YIPS/yip-41
-3. https://gov.yearn.finance/t/understanding-decentralization-prioritizing-an-operations-team/
-4. https://gov.yearn.finance/t/proposal-rethinking-capital-allocation/
-5. Dataset available on request
-6. https://snapshot.page/#/yearn/proposal/QmSaYHR97LDMDvg9xeTfdNZw6aqL9njxBKM6JVFtCYxKvB
-7. https://snapshot.page/#/yearn/proposal/QmbAq6jPB6ocrihjkDo5TLNF4D4w9dw1HsEsJ7vwdwd9g3
-8. https://github.com/iearn-finance/ychad-audit/tree/master/reports/financial
+<a id="1">1. https://yips.yearn.finance/YIPS/yip-36</a>
+<a id="2">2. https://yips.yearn.finance/YIPS/yip-41</a>
+<a id="3">3. https://gov.yearn.finance/t/understanding-decentralization-prioritizing-an-operations-team/</a>
+<a id="4">4. https://gov.yearn.finance/t/proposal-rethinking-capital-allocation/</a>
+<a id="5">5. Dataset available on request</a>
+<a id="6">6. https://snapshot.page/#/yearn/proposal/QmSaYHR97LDMDvg9xeTfdNZw6aqL9njxBKM6JVFtCYxKvB</a>
+<a id="7">7. https://snapshot.page/#/yearn/proposal/QmbAq6jPB6ocrihjkDo5TLNF4D4w9dw1HsEsJ7vwdwd9g3</a>
+<a id="8">8. https://github.com/iearn-finance/ychad-audit/tree/master/reports/financial</a>
 
 ## Copyright
 

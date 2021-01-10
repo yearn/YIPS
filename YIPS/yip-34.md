@@ -25,16 +25,16 @@ Additional assets are necessary in order to generate more revenue for the protoc
 
 ### Overview
 
-Adding SNX as a collateral option to delegated yVaults will enable SNX holders to deposit tokens to the vault, which will increase the total value locked (TVL) and generate more fees for the protocol. 
+Adding SNX as a collateral option to delegated yVaults will enable SNX holders to deposit tokens to the vault, which will increase the total value locked (TVL) and generate more fees for the protocol.
 
 ### Rationale
 
-Synthetix stakers currently incur regularly high gas costs when claiming minted SNX rewards on a weekly basis. With the addition of SNX to yVaults, smaller SNX holders will be able to either allow their rewards to compound or claim them on a regular basis at very low gas costs. This inclusive model will likely draw small and large SNX holders alike, further increasing AUM and driving fee generation for YFI holders. While other tokens have polled higher, the strategy for SNX has already been developed and will be quicker to launch as a vault. 
+Synthetix stakers currently incur regularly high gas costs when claiming minted SNX rewards on a weekly basis. With the addition of SNX to yVaults, smaller SNX holders will be able to either allow their rewards to compound or claim them on a regular basis at very low gas costs. This inclusive model will likely draw small and large SNX holders alike, further increasing AUM and driving fee generation for YFI holders. While other tokens have polled higher, the strategy for SNX has already been developed and will be quicker to launch as a vault.
 
 ## Metadata
 
 | Name                | Value                                      |
-|---------------------|--------------------------------------------|
+| ------------------- | ------------------------------------------ |
 | Proposed by         | 0xCa845A71d1ff53E7DB7769Ae3f356AF53Fb43000 |
 | Total for votes     | 4207.0774 (90.40%)                         |
 | Total against votes | 446.7678 (9.59%)                           |

@@ -33,7 +33,7 @@ I will implement a simplistic contract that allows donors to reclaim, should the
 ## Metadata
 
 | Name                | Value                                      |
-|---------------------|--------------------------------------------|
+| ------------------- | ------------------------------------------ |
 | Proposed by         | 0x74630370197b4c4795bFEeF6645ee14F8cf8997D |
 | Total for votes     | 1644.3648 (93.59%)                         |
 | Total against votes | 112.4983 (6.40%)                           |

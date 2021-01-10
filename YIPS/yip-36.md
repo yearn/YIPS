@@ -37,7 +37,7 @@ All surplus rewards are directed to the governance pool.
 ## Metadata
 
 | Name                | Value                                      |
-|---------------------|--------------------------------------------|
+| ------------------- | ------------------------------------------ |
 | Proposed by         | 0x24394A4758DBdCf6fcbC14dc35af64Ac0D9a450A |
 | Total for votes     | 2002.4442 (94.51%)                         |
 | Total against votes | 116.1982 (5.48%)                           |

@@ -21,7 +21,7 @@ created: 2020-11-06
 
 ## Background
 
-The high level design of the next iteration of Yearn Vaults, v2, has been voted on and approved by YFI holders.[[1]](#References) It is currently in the later stages of the development cycle. Testing has begun, and security audits are in progress.
+The high level design of the next iteration of Yearn Vaults, v2, has been voted on and approved by YFI holders. It is currently in the later stages of the development cycle. Testing has begun, and security audits are in progress.
 
 With the new vaults likely being weeks away from launch, it is high time to finalize how fees will be collected in them.
 
@@ -29,9 +29,9 @@ With the new vaults likely being weeks away from launch, it is high time to fina
 
 There are currently active discussions underway in the community about many related topics, such as to what extent:
 
-- Rewards should be distributed to YFI stakers [[2]](#References)
-- Strategist creators should be rewarded for their contributions [[3]](#References)
-- Contributors should be allocated a portion of rewards for the purpose of long term incentivization [[4]](#References)
+- Rewards should be distributed to YFI stakers 
+- Strategist creators should be rewarded for their contributions
+- Contributors should be allocated a portion of rewards for the purpose of long term incentivization 
 
 Those questions are not answered by this proposal, and are not discussed further here. Specifically, anything that concerns what fees are spent on, how different stakeholders are compensated, or how the treasury should be run, is not covered by this proposal and is assumed to be unchanged.
 
@@ -71,7 +71,7 @@ Instead, the focus here is to determine _how fees are collected_, and _the total
 
 ### Comparing fees with v1
 
-The backtesting data produced in [[4]](#References) shows how the new fee model is delivering roughly the same amount of total fees, compared to the model used in Vaults v1:
+The backtesting data produced shows how the new fee model is delivering roughly the same amount of total fees, compared to the model used in Vaults v1:
 
 ![bar chart|1800x1200,30%](assets/yip-51/figure1.png)
 

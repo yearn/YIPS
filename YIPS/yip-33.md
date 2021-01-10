@@ -36,7 +36,7 @@ Chainlink also has one of the strongest communities in crypto and successful ini
 ## Metadata
 
 | Name                | Value                                      |
-|---------------------|--------------------------------------------|
+| ------------------- | ------------------------------------------ |
 | Proposed by         | 0x071243c8f33A3e7c15499a8E51fF852DbaF05854 |
 | Total for votes     | 3069.4359 (99.46%)                         |
 | Total against votes | 16.3954 (0.53%)                            |

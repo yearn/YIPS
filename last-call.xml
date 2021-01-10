@@ -1,0 +1,35 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yearn Finance YIPs - Last Call Review</title>
+    <description>All YIPs which are in the two-week "last call" status, please help review these and provide your feedback!</description>
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ site.url }}/last-call.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    {% assign YIPs = site.pages | sort: 'YIP' %}
+    {% for YIP in YIPs %}
+      {% if YIP.status == "Last Call" %}
+      {% capture description %}
+        <p><strong>YIP #{{ YIP.YIP }} - {{YIP.title }}</strong> is in Last Call status. It is authored by {{ YIP.author }} and was originally created {{ YIP.created }}. It is in the {{ YIP.category }} category of type {{ YIP.type }}. Please review and note any changes that should block acceptance.</p>
+        {% if YIP.discussions-to %}
+          <p>The author has requested that discussions happen at the following URL: {{ YIP.discussions-to }}</p>
+        {% else %}
+          <p>Please visit the [iearn-finance/YIPs issues to comment](https://github.com/iearn-finance/YIPs/issues/{{YIP.YIP}}).</p>
+        {% endif %}
+        <hr />
+        {{ YIP.content }}        
+      {% endcapture %}
+      <item>
+        <title>{{ YIP.title | xml_escape }}</title>
+        <description>{{ description | xml_escape }}</description>
+        <pubDate>{{ YIP.created | date_to_rfc822 }}</pubDate>
+        <link>{{ site.url }}/{{ YIP.url }}</link>
+        <guid isPermaLink="true">{{ site.url }}/{{ YIP.url }}</guid>
+      </item>
+      {% endif %}
+    {% endfor %}
+  </channel>
+</rss>

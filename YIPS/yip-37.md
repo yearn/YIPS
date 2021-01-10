@@ -9,26 +9,33 @@ created: 2020-08-17
 ---
 
 ## Summary
+
 Use early LP rewards to enable YFI holders to participate in Curve DAO governance and vote-lock them for 4 years to boost yVault CRV generation by up to 2.5x.
 
 ## Abstract
+
 All vested CRV tokens earned by StrategyYfii will be vote-locked to give YFI holders voting rights in Curve DAO and to boost the rewards earned by yCRV pool.
 
 ## Motivation
+
 yVault currently holds 609,688 CRV with 1 year linear vesting. Starting August 28th, 2020, we can leverage these rewards to increase CRV generation and greatly incentivize capital inflow into Yearn.
 
 ## Specification
 
 ### Overview
+
 Funnel all the vested CRV into 4 year vote lock and enable delegated voting with it with YFI.
 
 ### Rationale
+
 Forum poll snapshot:
+
 - 80% Participate in CRV governance and 2.5x boost
 - 12% Distribute to YFI treasury and holders
 - 8% Distribute to yVault LPs
 
 ### Technical Specification
+
 - Total early LP CRV rewards collected: 609688.7992009243
   - 0x8816B2Fb982281c36E6c535B9e56B7a4417e68cF = 1606.9780365084564
   - 0xBE197E668D13746BB92E675dEa2868FF14dA0b73 = 39433.37196717059
@@ -37,4 +44,5 @@ Forum poll snapshot:
 - Unlocked per day: 1670 CRV
 
 ## Copyright
+
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

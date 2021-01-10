@@ -8,17 +8,17 @@ discussions-to: https://gov.yearn.finance/t/proposal-add-new-statuses-to-yip-pro
 created: 2020-08-24
 ---
 
-
 ## Simple Summary
+
 <!--"If you can't explain it simply, you don't understand it well enough." Simply describe the outcome the proposed changes intends to achieve. This should be non-technical and accessible to a casual community member.-->
 
 Add new `status`(s) to `YIPs` so that author(s) may better manage their `YIPs` in the context of community collaboration and so that governance is given the proper procedures to foster community cooperation.
 
 ## Abstract
+
 <!--A short (~200 word) description of the proposed change, the abstract should clearly describe the proposed change. This is what *will* be done if the YIP is implemented, not *why* it should be done or *how* it will be done. If the YIP proposes deploying a new contract, write, "we propose to deploy a new contract that will do x".-->
 
-
-This will *only* add to the current state of `proposal YIPs` in that it only changes the _potential_ `statuses` available of a `YIP`. It does not add any `protocol` changes: only documentation and governance procedures (off chain only).
+This will _only_ add to the current state of `proposal YIPs` in that it only changes the _potential_ `statuses` available of a `YIP`. It does not add any `protocol` changes: only documentation and governance procedures (off chain only).
 
 I proposal the following changes to reflect a new state of possible 'YIPs':
 
@@ -26,18 +26,19 @@ I proposal the following changes to reflect a new state of possible 'YIPs':
 2. Modifying YIP Validator Gemfile
 3. Modifying YIP README file
 
-
 ## Motivation
+
 <!--This is the problem statement. This is the *why* of the YIP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the YIP proposes changing how something is calculated, you must address *why* the current calculation is inaccurate or wrong. This is not the place to describe how the YIP will address the issue!-->
+
 > The current state of procedures for `YIPS` is inadequate as it unnecessarily limits the possible outcomes of a proposed `YIP` while not affording both the author(s) nor the governance council flexibility in being able to deal with community driven `YIPs`
 
-This is a *documentation* and *procedure* change. In fact there is no explicit description for proposing such changes in governance *(that I could find).*
+This is a _documentation_ and _procedure_ change. In fact there is no explicit description for proposing such changes in governance _(that I could find)._
 
-This change is needed as it better explains the *intent* of the YIP format to author(s). It also provides for governance additional functionality in their procedures so as to not potentially 'alienate' author(s) by rejecting a YIP when it could have been withdrawn. This ensures that also the author(s) are active in the process of their submitted proposal and in the larger community (in so far as they are knowledgable about other potentially competing YIPS.)
+This change is needed as it better explains the _intent_ of the YIP format to author(s). It also provides for governance additional functionality in their procedures so as to not potentially 'alienate' author(s) by rejecting a YIP when it could have been withdrawn. This ensures that also the author(s) are active in the process of their submitted proposal and in the larger community (in so far as they are knowledgable about other potentially competing YIPS.)
 
 ## Specification
 
-*Additions in 'BOLD'*
+_Additions in 'BOLD'_
 
 Proposed - a YIP that is ready to be reviewed in a governance call.
 Approved - a YIP that has been accepted for implementation by the yEarn community.
@@ -49,8 +50,8 @@ Rejected - a YIP that has been rejected.
 
 The "Withdrawn" status is similar - it means that the YIP author has decided that the YIP is actually a 'bad' idea, or has accepted that a competing proposal is a better alternative.
 
-
 ### Workflow Specification
+
 ```
 Proposed -> Approved -> Implemented
   ^                     |
@@ -61,8 +62,7 @@ Proposed -> Approved -> Implemented
 Deferred
 ```
 
-
-#### New Statuses for YIPs 
+#### New Statuses for YIPs
 
 > To be added are the following
 
@@ -70,32 +70,34 @@ Deferred
 - Moribund
 - Deferred
 
-
 ### Overview
+
 <!--This is a high level overview of *how* the YIP will solve the problem. The overview should clearly describe how the new feature will be implemented.-->
 
 #### New YIP statuses
-- Withdrawn
-Means that the YIP author has decided that the YIP is actually a bad idea, or has accepted that a competing proposal is a better alternative.
-- Moribund
-Obsolete and requires no explicit replacement, it SHOULD be marked "Moribund"
-- Deferred
-Governance placed status upon a YIP that means that they would like to know more information, or that they would like to see if the author(s) can work with another proposed YIP and combine it into a single YIP, etc.
 
+- Withdrawn
+  Means that the YIP author has decided that the YIP is actually a bad idea, or has accepted that a competing proposal is a better alternative.
+- Moribund
+  Obsolete and requires no explicit replacement, it SHOULD be marked "Moribund"
+- Deferred
+  Governance placed status upon a YIP that means that they would like to know more information, or that they would like to see if the author(s) can work with another proposed YIP and combine it into a single YIP, etc.
 
 ### Rationale
 
-The reasoning behind this is that it is unclear what will happen to a YIP should material facts change during its initial formal proposal and when its actually voted on by governance. Changes may be introduced between then, and the author may want to withdraw the proposal. This also frees up the governance council in that they are no longer obligated to reject every single YIP that may no longer be relevant, instead sharing the responsibility with the actual author(s). 
+The reasoning behind this is that it is unclear what will happen to a YIP should material facts change during its initial formal proposal and when its actually voted on by governance. Changes may be introduced between then, and the author may want to withdraw the proposal. This also frees up the governance council in that they are no longer obligated to reject every single YIP that may no longer be relevant, instead sharing the responsibility with the actual author(s).
 
 ### Technical Specification
+
 <!--
-NOTE: NO PROTOCOL CHANGES ARE PROPOSED 
+NOTE: NO PROTOCOL CHANGES ARE PROPOSED
 THE ONLY TECHNICAL CHANGES ARE IN THE RUBY VALIDATION PROCESS FOR YIPS
 -->
+
 Technical implementation involves:
 
-* changes in the validation Gemfile 
-* changes in the template `.md` file
+- changes in the validation Gemfile
+- changes in the template `.md` file
 
 #### Changes in Template `.md` file
 
@@ -125,11 +127,12 @@ Discussions-to: <Create a new thread on https://gov.yearn.finance/ and drop the 
 #### YIP Validator (Ruby Gem)
 
 > current version: `1.0.2`, should be bumped to `1.1.0`
-Changes located [github.com/iearn-finance/yip_validator/blob/master/lib/yip_validator/validator.rb#L25](https://github.com/iearn-finance/yip_validator/blob/master/lib/yip_validator/validator.rb#L25)
+> Changes located [github.com/iearn-finance/yip_validator/blob/master/lib/yip_validator/validator.rb#L25](https://github.com/iearn-finance/yip_validator/blob/master/lib/yip_validator/validator.rb#L25)
 
 ```ruby
     validates_inclusion_of :status, in: ['WIP', 'Proposed', 'Approved', 'Implemented', 'Rejected']
 ```
+
 ```ruby
     validates_inclusion_of :status, in: ['WIP', 'Proposed', 'Approved', 'Implemented', 'Rejected', 'Withdrawn', 'Deferred', 'Moribund']
 ```
@@ -149,4 +152,5 @@ spec/fixtures/invalid/yip-7.md is NOT valid:	 {:status=>["is not included in the
 ```
 
 ## Copyright
+
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
