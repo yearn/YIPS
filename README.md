@@ -1,6 +1,11 @@
 # YIPs ![Validate](https://github.com/iearn-finance/YIPS/workflows/Validate/badge.svg) [![Discord](https://img.shields.io/discord/734804446353031319.svg?color=768AD4&label=discord&logo=https%3A%2F%2Fdiscordapp.com%2Fassets%2F8c9701b98ad4372b58f13fd9f65f966e.svg)](https://discordapp.com/channels/734804446353031319/) [![Telegram](https://img.shields.io/badge/chat-on%20Telegram-blue.svg)](https://t.me/yearnfinance) [![Twitter Follow](https://img.shields.io/twitter/follow/iearnfinance.svg?label=iearnfinance&style=social)](https://twitter.com/iearnfinance)
 
 Yearn Improvement Proposals (YIPs) describe standards for the Yearn platform, including core protocol specifications, client APIs, and contract standards.
+<<<<<<< HEAD
+=======
+
+![Validate](https://github.com/sambacha/YIPS/workflows/Validate/badge.svg)
+>>>>>>> b0f0c71bce0d26b4f337772f46cea3d5ebff68af
 
 ## Contributing
 
