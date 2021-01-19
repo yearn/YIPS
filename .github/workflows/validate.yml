@@ -2,36 +2,35 @@ name: Validate
 
 on:
   push:
-    branches: [ 'master' ]
+    branches: ["master"]
   pull_request:
-    branches: [ '*' ]
+    branches: ["*"]
 
 jobs:
   Validate:
     runs-on: ubuntu-latest
     steps:
-     - uses: actions/checkout@v2
-     - uses: ruby/setup-ruby@v1
-       with:
-        ruby-version: 2.6 # Not needed with a .ruby-version file
-        bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-        
-     - name: Install dependencies
-       run: |
+      - uses: actions/checkout@v2
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6 # Not needed with a .ruby-version file
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
+
+      - name: Install dependencies
+        run: |
           bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
-     - name: Doctor
-       run: bundle exec jekyll doctor
+      - name: Doctor
+        run: bundle exec jekyll doctor
 
-     - name: Build
-       run: bundle exec jekyll build
+      - name: Build
+        run: bundle exec jekyll build
 
-     - name: Run HTMLProofer
-       run: bundle exec htmlproofer ./_site --internal-domains=yips.yearn.finance --check-html --check-opengraph --report-missing-names --log-level=:debug --assume-extension --empty-alt-ignore --timeframe=6w --url-ignore=/YIPS/yip-0 --disable-external
+      - name: Run HTMLProofer
+        run: bundle exec htmlproofer ./_site --internal-domains=yips.yearn.finance --check-html --check-opengraph --report-missing-names --log-level=:debug --assume-extension --empty-alt-ignore --timeframe=6w --url-ignore=/YIPS/yip-0 --disable-external
 
-     - name: Run GH pages healthcheck
-       run: bundle exec github-pages health-check
+      - name: Run GH pages healthcheck
+        run: bundle exec github-pages health-check
 
-     - name: Run YIP validator
-       run: bundle exec yip_validator $(ls YIPS/*.md | egrep "yip-[0-9]+.md")
-
+      - name: Run YIP validator
+        run: bundle exec yip_validator $(ls YIPS/*.md | egrep "yip-[0-9]+.md")

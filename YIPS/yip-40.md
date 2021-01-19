@@ -18,7 +18,7 @@ Currently executing a multisig transaction can often take up to 24 hours. With A
 
 ## Motivation
 
-yEarn needs a multisig which will quickly implement the decisions made, while not violating the security of the funds under the wallet's control.
+Yearn needs a multisig which will quickly implement the decisions made, while not violating the security of the funds under the wallet's control.
 
 ## Specification
 

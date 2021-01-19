@@ -29,9 +29,9 @@ With the new vaults likely being weeks away from launch, it is high time to fina
 
 There are currently active discussions underway in the community about many related topics, such as to what extent:
 
-- Rewards should be distributed to YFI stakers 
+- Rewards should be distributed to YFI stakers
 - Strategist creators should be rewarded for their contributions
-- Contributors should be allocated a portion of rewards for the purpose of long term incentivization 
+- Contributors should be allocated a portion of rewards for the purpose of long term incentivization
 
 Those questions are not answered by this proposal, and are not discussed further here. Specifically, anything that concerns what fees are spent on, how different stakeholders are compensated, or how the treasury should be run, is not covered by this proposal and is assumed to be unchanged.
 

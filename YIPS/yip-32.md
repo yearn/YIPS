@@ -13,7 +13,7 @@ Remove YFI burning from the protocol.
 
 ## Abstract
 
-YFI represents a claim on yEarn protocol fees. To claim fees, YFI can either be burned or staked in the governance pool.
+YFI represents a claim on Yearn protocol fees. To claim fees, YFI can either be burned or staked in the governance pool.
 
 This YIP is to decide whether or not to keep the burning mechanism.
 
