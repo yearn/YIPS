@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 description: >-
-  yEarn Improvement Proposals (YIPs) describe standards for the yEarn
+  Yearn Improvement Proposals (YIPs) describe standards for the Yearn
   platform, including core protocol specifications, client APIs, and contract
   standards.
 url: "https://yips.yearn.finance"

@@ -41,7 +41,7 @@ This change is needed as it better explains the _intent_ of the YIP format to au
 _Additions in 'BOLD'_
 
 Proposed - a YIP that is ready to be reviewed in a governance call.
-Approved - a YIP that has been accepted for implementation by the yEarn community.
+Approved - a YIP that has been accepted for implementation by the Yearn community.
 Implemented - a YIP that has been released to mainnet.
 Rejected - a YIP that has been rejected.
 **Withdrawn - a YIP that has been withdrawn by the author(s).**
