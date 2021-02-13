@@ -13,12 +13,12 @@ created: 2020-07-19
 
 **AGAINST**: Rewards will be claimed via a staking model instead.
 
-*NOTE: This was proposal 1 on-chain.*
+_NOTE: This was proposal 1 on-chain._
 
 ## Metadata
 
 | Name                | Value                                      |
-|---------------------|--------------------------------------------|
+| ------------------- | ------------------------------------------ |
 | Proposed by         | 0x473afAb58B2C5D4DbC5FAD5D236f6658AD84E83b |
 | Total for votes     | 502445.8576 (11.27%)                       |
 | Total against votes | 3953417.1244 (88.72%)                      |
@@ -29,4 +29,5 @@ created: 2020-07-19
 Source: [yieldfarming.info YFI Governance Information](https://yieldfarming.info/yearn/vote/)
 
 ## Copyright
+
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

@@ -13,12 +13,12 @@ created: 2020-07-19
 
 **AGAINST**: No more YFI tokens will be distributed. Global supply is locked at 30000 YFI permanently.
 
-*NOTE: This was proposal 0 on-chain.*
+_NOTE: This was proposal 0 on-chain._
 
 ## Metadata
 
 | Name                | Value                                      |
-|---------------------|--------------------------------------------|
+| ------------------- | ------------------------------------------ |
 | Proposed by         | 0x473afAb58B2C5D4DbC5FAD5D236f6658AD84E83b |
 | Total for votes     | 7734007.4689 (61.02%)                      |
 | Total against votes | 4939315.7347 (38.97%)                      |
@@ -29,4 +29,5 @@ created: 2020-07-19
 Source: [yieldfarming.info YFI Governance Information](https://yieldfarming.info/yearn/vote/)
 
 ## Copyright
+
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

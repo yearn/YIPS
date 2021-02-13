@@ -21,7 +21,7 @@ created: 2020-11-09
 
 #### Yearn as an aggregator
 
-Yearn is often referred to as a "Yield aggregator", in the context of Ben Thompson's Aggregation Theory[[1]](#References).
+Yearn is often referred to as a "Yield aggregator", in the context of Ben Thompson's Aggregation Theory[[1]](#1).
 
 ![Aggregation Theory|1816x780, 30%](assets/yip-52/figure1.jpg)
 
@@ -42,7 +42,7 @@ When Snap filed to go public, they wrote in their S-1 filing:
 
 > In a world where anyone can distribute products instantly and provide them for free, the best way to compete is by innovating to create the most engaging products. That’s because it’s difficult to use distribution or cost as a competitive advantage—new software is available to users immediately, and for free. We believe this means that our industry favors companies that innovate, because people will use their products.
 
-This triggered the same Ben Thompson to quip that Snap was pursuing a Gingerbread Man strategy[[2]](#References):
+This triggered the same Ben Thompson to quip that Snap was pursuing a Gingerbread Man strategy[[2]](#2):
 
 > Run, run, run as fast as you can.
 > You’ll never catch me, I’m the gingerbread man.
@@ -65,14 +65,14 @@ In order for Yearn to remain competitive over the long term, the best and the br
 
 ### How are strategists rewarded today?
 
-The next version of Yearn vaults will launch with a two-pronged fee structure[[3]](#References):
+The next version of Yearn vaults will launch with a two-pronged fee structure[[3]](#3):
 
 1.  A 2% management fee levied on AUM that goes to the Treasury;
 2.  A 20% performance fee levied on returns from the vault, which is split as follows:
     - 19.5% to the Treasury
     - **0.5% to the Strategy creator**
 
-Strategists are expected to cover their own development, testing, gas, and monitoring costs. Under the current allocation, Strategists are not breaking even at times.[[4]](#References)
+Strategists are expected to cover their own development, testing, gas, and monitoring costs. Under the current allocation, Strategists are not breaking even at times.[[4]](#4)
 
 ## Motivation
 
@@ -89,11 +89,11 @@ Strategists are expected to cover their own development, testing, gas, and monit
 
 ### Future possibilities
 
-**Tiered fee system.** As the Strategy creation space matures, there could be justification to distinguish between different qualities of strategies, creating a tiered system that rewards a different share of the performance fee based on the novelty and the sophistication of the strategy, as proposed in [[5]](#References). At this stage, it's recommended to keep a simple structure that is easy to reason about and for Strategists to understand the appeal of. This should be revisited in the future when needed.
+**Tiered fee system.** As the Strategy creation space matures, there could be justification to distinguish between different qualities of strategies, creating a tiered system that rewards a different share of the performance fee based on the novelty and the sophistication of the strategy, as proposed in [[5]](#5). At this stage, it's recommended to keep a simple structure that is easy to reason about and for Strategists to understand the appeal of. This should be revisited in the future when needed.
 
 ### Comparing allocations
 
-Drawing from the backtesting data produced in [[6]](#References), below is the Vaults V2 fee model applied to the yUSD vault, showing the difference in earnings between Strategists and Yearn treasury between allocation models.
+Drawing from the backtesting data produced in [[6]](#6), below is the Vaults V2 fee model applied to the yUSD vault, showing the difference in earnings between Strategists and Yearn treasury between allocation models.
 
 #### Previous allocation
 
@@ -139,12 +139,12 @@ _Source: [Snapshot](https://snapshot.page/#/yearn/proposal/QmbAq6jPB6ocrihjkDo5T
 
 ## References
 
-1. https://stratechery.com/concept/aggregation-theory/
-2. https://stratechery.com/2017/snaps-apple-strategy/
-3. https://snapshot.page/#/yearn/proposal/QmSaYHR97LDMDvg9xeTfdNZw6aqL9njxBKM6JVFtCYxKvB
-4. https://gov.yearn.finance/t/proposal-increase-strategist-rewards/7299/8
-5. https://gov.yearn.finance/t/proposal-increase-strategist-rewards/7299/10
-6. https://gov.yearn.finance/t/restructure-fees-and-align-incentives/
+<a id="1">1. https://stratechery.com/concept/aggregation-theory/</a>
+<a id="2">2. https://stratechery.com/2017/snaps-apple-strategy/</a>
+<a id="3">3. https://snapshot.page/#/yearn/proposal/QmSaYHR97LDMDvg9xeTfdNZw6aqL9njxBKM6JVFtCYxKvB</a>
+<a id="4">4. https://gov.yearn.finance/t/proposal-increase-strategist-rewards/7299/8</a>
+<a id="5">5. https://gov.yearn.finance/t/proposal-increase-strategist-rewards/7299/10</a>
+<a id="6">6. https://gov.yearn.finance/t/restructure-fees-and-align-incentives/</a>
 
 ## Copyright
 
