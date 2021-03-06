@@ -173,7 +173,7 @@ The YIP document was derived heavily from the SIP Synthetix Improvement Proposal
 
 [the unofficial yearn discord]: https://discord.com/invite/3AGgWxy
 [the unofficial yearn telegram]: https://t.me/yearnfinance
-[pull request]: https://github.com/iearn-finance/YIPS/pulls
+[pull request]: https://github.com/yearn/YIPS/pulls
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## Copyright
