@@ -18,7 +18,7 @@ description: >-
   platform, including core protocol specifications, client APIs, and contract
   standards.
 url: "https://yips.yearn.finance"
-repository: iearn-finance/YIPS
+repository: yearn/YIPS
 twitter_username: iearnfinance
 github_username: iearn-finance
 header_pages:
