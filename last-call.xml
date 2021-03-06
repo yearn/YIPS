@@ -17,7 +17,7 @@ layout: null
         {% if YIP.discussions-to %}
           <p>The author has requested that discussions happen at the following URL: {{ YIP.discussions-to }}</p>
         {% else %}
-          <p>Please visit the [iearn-finance/YIPs issues to comment](https://github.com/iearn-finance/YIPs/issues/{{YIP.YIP}}).</p>
+          <p>Please visit the [iearn-finance/YIPs issues to comment](https://github.com/yearn/YIPs/issues/{{YIP.YIP}}).</p>
         {% endif %}
         <hr />
         {{ YIP.content }}        
