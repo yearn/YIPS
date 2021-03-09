@@ -156,7 +156,7 @@ _Source: [Snapshot](https://snapshot.page/#/yearn/proposal/QmW2ZPfGrcNxVLvT2jm9f
 <a id="5">5. Dataset available on request</a>
 <a id="6">6. https://snapshot.page/#/yearn/proposal/QmSaYHR97LDMDvg9xeTfdNZw6aqL9njxBKM6JVFtCYxKvB</a>
 <a id="7">7. https://snapshot.page/#/yearn/proposal/QmbAq6jPB6ocrihjkDo5TLNF4D4w9dw1HsEsJ7vwdwd9g3</a>
-<a id="8">8. https://github.com/iearn-finance/ychad-audit/tree/master/reports/financial</a>
+<a id="8">8. https://github.com/yearn/ychad-audit/tree/master/reports/financial</a>
 
 ## Copyright
 

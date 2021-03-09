@@ -4,5 +4,5 @@ contact_links:
     url: https://gov.yearn.finance/
     about: Please ask and answer questions here.
   - name: Yearn Finance Security & Bug Bounty
-    url: https://github.com/iearn-finance/yearn-security
+    url: https://github.com/yearn/yearn-security
     about: Please report security vulnerabilities here.
