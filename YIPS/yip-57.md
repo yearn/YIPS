@@ -114,8 +114,7 @@ There have been a number of previous proposals relating to the YFI supply.[[5]](
 
 ## Specification
 
-1\. Mint 6666 YFI
------------------
+## 1\. Mint 6666 YFI
 
 A proof of concept for minting has been produced [[11]](https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319#References). If accepted, Yearn Governance would need to do these things:
 
@@ -125,8 +124,7 @@ A proof of concept for minting has been produced [[11]](https://gov.yearn.finan
 4.  Call `TimelockGovernance.updateTargetGovernance()`
 5.  Call `YearnPact.brrr()`, which will mint and then revert the YFI token governance back to `TimelockGovernance` immediately thereafter.
 
-2\. Allocate ~1/3rd to vested retention packages
-------------------------------------------------
+## 2\. Allocate ~1/3rd to vested retention packages
 
 -   Out of the 6,666 minted YFI, allocate roughly 1/3rd (5% margin on either side) to retention packages in order to provide the sufficient face melt required for effective contributor stickiness.
 -   All YFI allocated to retention packages will be subject to vesting.
@@ -142,8 +140,7 @@ A proof of concept for minting has been produced [[11]](https://gov.yearn.finan
 -   After review, the Multi-sig approves the Compensation plan, or requests changes.
 -   Separately, the working group is also tasked with formalizing the qualification process and retention packages for future contributors. Funding for this comes from the portion allocated to Treasury (see below).
 
-3\. Allocate ~2/3rds to Treasury
---------------------------------
+## 3\. Allocate ~2/3rds to Treasury
 
 -   Allocate the remainder of the minted YFI, i.e. roughly 2/3rds (5% margin on either side) to Treasury.
 -   This allocation flows into the Operations Fund established by YIP-54 [[12]](https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319#References) and can be spent accordingly, which includes through ad-hoc Governance proposals brought forward as YIPs.
@@ -158,8 +155,7 @@ A proof of concept for minting has been produced [[11]](https://gov.yearn.finan
 
 _Source: [Snapshot](https://snapshot.org/#/yearn/proposal/QmX8oYTSkaXSARYZn7RuQzUufW9bVVQtwJ3zxurWrquS9a)_
 
-References
-==========
+## References
 
 1.  <https://gov.yearn.finance/t/token-allocations-at-peer-projects>
 2.  [Keeping Yearn Great - Funds, Incentives & Rewards - #19 by aleks-blockchaincap 14](https://gov.yearn.finance/t/keeping-yearn-great-funds-incentives-rewards/9167/19)
