@@ -46,7 +46,7 @@ The six-month Multisig empowerment period was extended for three-months via YIP-
 
 We present here the first phase of a progressive decentralization and improvement to yearn's governance. This proposal seeks to update the decision-making structures within yearn, not their software implementation. It is our intent to offer implementation proposals in the future once this model is validated and the appropriate technologies become available for use.
 
-[![Gov 2.0 v1](https://aws1.discourse-cdn.com/business20/uploads/yearn/optimized/2X/5/5fb6aca781b30b7496911d36c4f26ff20ed6253b_2_399x500.png)
+[![Gov 2.0 v1](/YIPS/assets/yip-61/figure1.png)
 
 Yearn is a network of independent doers united by a shared vision. Our bias is on action over bureaucracy. We move fast with great freedom and agency. This is our way. Towards this end, we have pioneered a method of governance we call 'constrained delegation' whereby YFI holders delegate their governance powers to autonomous groups like the Multisig and yTeams and thus empower them to be creative. Gov 2.0 takes that a step farther by making governance powers discrete and transferable objects under the direct control of YFI holders.
 
