@@ -172,3 +172,21 @@ References
 11. [GitHub - banteg/yfi-pact: our pact with the devil 8](https://github.com/banteg/yfi-pact)
 12. <https://gov.yearn.finance/t/yip-54-formalize-operations-funding/>
 13. [YIP-55: Formalize the YIP Process 18](https://gov.yearn.finance/t/yip-55-formalize-the-yip-process/7959)
+
+## Information
+
+| Name                | Value                                      |
+| ------------------- | ------------------------------------------ |
+| Strategie(s)        | erc20-balance-of, yearn-vault, delegation  |
+| Author              | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67 |
+| IPFS                | https://ipfs.fleek.co/ipfs/QmX8oYTSkaXSARYZn7RuQzUufW9bVVQtwJ3zxurWrquS9a|
+| Voting System       | Single choice voting                       |
+| Start date          | Jan 28, 2021, 12:00 PM                     |
+| End date            | Feb 2, 2021, 12:00 PM                      |
+
+## Results
+
+| Result              | Value                                      |
+|---------------------|--------------------------------------------|
+| Yes                 | 1.67k YFI (83.46%)                         |
+| No                  | 331.03 YFI (16.54%)                        |
