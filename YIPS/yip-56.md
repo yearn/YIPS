@@ -7,8 +7,6 @@ discussions-to: https://gov.yearn.finance/t/yip-56-buyback-and-build/8929/114
 created: 2021-01-16
 ---
 
-# BABY: Buyback and Build Yearn
-
 ## Authors
 @banteg, @lex_node, @lehnberg, @milkyklim, @RyanWatkins, @tracheopteryx
 

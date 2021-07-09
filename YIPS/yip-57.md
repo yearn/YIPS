@@ -7,8 +7,6 @@ discussions-to: https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319
 created: 2021-01-28
 ---
 
-# YIP-57: Funding Yearn’s Future
-
 ## Authors
 
 [@aleks-blockchaincap](https://gov.yearn.finance/u/aleks-blockchaincap), [@banteg](https://gov.yearn.finance/u/banteg), [@dudesahn](https://gov.yearn.finance/u/dudesahn), [@ekrenzke](https://gov.yearn.finance/u/ekrenzke) [@lehnberg](https://gov.yearn.finance/u/lehnberg), [@ryanwatkins](https://gov.yearn.finance/u/ryanwatkins), [@srs-parafi](https://gov.yearn.finance/u/srs-parafi), [@tracheopteryx](https://gov.yearn.finance/u/tracheopteryx), [@vooncer](https://gov.yearn.finance/u/vooncer), [@yfi-cent](https://gov.yearn.finance/u/yfi-cent), [@milkyklim](https://gov.yearn.finance/u/milkyklim)

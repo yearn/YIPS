@@ -7,8 +7,6 @@ discussions-to: https://gov.yearn.finance/t/yip-59-temporarily-extend-multisig-e
 created: 2021-02-18
 ---
 
-# YIP-59: Temporarily extend Multisig empowerment
-
 ## Author
 
 [@lehnberg](https://gov.yearn.finance/u/lehnberg)
