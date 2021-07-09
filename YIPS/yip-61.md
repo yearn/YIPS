@@ -219,6 +219,8 @@ This proposal provides a northstar for implementations of Gov 2.0 that can itera
 
 This proposal is the result of months of work across many teams and has benefited from the advice and feedback of dozens of brilliant people. You know who you are. Thank you. And a special shout out to the YFI Governance telegram group in particular for the regular and lively discussions.
 
+_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmSMyYeKrRpnA7Xn56o2NtbCUzxmhzCupL7LxMA1reXxq4)_
+
 ## References
 
 [1] [FAQ - yearn.finance 10](https://docs.yearn.finance/faq#what-is-the-multisig-and-what-do-they-do)\

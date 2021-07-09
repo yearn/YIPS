@@ -47,6 +47,8 @@ The rationale for this proposal is motivated by the following objectives:
 1.  Returns are used to boost the returns of the affected vault for the benefit of its current depositors. This is done by converting the returns into `want` tokens, and donating them to the vault in question, boosting the returns of each current tokenholder as a result.
 1.  Decisions on the details of the above steps are left to be taken by the Operations, Engineering, and Finance teams with the instruction to meet these instructions as best as possible. Decisions can be overruled as usual through the existing Multi-sig and Governance processes. Both groups should be kept up to date on airdrop claims as they progress.
 
+_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmNqAqRKMFcoRjaRYAKCVETij6sjJ4S1293kbpYDMVvcjB)_
+
 ## Information
 
 | Name                | Value                                      |

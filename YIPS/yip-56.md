@@ -99,6 +99,8 @@ This functionality is already supported and excludes protocols such as Aave whic
 
 - Jan 13: Clarified voting specification to explicitly state that YFI in the treasury cannot be used to vote. [DL]
 
+_Source: [Snapshot](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ)_
+
 ## References
 
 1. https://gov.yearn.finance/t/yip-54-formalize-operations-funding/

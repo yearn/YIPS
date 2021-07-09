@@ -45,6 +45,8 @@ To execute the transition we don't need to change the threshold, just execute 2 
 1.  Replace 0x6626593c237f530d15ae9980a95ef938ac15c35c (Tarun) with 0x757280Bd46fC5B1C8b85628E800c443525Afc09b (Ryan)
 2.  Replace 0x50B0C406a5C1fC492F84c3F3D4552391cF4672f2 (Substreight) with 0x7321ED86B0Eb914b789D6A4CcBDd3bB10f367153 (Leo)
 
+_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmddCbGYbkooZ1zp8oYnbBz6frXLRc9xbkapXcuZcdzmMF)_
+
 ## Information
 
 | Name                | Value                                      |

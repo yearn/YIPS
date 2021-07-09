@@ -42,6 +42,8 @@ Another alternative would be to let the Multisig mandate expire, and be replaced
 -   Any changes made by YIPs adopted after YIP-41 still apply.
 -   Further changes to the mandate can be made through Yearn's Governance process.
 
+_Source: [Snapshot](https://snapshot.org/#/yearn/proposal/QmdRCXH6BQpNcucoZqAtS5hQKjckE2428qiZoWjxmJXbs3)_
+
 ## References
 
 1. https://yips.yearn.finance/YIPS/yip-41

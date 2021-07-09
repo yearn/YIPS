@@ -156,6 +156,8 @@ A proof of concept for minting has been produced [[11]](https://gov.yearn.finan
 -   Jan 28: Clarified in the Specification that all YFI retention packages will be subject to vesting.
 -   Jan 28: Changed title to YIP-57 and added binding snapshot vote link.
 
+_Source: [Snapshot](https://snapshot.org/#/yearn/proposal/QmX8oYTSkaXSARYZn7RuQzUufW9bVVQtwJ3zxurWrquS9a)_
+
 References
 ==========
 
