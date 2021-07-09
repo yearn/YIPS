@@ -25,7 +25,7 @@ Although there are several informal standards governing the YIP introduction, vo
 
 In order to submit a potential YIP for voting a user must first create a thread for the proposal on the Yearn governance forum (https://gov.yearn.finance). Complete the auto-populated fields that appear when creating a proposal on the forum. A screenshot of these fields are below:
 
-![](https://i.imgur.com/mYrycLy.png)
+![](/YIPS/assets/yip-55/figure1.png)
 
 Additionally, the thread should include a poll from the governance forum to gauge interest from the wider governance community. After the thread has been on the governance forum for at least 3 days and has received over 25% “For” votes it can proceed to formal voting via Snapshot. This allows the community to suggest potential changes to the proposal before it moves to the formal voting phase on Snapshot. Please do not assign your proposal a YIP number; numbers will be assigned by moderators prior to a vote taking place.
 
