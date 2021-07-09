@@ -254,4 +254,4 @@ This proposal is the result of months of work across many teams and has benefite
 | Result              | Value                                      |
 |---------------------|--------------------------------------------|
 | Yes                 | 683.09 YFI (99.97%)                        |
-| No                  | 0.2 YFI YFI (0.03%)                        |
+| No                  | 0.2 YFI (0.03%)                        |
