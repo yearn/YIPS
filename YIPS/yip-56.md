@@ -2,7 +2,7 @@
 yip: 56
 title: BABY:\ Buyback and Build Yearn 
 status: Approved
-author: @banteg, @lex_node, @lehnberg, @milkyklim, @tracheopteryx, @RyanWatkins
+author: banteg (@banteg), lexnode (@lex-node), lehnberg (@lehnberg), milkyklim (@milkyklim), tracheopteryx (@tracheopteryx), RyanWatkins
 discussions-to: https://gov.yearn.finance/t/yip-56-buyback-and-build/8929/114
 created: 2021-01-16
 ---
