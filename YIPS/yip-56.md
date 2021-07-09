@@ -48,7 +48,7 @@ This proposal comes on the back of previously made proposals and YIPs:
 
 ### Rationale
 
-![](https://aws1.discourse-cdn.com/business20/uploads/yearn/original/2X/4/4db5e409e8067d4f3d86bdc36f420fac5cdd7106.png)
+![](/YIPS/assets/yip-56/figure1.png)
 
 *Figure 1. Staking rewards earned over time (USD).[[5]](https://gov.yearn.finance/t/yip-56-buyback-and-build/8929#References)*
 
