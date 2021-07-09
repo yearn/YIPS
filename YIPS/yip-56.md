@@ -118,7 +118,7 @@ _Source: [Snapshot](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcj
 
 | Name                | Value                                      |
 | ------------------- | ------------------------------------------ |
-| Strategie(s)        | 0xBa37B002AbaFDd8E89a1995dA52740bbC013D992, 0xBA2E7Fed597fd0E3e70f5130BcDbbFE06bB94fe1|
+| Strategie(s)        | erc20-balance-of, yearn-vault              |
 | Author              | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67 |
 | IPFS                | https://ipfs.fleek.co/ipfs/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ|
 | Voting System       | Single choice voting                       |
