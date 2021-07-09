@@ -51,7 +51,6 @@ We present here the first phase of a progressive decentralization and improvemen
 Yearn is a network of independent doers united by a shared vision. Our bias is on action over bureaucracy. We move fast with great freedom and agency. This is our way. Towards this end, we have pioneered a method of governance we call 'constrained delegation' whereby YFI holders delegate their governance powers to autonomous groups like the Multisig and yTeams and thus empower them to be creative. Gov 2.0 takes that a step farther by making governance powers discrete and transferable objects under the direct control of YFI holders.
 
 ### YFI Holders
-------------------------------------------------------------------------------------
 
 Gov 2.0 connects YFI holders to yearn's products and teams through a more direct, aligned, and transparent mechanism --- giving them direct control over who gets to make decisions. Rather than being asked to make specific, operational decisions, YFI holders will conduct how power flows within yearn, wielding granular and clear control over every aspect of what yearn does.
 
@@ -64,7 +63,6 @@ YFI holders will now be empowered to take three kinds of actions:
 | Yearn Signaling Proposal (YSP) | A non-binding proposal to signal community feelings or intent on any issue | A suggestion to change membership in a yTeam; A desire for a new kind of vault or product |
 
 ### yTeams
---------------------------------------------------------------------------
 
 yTeams are small, autonomous groups of yearn contributors empowered by YFI holders to act independently in the best interest of yearn within a constrained domain of action and with enumerated, discrete decision-making powers.
 
@@ -256,4 +254,4 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmSMyYeKrRpnA7Xn56
 | Result              | Value                                      |
 |---------------------|--------------------------------------------|
 | Yes                 | 683.09 YFI (99.97%)                        |
-| No                  | 0.2 YFI (0.03%)                        |
+| No                  | 0.2 YFI (0.03%)                            |
