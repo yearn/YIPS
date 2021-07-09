@@ -2,7 +2,7 @@
 yip: 55
 title: Formalize the YIP Process
 status: Approved
-author: Franklink (@franklin), Dudesahn (@dudesahn) 
+author: Franklin (@franklin), Dudesahn (@dudesahn) 
 discussions-to: https://gov.yearn.finance/t/yip-55-formalize-the-yip-process/7959/2
 created: 2020-11-12
 ---
@@ -57,27 +57,17 @@ Snapshot may still be used for informal signal voting, including community conte
 
 **Against**: Do not formalize the process. No changes made.
 
-## Voting
-
-A binding vote is now live on Snapshot and can be found here 24.
-
 ## Authors:
 
 @franklin @dudesahn
 
-## Metadata
-\\ Data needs to be recovered
+## Information 
 
-| Name                | Value                                      |
-| ------------------- | ------------------------------------------ |
-| Proposed by         |                    |
-| Total for votes     |                    |
-| Total against votes |                    |
-| Quorum              |                    |
-| Start block         |                    |
-| End block           |                    |
+<em>Unavailable</em>
 
-Source: []()
+## Results
+
+<em>Unavailable</em>
 
 ## Copyright
 
