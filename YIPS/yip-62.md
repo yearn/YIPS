@@ -34,7 +34,7 @@ Serving on the yearn multisig is hard work, we should rotate signers regularly a
 
 Big thanks to everyone on the multisig, this adjustment should not be seen as a critique in any way. We are all busy and appreciate all the work this group does.
 
-[![photo_2021-05-20 17.06.53](https://aws1.discourse-cdn.com/business20/uploads/yearn/optimized/2X/8/8a3ccf6bc91fbaf97d858d4805dff8fb7d33d84f_2_690x328.jpeg)
+[![photo_2021-05-20 17.06.53](/YIPS/assets/yip-62/figure1.png)
 
 *Analysis of multisig signer activity as of 26 April 2021*
 
