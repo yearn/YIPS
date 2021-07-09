@@ -64,7 +64,7 @@ This benefits YFI holders in particular by:
 
 > [The decision] comes down to the market for talent and the opportunity cost for YFI contributors. We looked at other successful DeFi projects to see what the market says top-tier talent is worth:
 >
-> [![](https://aws1.discourse-cdn.com/business20/uploads/yearn/optimized/2X/8/89eba70dade40032f422b719f59e7a6aa7318e87_2_690x391.png)
+> [![](/YIPS/assets/yip-57/figure1.png)
 >
 >
 > The UNI team has 21.3% of tokens (which includes tokens for future employees) and UNI holders collectively control a treasury with 43% of the supply. At current market prices of $9.2 (which reflects a fully diluted valuation of $9.2B), each bucket has several billion dollars worth of UNI -- team ~$2B and treasury ~$4B -- giving the Uniswap team significant fire power for hiring and enabling a lot of future growth spend from the treasury (both buckets are subject to 4-year vesting).
@@ -91,14 +91,14 @@ Buyback and Build Yearn (BABY)[[4]](https://gov.yearn.finance/t/yip-57-funding-y
 Below are two different BABY scenarios. One sensitizing aggregate yields on V2 vaults and their effect on YFI buybacks. The other sensitizing operating expenses and their effect on YFI buybacks. The other with 100% of net income.
 
 *Aggregate Yields Sensitivity*\
-![](https://aws1.discourse-cdn.com/business20/uploads/yearn/original/2X/d/d149d69defb3b49e408457051857a78ce1b12242.png)
+![](/YIPS/assets/yip-57/figure2.png)
 
-![](https://aws1.discourse-cdn.com/business20/uploads/yearn/original/2X/7/7c5ab77cc1dbfd2eebd1c8f3cfa3b791214a5501.png)
+![](/YIPS/assets/yip-57/figure3.png)
 
 *Operating Expenses Sensitivity*\
-![](https://aws1.discourse-cdn.com/business20/uploads/yearn/original/2X/f/f8d4da11b2a8c5101629c93c4002e33a2b64f59e.png)
+![](/YIPS/assets/yip-57/figure4.png)
 
-![](https://aws1.discourse-cdn.com/business20/uploads/yearn/original/2X/5/5f190f5e42701ce5f325a6dc875290dd4b1a275c.png)
+![](/YIPS/assets/yip-57/figure5.png)
 
 ## Previous Proposals
 
