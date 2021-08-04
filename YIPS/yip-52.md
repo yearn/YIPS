@@ -67,10 +67,10 @@ In order for Yearn to remain competitive over the long term, the best and the br
 
 The next version of Yearn vaults will launch with a two-pronged fee structure[[3]](#3):
 
-1.  A 2% management fee levied on AUM that goes to the Treasury;
-2.  A 20% performance fee levied on returns from the vault, which is split as follows:
-    - 19.5% to the Treasury
-    - **0.5% to the Strategy creator**
+1. A 2% management fee levied on AUM that goes to the Treasury;
+2. A 20% performance fee levied on returns from the vault, which is split as follows:
+   - 19.5% to the Treasury
+   - **0.5% to the Strategy creator**
 
 Strategists are expected to cover their own development, testing, gas, and monitoring costs. Under the current allocation, Strategists are not breaking even at times.[[4]](#4)
 

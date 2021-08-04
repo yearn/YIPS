@@ -25,16 +25,16 @@ Learn about our voting rules in YIP-55[[3]](https://gov.yearn.finance/t/yip-61-g
 
 if adopted, this proposal seeks to:
 
--   ratify continued delegation by YFI holders to the Multisig of certain powers first approved in YIP-41 (Temporarily Empower Multisig), together with certain modifications and clarifications to the nature and scope of such powers as set forth below;
--   delegate certain powers to a set of yearn contributor teams that have emerged organically from the community ('yTeams'), as appropriate for each yTeam based on its objective ('yGuard,' 'yBrain,' 'yDev,' 'yPeople,' 'yBudget,' 'yFarm,' 'yTx,' and 'yOps');
--   update and clarify YFI holders' role in governance and the types of proposals available.
+- ratify continued delegation by YFI holders to the Multisig of certain powers first approved in YIP-41 (Temporarily Empower Multisig), together with certain modifications and clarifications to the nature and scope of such powers as set forth below;
+- delegate certain powers to a set of yearn contributor teams that have emerged organically from the community ('yTeams'), as appropriate for each yTeam based on its objective ('yGuard,' 'yBrain,' 'yDev,' 'yPeople,' 'yBudget,' 'yFarm,' 'yTx,' and 'yOps');
+- update and clarify YFI holders' role in governance and the types of proposals available.
 
 ## Motivation
 
 In August 2020, YIP-41 (Temporarily Empower Multisig) was approved by YFI holders to:
 
--   temporarily empower yearn Multisig members "to make personnel & budgetary decisions" for a six-month period; and
--   task the Multisig with "facilitating the creation and transition to a multi-DAO structure".
+- temporarily empower yearn Multisig members "to make personnel & budgetary decisions" for a six-month period; and
+- task the Multisig with "facilitating the creation and transition to a multi-DAO structure".
 
 Since YIP-41 was approved, the Multisig has fostered a 'multi-DAO structure' by encouraging the development of autonomous 'yTeams' consisting of volunteer and paid specialist contributors.
 
@@ -56,11 +56,11 @@ Gov 2.0 connects YFI holders to yearn's products and teams through a more direct
 
 YFI holders will now be empowered to take three kinds of actions:
 
-| Proposal | Description | Hypothetical Examples |
-| --- | --- | --- |
-| Yearn Improvement Proposal (YIP) | A proposal to execute on any power delegated to YFI holders or outside the scope of enumerated powers | Ratify a new yTeam and assign it power; Burn the YFI minting keys; Do anything outside the scope of proscribed powers, like change yearn's name; remove a yOps signer; mint a new power |
-| Yearn Delegation Proposal (YDP) | A proposal to change where any discrete decision-making power is delegated | Move the 'Pay Team' power from yPeople to a new yTeam; undelegate the 'Set Budgets' power from underperforming yBudget team and delegate to YFI holders until a new solution can be found |
-| Yearn Signaling Proposal (YSP) | A non-binding proposal to signal community feelings or intent on any issue | A suggestion to change membership in a yTeam; A desire for a new kind of vault or product |
+| Proposal                         | Description                                                                                           | Hypothetical Examples                                                                                                                                                                     |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Yearn Improvement Proposal (YIP) | A proposal to execute on any power delegated to YFI holders or outside the scope of enumerated powers | Ratify a new yTeam and assign it power; Burn the YFI minting keys; Do anything outside the scope of proscribed powers, like change yearn's name; remove a yOps signer; mint a new power   |
+| Yearn Delegation Proposal (YDP)  | A proposal to change where any discrete decision-making power is delegated                            | Move the 'Pay Team' power from yPeople to a new yTeam; undelegate the 'Set Budgets' power from underperforming yBudget team and delegate to YFI holders until a new solution can be found |
+| Yearn Signaling Proposal (YSP)   | A non-binding proposal to signal community feelings or intent on any issue                            | A suggestion to change membership in a yTeam; A desire for a new kind of vault or product                                                                                                 |
 
 ### yTeams
 
@@ -72,16 +72,16 @@ It is important to note that yTeams are not the only teams that can work on the 
 
 See below under "Constrained Delegation" for additional thinking on the governance philosophy underlying yTeams.
 
-| yTeam | Objective | Membership Pool |
-| --- | --- | --- |
-| yGuard | Protect the vaults | YFI Protocol Dev, YFI Strategists, YFI Mechanics, YFI Secret Admirers |
-| yBrain | Manage the strats | YFI Strategists |
-| yDev | Manage the protocol | YFI Protocol Dev |
-| yPeople | Curate the team | YFI Compensation Working Group, YFI Advisors |
-| yBudget | Spend money well | YFI Finances, YFI Advisors |
-| yFarm | Grow the treasury | YFI Secret Admirers, YFI Secret Entrance |
-| yTx | Write transactions | YFI Doers |
-| yOps | Coordinate contributors | YFI Ops (initial signers: [@banteg](https://gov.yearn.finance/u/banteg), [@lehnberg](https://gov.yearn.finance/u/lehnberg), [@milkyklim](https://gov.yearn.finance/u/milkyklim), [@tracheopteryx](https://gov.yearn.finance/u/tracheopteryx)) |
+| yTeam   | Objective               | Membership Pool                                                                                                                                                                                                                               |
+| ------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| yGuard  | Protect the vaults      | YFI Protocol Dev, YFI Strategists, YFI Mechanics, YFI Secret Admirers                                                                                                                                                                         |
+| yBrain  | Manage the strats       | YFI Strategists                                                                                                                                                                                                                               |
+| yDev    | Manage the protocol     | YFI Protocol Dev                                                                                                                                                                                                                              |
+| yPeople | Curate the team         | YFI Compensation Working Group, YFI Advisors                                                                                                                                                                                                  |
+| yBudget | Spend money well        | YFI Finances, YFI Advisors                                                                                                                                                                                                                    |
+| yFarm   | Grow the treasury       | YFI Secret Admirers, YFI Secret Entrance                                                                                                                                                                                                      |
+| yTx     | Write transactions      | YFI Doers                                                                                                                                                                                                                                     |
+| yOps    | Coordinate contributors | YFI Ops (initial signers: [@banteg](https://gov.yearn.finance/u/banteg), [@lehnberg](https://gov.yearn.finance/u/lehnberg), [@milkyklim](https://gov.yearn.finance/u/milkyklim), [@tracheopteryx](https://gov.yearn.finance/u/tracheopteryx)) |
 
 ### The Multisig
 
@@ -89,29 +89,29 @@ In effect, the Multisig is a special yTeam ('yChad') utilizing a Gnosis Safe mul
 
 ## Decision-Making Powers
 
-| Power | Delegation | Description |
-| --- | --- | --- |
-| Manage Powers | YFI Holders | YFI holders can vote to create, assign, or revoke discrete powers to or from yTeams. |
-| Change YFI Token Contract | YFI Holders | Any interaction with the YFI token contract, such as to mint YFI or burn the minting keys, remains under the control of YFI holders. |
-| Set Fees | YFI Holders | Set the standard fee structures in the Yearn Protocol |
-| Change Multisig Signers | YFI Holders | As the Multisig will continue to hold critical powers over the near term, only YFI holders can vote to change its signers |
-| Ratify yTeams | YFI Holders | Formally ratify or deratify yTeams to control which yTeams can hold delegated powers |
-| Change yOps Signers | YFI Holders | As yOps has the power to change signers of other yTeams, this is a special power to change the signers of yOps |
-| Spend Treasury Funds | YFI Holders | Spend funds from the treasury |
-| YIP Power | YFI Holders | YFI Holders have the power to propose a YIP on anything not already delegated |
-| Execution Power | Multisig | The power to execute decisions made by YFI holders and yTeams on-chain |
-| Veto Power | Multisig | This power allows the Multisig to veto any decision and ideally should not be needed |
-| Transitionary Power | Multisig | A temporary power enabling the Multisig to operate under the mandate of YIP-41 until the set of decision-making powers covers all needed transactions |
-| Emergency Powers | yGuard | Immediately intervene in case of attack or bug to shutdown or rollback strategies or vaults |
-| Manage Strategies | yBrain | Activate, deactivate, tune, and maintain strategies |
-| Define Yearn Protocol | yDev | Decide what code is considered part of yearn and what isn't |
-| Manage Protocol | yDev | Maintain and improve the Yearn Protocol |
-| Add Strategies | yDev | Add new strategies to vaults |
-| Delegate Transactions | yTx | Create delegated transactions for the multisig to sign and execute |
-| Pay Team | yPeople | Create, deploy, modify, or terminate Yearn compensation packages |
-| Set Budgets | yBudget | Create budgets for coordinape, grants, hiring, operations, or other workstreams |
-| Farm Treasury | yFarm | Farm with the treasury and make decisions on airdrops |
-| Ratify yTeam Signers | yOps | Formally approve or remove signers for each yTeam |
+| Power                     | Delegation  | Description                                                                                                                                           |
+| ------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Manage Powers             | YFI Holders | YFI holders can vote to create, assign, or revoke discrete powers to or from yTeams.                                                                  |
+| Change YFI Token Contract | YFI Holders | Any interaction with the YFI token contract, such as to mint YFI or burn the minting keys, remains under the control of YFI holders.                  |
+| Set Fees                  | YFI Holders | Set the standard fee structures in the Yearn Protocol                                                                                                 |
+| Change Multisig Signers   | YFI Holders | As the Multisig will continue to hold critical powers over the near term, only YFI holders can vote to change its signers                             |
+| Ratify yTeams             | YFI Holders | Formally ratify or deratify yTeams to control which yTeams can hold delegated powers                                                                  |
+| Change yOps Signers       | YFI Holders | As yOps has the power to change signers of other yTeams, this is a special power to change the signers of yOps                                        |
+| Spend Treasury Funds      | YFI Holders | Spend funds from the treasury                                                                                                                         |
+| YIP Power                 | YFI Holders | YFI Holders have the power to propose a YIP on anything not already delegated                                                                         |
+| Execution Power           | Multisig    | The power to execute decisions made by YFI holders and yTeams on-chain                                                                                |
+| Veto Power                | Multisig    | This power allows the Multisig to veto any decision and ideally should not be needed                                                                  |
+| Transitionary Power       | Multisig    | A temporary power enabling the Multisig to operate under the mandate of YIP-41 until the set of decision-making powers covers all needed transactions |
+| Emergency Powers          | yGuard      | Immediately intervene in case of attack or bug to shutdown or rollback strategies or vaults                                                           |
+| Manage Strategies         | yBrain      | Activate, deactivate, tune, and maintain strategies                                                                                                   |
+| Define Yearn Protocol     | yDev        | Decide what code is considered part of yearn and what isn't                                                                                           |
+| Manage Protocol           | yDev        | Maintain and improve the Yearn Protocol                                                                                                               |
+| Add Strategies            | yDev        | Add new strategies to vaults                                                                                                                          |
+| Delegate Transactions     | yTx         | Create delegated transactions for the multisig to sign and execute                                                                                    |
+| Pay Team                  | yPeople     | Create, deploy, modify, or terminate Yearn compensation packages                                                                                      |
+| Set Budgets               | yBudget     | Create budgets for coordinape, grants, hiring, operations, or other workstreams                                                                       |
+| Farm Treasury             | yFarm       | Farm with the treasury and make decisions on airdrops                                                                                                 |
+| Ratify yTeam Signers      | yOps        | Formally approve or remove signers for each yTeam                                                                                                     |
 
 ## Implementation
 
@@ -201,17 +201,17 @@ We believe that DAOs are in their infancy and there is much to learn. Although t
 
 This proposal provides a northstar for implementations of Gov 2.0 that can iterate and improve over time. Here are some additional ideas we would like to explore further in the future:
 
--   implement nested multisig-style consensus mechanisms such that each yTeam has execution power for their domain of action, flexibly reconfigurable based on delegated powers
--   move away from proxy voting via either a tool like SafeSnap[[15]](https://gov.yearn.finance/t/yip-61-governance-2-0/10460#References) or an on-chain L2 implementation with something like Compound's Governor Bravo[[16]](https://gov.yearn.finance/t/yip-61-governance-2-0/10460#References)
--   tokenize decision-making powers as NFTs for improved transparency and functionality
--   deprecate veto power via third-party arbitration
--   utilize Coordinape for some yTeams, for example:
-    -   budget allocation circle (yBudget)
-    -   compensation setting circle (yPeople)
--   explore using conviction voting to establish new yTeams and their membership
--   migrate to on-chain voting using Colony v2, utilizing reputation for yTeams
--   collaborations with Gnosis, Colony, LEGO Dao, Tally, finance.vote, and Orca Protocol
--   establish practices for ratification of yTeams wielding off-chain decision-making powers on domains such as marketing, docs, and the web
+- implement nested multisig-style consensus mechanisms such that each yTeam has execution power for their domain of action, flexibly reconfigurable based on delegated powers
+- move away from proxy voting via either a tool like SafeSnap[[15]](https://gov.yearn.finance/t/yip-61-governance-2-0/10460#References) or an on-chain L2 implementation with something like Compound's Governor Bravo[[16]](https://gov.yearn.finance/t/yip-61-governance-2-0/10460#References)
+- tokenize decision-making powers as NFTs for improved transparency and functionality
+- deprecate veto power via third-party arbitration
+- utilize Coordinape for some yTeams, for example:
+  - budget allocation circle (yBudget)
+  - compensation setting circle (yPeople)
+- explore using conviction voting to establish new yTeams and their membership
+- migrate to on-chain voting using Colony v2, utilizing reputation for yTeams
+- collaborations with Gnosis, Colony, LEGO Dao, Tally, finance.vote, and Orca Protocol
+- establish practices for ratification of yTeams wielding off-chain decision-making powers on domains such as marketing, docs, and the web
 
 ## Credit
 
@@ -240,18 +240,18 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmSMyYeKrRpnA7Xn56
 
 ## Information
 
-| Name                | Value                                      |
-| ------------------- | ------------------------------------------ |
-| Strategie(s)        | pagination, delegation                     |
-| Author              | 0x29C4dbC1a81d06c9AA2fAed93Bb8B4a78F3eabDb |
-| IPFS                | https://ipfs.fleek.co/ipfs/QmSMyYeKrRpnA7Xn56o2NtbCUzxmhzCupL7LxMA1reXxq4|
-| Voting System       | Single choice voting                       |
-| Start date          | Apr 20, 2021, 2:00 AM                      |
-| End date            | Apr 25, 2021, 2:00 AM                      |
+| Name          | Value                                                                     |
+| ------------- | ------------------------------------------------------------------------- |
+| Strategie(s)  | pagination, delegation                                                    |
+| Author        | 0x29C4dbC1a81d06c9AA2fAed93Bb8B4a78F3eabDb                                |
+| IPFS          | https://ipfs.fleek.co/ipfs/QmSMyYeKrRpnA7Xn56o2NtbCUzxmhzCupL7LxMA1reXxq4 |
+| Voting System | Single choice voting                                                      |
+| Start date    | Apr 20, 2021, 2:00 AM                                                     |
+| End date      | Apr 25, 2021, 2:00 AM                                                     |
 
 ## Results
 
-| Result              | Value                                      |
-|---------------------|--------------------------------------------|
-| Yes                 | 683.09 YFI (99.97%)                        |
-| No                  | 0.2 YFI (0.03%)                            |
+| Result | Value               |
+| ------ | ------------------- |
+| Yes    | 683.09 YFI (99.97%) |
+| No     | 0.2 YFI (0.03%)     |

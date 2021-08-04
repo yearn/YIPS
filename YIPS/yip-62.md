@@ -25,8 +25,8 @@ You can learn about our voting rules in YIP-55[[2]](https://gov.yearn.finance/t/
 
 If adopted, this proposal will:
 
--   remove [@Substreight](https://gov.yearn.finance/u/substreight) (Joe Mahon)[[3]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) and [@tchitra](https://gov.yearn.finance/u/tchitra) (Tarun Chitra)[[4]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) as multisig signers
--   add [@RyanWatkins](https://gov.yearn.finance/u/ryanwatkins)[[5]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) and [@Lumberg](https://gov.yearn.finance/u/lumberg) (Leo Cheng)[[6]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) as mulitsig signers
+- remove [@Substreight](https://gov.yearn.finance/u/substreight) (Joe Mahon)[[3]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) and [@tchitra](https://gov.yearn.finance/u/tchitra) (Tarun Chitra)[[4]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) as multisig signers
+- add [@RyanWatkins](https://gov.yearn.finance/u/ryanwatkins)[[5]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) and [@Lumberg](https://gov.yearn.finance/u/lumberg) (Leo Cheng)[[6]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) as mulitsig signers
 
 ## Motivation
 
@@ -36,7 +36,7 @@ Big thanks to everyone on the multisig, this adjustment should not be seen as a 
 
 [![photo_2021-05-20 17.06.53](/YIPS/assets/yip-62/figure1.png)
 
-*Analysis of multisig signer activity as of 26 April 2021*
+_Analysis of multisig signer activity as of 26 April 2021_
 
 ## Specification
 
@@ -49,18 +49,18 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmddCbGYbkooZ1zp8o
 
 ## Information
 
-| Name                | Value                                      |
-| ------------------- | ------------------------------------------ |
-| Strategie(s)        | pagination, delegation                     |
-| Author              | 0x29C4dbC1a81d06c9AA2fAed93Bb8B4a78F3eabDb |
-| IPFS                | https://ipfs.fleek.co/ipfs/QmddCbGYbkooZ1zp8oYnbBz6frXLRc9xbkapXcuZcdzmMF|
-| Voting System       | Single choice voting                       |
-| Start date          | May 24, 2021, 12:00 PM                     |
-| End date            | May 29, 2021, 12:00 PM                     |
+| Name          | Value                                                                     |
+| ------------- | ------------------------------------------------------------------------- |
+| Strategie(s)  | pagination, delegation                                                    |
+| Author        | 0x29C4dbC1a81d06c9AA2fAed93Bb8B4a78F3eabDb                                |
+| IPFS          | https://ipfs.fleek.co/ipfs/QmddCbGYbkooZ1zp8oYnbBz6frXLRc9xbkapXcuZcdzmMF |
+| Voting System | Single choice voting                                                      |
+| Start date    | May 24, 2021, 12:00 PM                                                    |
+| End date      | May 29, 2021, 12:00 PM                                                    |
 
 ## Results
 
-| Result              | Value                                      |
-|---------------------|--------------------------------------------|
-| Yes                 | 415.75 YFI (99.64%)                        |
-| No                  | 1.51 YFI (0.36%)                           |
+| Result | Value               |
+| ------ | ------------------- |
+| Yes    | 415.75 YFI (99.64%) |
+| No     | 1.51 YFI (0.36%)    |

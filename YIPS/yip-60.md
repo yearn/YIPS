@@ -25,44 +25,44 @@ While this is the first airdrop of its kind, it is unlikely to be the last. It w
 
 ### Airdrop factors
 
--   Cost to claim. Claiming airdrops can involve manual work, sometimes on different chains than Ethereum, for uncertain rewards.
--   Time periods to claim. Claiming may at times be done in one go, and other times over multiple times, sometimes lasting as long as a year or more.
--   Relationships and image. Acting in bad faith, i.e. "claiming & dumping" can lead to exclusion from future airdrops, bad publicity, and being labeled as an adversary rather than a partner.
--   Tokenomics. Depending on the protocol design, there can be lucrative farming opportunities or heavy penalties to incentivize good actors in the airdrop protocol. Considering these can lead to better rewards.
+- Cost to claim. Claiming airdrops can involve manual work, sometimes on different chains than Ethereum, for uncertain rewards.
+- Time periods to claim. Claiming may at times be done in one go, and other times over multiple times, sometimes lasting as long as a year or more.
+- Relationships and image. Acting in bad faith, i.e. "claiming & dumping" can lead to exclusion from future airdrops, bad publicity, and being labeled as an adversary rather than a partner.
+- Tokenomics. Depending on the protocol design, there can be lucrative farming opportunities or heavy penalties to incentivize good actors in the airdrop protocol. Considering these can lead to better rewards.
 
 ## Motivation
 
 The rationale for this proposal is motivated by the following objectives:
 
--   Do right by the vault's depositors. In principle, airdrops belong to whoever holds the private key. Practically, many vault depositors expect to benefit from airdrop proceeds. Yearn should do right by them, which in turn does good for Yearn's reputation and attracts more users of its products.
--   Set expectations straight. At the moment, it is unclear what will happen in airdrop situations. Vault depositors should have clarity about what they should expect to happen.
--   Do not overload Yearn's resources. Yearn's vaults are different, and airdrops are different. Subjective judgement about which airdrop to claim, and what the best way for realising it, is unavoidably going to be required. Airdrops should not end up becoming an effective Denial-of-Service attack on Yearn teams and distract them from delivering on existing roadmaps and priorities.
--   Keep it simple. Yearn is meant to make DeFi simple, and should try to live up to that. Depositing a token into a Yearn vault shouldn't come with expectations of potentially having to deal with the handling of other unrelated tokens, possibly even accessible from other blockchains.
--   Keep it composable. Yearn vaults are being used by end users, defi protocols, businesses, and other intelligent life such as smart contracts and robots. They should benefit from airdrops automatically, without no additional effort, letting rewards compound. This avoids unexpected behaviour and edge cases, making Yearn's vaults easier to integrate with.
+- Do right by the vault's depositors. In principle, airdrops belong to whoever holds the private key. Practically, many vault depositors expect to benefit from airdrop proceeds. Yearn should do right by them, which in turn does good for Yearn's reputation and attracts more users of its products.
+- Set expectations straight. At the moment, it is unclear what will happen in airdrop situations. Vault depositors should have clarity about what they should expect to happen.
+- Do not overload Yearn's resources. Yearn's vaults are different, and airdrops are different. Subjective judgement about which airdrop to claim, and what the best way for realising it, is unavoidably going to be required. Airdrops should not end up becoming an effective Denial-of-Service attack on Yearn teams and distract them from delivering on existing roadmaps and priorities.
+- Keep it simple. Yearn is meant to make DeFi simple, and should try to live up to that. Depositing a token into a Yearn vault shouldn't come with expectations of potentially having to deal with the handling of other unrelated tokens, possibly even accessible from other blockchains.
+- Keep it composable. Yearn vaults are being used by end users, defi protocols, businesses, and other intelligent life such as smart contracts and robots. They should benefit from airdrops automatically, without no additional effort, letting rewards compound. This avoids unexpected behaviour and edge cases, making Yearn's vaults easier to integrate with.
 
 ## Specification
 
-1.  A decision is made whether the effort to claim a specific airdrop is worth while given other current priorities.
-1.  Specific claiming, farming, and token exchange strategies are determined on a case by case basis, depending on prevailing airdrop terms and market conditions, with the objective to maximize risk-adjusted returns.
-1.  Returns are used to boost the returns of the affected vault for the benefit of its current depositors. This is done by converting the returns into `want` tokens, and donating them to the vault in question, boosting the returns of each current tokenholder as a result.
-1.  Decisions on the details of the above steps are left to be taken by the Operations, Engineering, and Finance teams with the instruction to meet these instructions as best as possible. Decisions can be overruled as usual through the existing Multi-sig and Governance processes. Both groups should be kept up to date on airdrop claims as they progress.
+1. A decision is made whether the effort to claim a specific airdrop is worth while given other current priorities.
+1. Specific claiming, farming, and token exchange strategies are determined on a case by case basis, depending on prevailing airdrop terms and market conditions, with the objective to maximize risk-adjusted returns.
+1. Returns are used to boost the returns of the affected vault for the benefit of its current depositors. This is done by converting the returns into `want` tokens, and donating them to the vault in question, boosting the returns of each current tokenholder as a result.
+1. Decisions on the details of the above steps are left to be taken by the Operations, Engineering, and Finance teams with the instruction to meet these instructions as best as possible. Decisions can be overruled as usual through the existing Multi-sig and Governance processes. Both groups should be kept up to date on airdrop claims as they progress.
 
 _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmNqAqRKMFcoRjaRYAKCVETij6sjJ4S1293kbpYDMVvcjB)_
 
 ## Information
 
-| Name                | Value                                      |
-| ------------------- | ------------------------------------------ |
-| Strategie(s)        | erc20-balance-of, erc20-balance-of-delegation  |
-| Author              | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67 |
-| IPFS                | https://ipfs.fleek.co/ipfs/QmNqAqRKMFcoRjaRYAKCVETij6sjJ4S1293kbpYDMVvcjB|
-| Voting System       | Single choice voting                       |
-| Start date          | Apr 7, 2021, 9:30 PM                       |
-| End date            | Apr 12, 2021, 9:30 PM                      |
+| Name          | Value                                                                     |
+| ------------- | ------------------------------------------------------------------------- |
+| Strategie(s)  | erc20-balance-of, erc20-balance-of-delegation                             |
+| Author        | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67                                |
+| IPFS          | https://ipfs.fleek.co/ipfs/QmNqAqRKMFcoRjaRYAKCVETij6sjJ4S1293kbpYDMVvcjB |
+| Voting System | Single choice voting                                                      |
+| Start date    | Apr 7, 2021, 9:30 PM                                                      |
+| End date      | Apr 12, 2021, 9:30 PM                                                     |
 
 ## Results
 
-| Result              | Value                                      |
-|---------------------|--------------------------------------------|
-| Yes                 | 1005 YFI (100%)                            |
-| No                  | 0.05 YFI (0%)                              |
+| Result | Value           |
+| ------ | --------------- |
+| Yes    | 1005 YFI (100%) |
+| No     | 0.05 YFI (0%)   |

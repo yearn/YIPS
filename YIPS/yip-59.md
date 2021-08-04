@@ -37,10 +37,10 @@ Another alternative would be to let the Multisig mandate expire, and be replaced
 
 ## Specification
 
--   Extend the current Multisig authority and remit as was granted by YIP-41 for an additional three months, expiring on May 24 2021.
--   Do not change or modify the existing mandate in any way.
--   Any changes made by YIPs adopted after YIP-41 still apply.
--   Further changes to the mandate can be made through Yearn's Governance process.
+- Extend the current Multisig authority and remit as was granted by YIP-41 for an additional three months, expiring on May 24 2021.
+- Do not change or modify the existing mandate in any way.
+- Any changes made by YIPs adopted after YIP-41 still apply.
+- Further changes to the mandate can be made through Yearn's Governance process.
 
 _Source: [Snapshot](https://snapshot.org/#/yearn/proposal/QmdRCXH6BQpNcucoZqAtS5hQKjckE2428qiZoWjxmJXbs3)_
 
@@ -50,18 +50,18 @@ _Source: [Snapshot](https://snapshot.org/#/yearn/proposal/QmdRCXH6BQpNcucoZqAtS5
 
 ## Information
 
-| Name                | Value                                      |
-| ------------------- | ------------------------------------------ |
-| Strategie(s)        | erc20-balance-of, yearn-vault, delegation  |
-| Author              | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67 |
-| IPFS                | https://ipfs.fleek.co/ipfs/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ|
-| Voting System       | Single choice voting                       |
-| Start date          | Feb 18, 2021, 9:25 PM                      |
-| End date            | Feb 23, 2021, 9:25 PM                      |
+| Name          | Value                                                                     |
+| ------------- | ------------------------------------------------------------------------- |
+| Strategie(s)  | erc20-balance-of, yearn-vault, delegation                                 |
+| Author        | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67                                |
+| IPFS          | https://ipfs.fleek.co/ipfs/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ |
+| Voting System | Single choice voting                                                      |
+| Start date    | Feb 18, 2021, 9:25 PM                                                     |
+| End date      | Feb 23, 2021, 9:25 PM                                                     |
 
 ## Results
 
-| Result              | Value                                      |
-|---------------------|--------------------------------------------|
-| Yes                 | 379.59 YFI (100%)                          |
-| No                  | 0 YFI (0%)                                 |
+| Result | Value             |
+| ------ | ----------------- |
+| Yes    | 379.59 YFI (100%) |
+| No     | 0 YFI (0%)        |
