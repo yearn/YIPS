@@ -3,7 +3,7 @@ yip: 54
 title: Formalize Operations Funding
 status: Approved
 author: banteg (@banteg), lehnberg (@lehnberg), lex_node (@lex_node), milkyklim (@milkyklim), tracheopteryx (@tracheopteryx)
-discussions-to: https://gov.yearn.finance/t/yip-54-formalize-operations-funding/7956/
+discussions-to: https://gov.yearn.finance/t/yip-54-formalize-operations-funding/7956
 created: 2020-11-12
 ---
 
