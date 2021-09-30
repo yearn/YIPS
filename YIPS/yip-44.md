@@ -127,7 +127,7 @@ Discussions-to: <Create a new thread on https://gov.yearn.finance/ and drop the 
 #### YIP Validator (Ruby Gem)
 
 > current version: `1.0.2`, should be bumped to `1.1.0`
-> Changes located [github.com/iearn-finance/yip_validator/blob/master/lib/yip_validator/validator.rb#L25](https://github.com/iearn-finance/yip_validator/blob/master/lib/yip_validator/validator.rb#L25)
+> Changes located [github.com/yearn/yip_validator/blob/master/lib/yip_validator/validator.rb#L25](https://github.com/yearn/yip_validator/blob/master/lib/yip_validator/validator.rb#L25)
 
 ```ruby
     validates_inclusion_of :status, in: ['WIP', 'Proposed', 'Approved', 'Implemented', 'Rejected']

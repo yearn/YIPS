@@ -38,7 +38,7 @@ Some YFI should be reserved to secure and improve the yearn ecosystem while prop
 
 Reference
 
-- Inflation schedule proposal [YIP-30](https://github.com/iearn-finance/YIPS/blob/master/YIPS/yip-30.md)
+- Inflation schedule proposal [YIP-30](https://github.com/yearn/YIPS/blob/master/YIPS/yip-30.md)
 
 ## Metadata
 

@@ -58,7 +58,7 @@ gem install yip_validator
 yip_validator <INPUT_FILES>
 ```
 
-## YIP Geneartor
+## YIP Generator
 
 A YIP Generator is available [as a nodejs package here](https://github.com/sambacha/generator-yyip).
 
