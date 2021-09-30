@@ -13,7 +13,8 @@
   * [YIP Statuses](#yip-statuses)
   * [Validation](#validation)
   
-
+[Visit the Governance Proposal Documentation Webpage](https://docs.yearn.finance/governance/proposal-repository)
+	
 **Yearn Finance Improvement Proposals (YIPs)** describe standards for the Yearn platform, including:
 
 - core protocol specification
