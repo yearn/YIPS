@@ -28,6 +28,7 @@ GEM
     ethon (0.12.0)
       ffi (>= 1.3.0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-x64-mingw32)
     execjs (2.7.0)
     faraday (1.3.0)
       faraday-net_http (~> 1.0)
@@ -35,6 +36,7 @@ GEM
       ruby2_keywords
     faraday-net_http (1.0.1)
     ffi (1.14.2)
+    ffi (1.14.2-x64-mingw32)
     forwardable-extended (2.6.0)
     front_matter_parser (0.1.1)
     gemoji (3.0.1)
@@ -227,6 +229,8 @@ GEM
     nokogiri (1.11.1)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
+    nokogiri (1.11.1-x64-mingw32)
+      racc (~> 1.4)
     nokogumbo (2.0.4)
       nokogiri (~> 1.8, >= 1.8.4)
     octokit (4.20.0)
@@ -265,10 +269,14 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (1.2.9)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2021.5)
+      tzinfo (>= 1.0.0)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
+    wdm (0.1.1)
+    webrick (1.7.0)
     yell (2.2.2)
     yip_validator (1.1.0)
       activemodel
@@ -276,6 +284,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   github-pages
@@ -284,7 +293,9 @@ DEPENDENCIES
   jekyll-feed (~> 0.15)
   minima (~> 2.5)
   tzinfo-data
+  wdm (~> 0.1.0)
+  webrick
   yip_validator (>= 1.1.0)
 
 BUNDLED WITH
-   2.1.4
+   2.2.29
