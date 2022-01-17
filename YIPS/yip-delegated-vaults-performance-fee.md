@@ -3,7 +3,7 @@ yip: <to be assigned>
 title: Moving vault performance fee from vault to strategy and setting it to zero for all but the last strategy in a delegtion path
 status: Proposed
 author: human
-discussions-to: https://gov.yearn.finance/t/proposal-revising-delegated-vault-fees-part-1/12087/5
+discussions-to: https://gov.yearn.finance/t/proposal-revising-delegated-vault-fees-part-1/12087
 created: 2022-01-16
 ---
 
