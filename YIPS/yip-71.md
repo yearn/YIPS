@@ -4,7 +4,6 @@ title: Activate veYFI
 author: darkghosty, flashfish, jiji, saltyfacu
 discussions-to: https://gov.yearn.finance/t/proposal-activate-veyfi/12783
 status: Implemented
-type: Tokenomics
 created: 2022-11-25
 ---
 
@@ -91,8 +90,8 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0xc50b60f712adb856
 | Author        | wentokyo.eth                                                                    |
 | IPFS          | https://snapshot.mypinata.cloud/ipfs/bafkreihcrsciiqm3fhr2kehbtqfjwk7fykepgfv2xgb6rjwwbxm2orwxfq |
 | Voting System | Single choice voting                                                            |
-| Start date    | Nov 25, 2022, 1:40 PM                                                           |
-| End date      | Nov 30, 2022, 1:40 PM                                                           |
+| Start date    | Nov 25, 2022                                                                    |
+| End date      | Nov 30, 2022                                                                    |
 | Snapshot      | https://etherscan.io/block/16048538                                             |
 
 ## Results

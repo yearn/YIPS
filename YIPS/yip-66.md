@@ -1,24 +1,15 @@
 ---
 yip: 66
-title: <YIP title>
+title: Streamlining contributor compensation
 author: 15 members of the Compensation group inc @0xJiji
-discussions-to: <reate a new thread on https://gov.yearn.finance/ and drop the link here>
+discussions-to: https://gov.yearn.finance/t/yip-66-streamlining-contributor-compensation/12247
 status: Implemented
-type: Protocol
 created: 2022-02-05
-requires (*optional): <YIP number(s)>
-implementation (*optional): <YIP number(s)>
 ---
 
 ## Summary
 
 Builds on top of the recently adopted YFI Tokenomics program to simplify Yearn contributor compensation through the introduction of a yDiscount program. Migrates and retires the previous contributor vesting and strategist compensation schemes.
-
-### Status
-
-**Voting**
-This proposal is currently in the voting phase. Cast your vote on [Snapshot](https://yearn.snapshot.page/#/proposal/0x804d3765e70d6e4f0f0a225222dadd396cd328595d5fd097b732b36fdf8e6af6).
-You can learn about our voting rules in YIP-55.
 
 ## Abstract
 
@@ -324,8 +315,8 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0x804d3765e70d6e4f
 | Author        | wentokyo.eth                                                                    |
 | IPFS          | https://snapshot.mypinata.cloud/ipfs/QmaKc2RxxmMLPDamo8VQiyVRt6jfZJQrnf8UYbzd7DodbX |
 | Voting System | Single choice voting                                                            |
-| Start date    | Feb 05, 2022, 04:30 PM                                                          |
-| End date      | Mar 14, 2022, 04:30 PM                                                          |
+| Start date    | Feb 05, 2022                                                                    |
+| End date      | Mar 14, 2022                                                                    |
 | Snapshot      | https://etherscan.io/block/14148129                                             |
 
 ## Results

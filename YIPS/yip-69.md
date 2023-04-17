@@ -4,7 +4,6 @@ title: Reduce and cap fees through yRates
 author: banteg, flashfish, jiji, jmonteer, newmickymousse, saltyfacu, wavey
 discussions-to: https://gov.yearn.finance/t/yip-69-reduce-and-cap-fees-through-yrates/12588
 status: Implemented
-type: Protocol
 created: 2022-06-17
 ---
 
@@ -93,8 +92,8 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0xe4c2c990eaf4bb4a
 | Author        | wentokyo.eth                                                                    |
 | IPFS          | https://snapshot.mypinata.cloud/ipfs/QmXjkDdtEj1BiARbjDt7XLYSY87qi8YPP4o1medz38JNKP |
 | Voting System | Single choice voting                                                            |
-| Start date    | Jun 17, 2022, 4:10 AM                                                           |
-| End date      | Jun 22, 2022, 4:10 AM                                                           |
+| Start date    | Jun 17, 2022                                                                    |
+| End date      | Jun 22, 2022                                                                    |
 | Snapshot      | https://etherscan.io/block/14977876                                             |
 
 ## Results

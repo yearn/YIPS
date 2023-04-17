@@ -4,7 +4,6 @@ title: ApeWorX <> Yearn Partnership
 author: fubuloubu, defidipshit
 discussions-to: https://gov.yearn.finance/t/yip-70-apeworx-yearn-partnership/12721
 status: Implemented
-type: Partnership
 created: 2022-09-19
 ---
 
@@ -61,8 +60,8 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0x1d34233f80a83c3f
 | Author        | wentokyo.eth                                                                    |
 | IPFS          | https://snapshot.mypinata.cloud/ipfs/bafkreickx3qv4zd3cztyuthvxr5melbssq5znybfrkqk523zllcaztfdsy |
 | Voting System | Single choice voting                                                            |
-| Start date    | Sep 19, 2022, 2:56 PM                                                           |
-| End date      | Sep 24, 2022, 2:56 PM                                                           |
+| Start date    | Sep 19, 2022                                                                    |
+| End date      | Sep 24, 2022                                                                    |
 | Snapshot      | https://etherscan.io/block/15569179                                             |
 
 ## Results

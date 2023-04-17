@@ -4,7 +4,6 @@ title: Rotate multisig signers
 author: banteg
 discussions-to: https://gov.yearn.finance/t/yip-68-rotate-multisig-signers/12582
 status: Implemented
-type: Strategy
 created: 2022-06-16
 ---
 
@@ -51,8 +50,8 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0xc5386b7237f6c903
 | Author        | wentokyo.eth                                                                    |
 | IPFS          | https://snapshot.mypinata.cloud/ipfs/QmbrqfCBjE8yYkz1wbsWQu9VxEo3UmPw2oGhb34Mdtqpx6 |
 | Voting System | Single choice voting                                                            |
-| Start date    | Jun 16, 2022, 8:52 AM                                                           |
-| End date      | Jun 21, 2022, 8:52 AM                                                           |
+| Start date    | Jun 16, 2022                                                                    |
+| End date      | Jun 21, 2022                                                                    |
 | Snapshot      | https://etherscan.io/block/14973155                                             |
 
 ## Results

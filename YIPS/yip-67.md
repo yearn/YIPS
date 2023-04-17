@@ -4,7 +4,6 @@ title: Contribute $400,000 to Nomic Foundation
 author: FrancoNomic
 discussions-to: https://gov.yearn.finance/t/yip-67-contribute-to-the-nomic-foundation/12326
 status: Implemented
-type: Grant
 created: 2022-03-09
 ---
 
@@ -140,8 +139,8 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0xd1988feec955cb93
 | Author        | wentokyo.eth                                                                    |
 | IPFS          | https://snapshot.mypinata.cloud/ipfs/QmbrLDy77zwLEGeXBssvx2LXc317Vb7vatJ4kKJq1kH13u |
 | Voting System | Single choice voting                                                            |
-| Start date    | Mar 09, 2022, 10:05 AM                                                          |
-| End date      | Mar 14, 2022, 10:05 AM                                                          |
+| Start date    | Mar 09, 2022                                                                    |
+| End date      | Mar 14, 2022                                                                    |
 | Snapshot      | https://etherscan.io/block/14353009                                             |
 
 ## Results
