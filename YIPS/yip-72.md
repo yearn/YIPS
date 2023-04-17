@@ -1,7 +1,7 @@
 ---
 yip: 72
 title: Launch yETH
-author: 0xkorin (0xkorin), 0xPickles 
+author: 0xkorin, 0xPickles 
 discussions-to: https://gov.yearn.finance/t/proposal-launch-yeth/13158
 status:
 created:

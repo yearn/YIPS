@@ -1,7 +1,7 @@
 ---
 yip: 71
 title: Activate veYFI
-author: darkghosty (@DarkGhost7), flashfish (@flashfish0x), jiji (@0x7171), saltyfacu(@saltyfacu)
+author: darkghosty, flashfish, jiji, saltyfacu
 discussions-to: https://gov.yearn.finance/t/proposal-activate-veyfi/12783
 status: Implemented
 type: Tokenomics
