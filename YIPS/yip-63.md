@@ -91,7 +91,7 @@ Read up on LeXpunK:
 
 ## Copyright
 
-Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).## References
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmPK9AqeoV6v5xeuiTeFcj9Px7y87KMQ1gGhvHft2GMtqE)_
 
