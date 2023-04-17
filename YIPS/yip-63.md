@@ -1,7 +1,7 @@
 ---
 yip: 62
 title: Fund Builder-First Legal Activism DAO
-status: Approved
+status: Implemented
 author: Andre Cronje (@andrecronje), tracheopteryx (@tracheopteryx), lexnode (@lex-node), Judge Jowday (@judge-jowday), Sh Brennan, Birdman Haxxor
 discussions-to: https://gov.yearn.finance/t/yip-63-fund-builder-first-legal-activism-dao/11280
 created: 2021-08-06
