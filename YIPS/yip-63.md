@@ -97,14 +97,15 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmPK9AqeoV6v5xeuiT
 
 ## Information
 
-| Name          | Value                                                                           |
-| ------------- | ------------------------------------------------------------------------------- |
-| Strategie(s)  | pagination, delegation                                                          |
-| Author        | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67                                      |
-| IPFS          | https://cloudflare-ipfs.com/ipfs/QmPK9AqeoV6v5xeuiTeFcj9Px7y87KMQ1gGhvHft2GMtqE |
-| Voting System | Single choice voting                                                            |
-| Start date    | Aug 6, 2021, 10:00 PM                                                           |
-| End date      | Aug 11, 2021, 10:00 PM                                                          |
+| Name           | Value                                                                           |
+| -------------  | ------------------------------------------------------------------------------- |
+| Snapshot Space | [ybaby.eth](https://snapshot.org/#/ybaby.eth)                                   |
+| Strategie(s)   | pagination, delegation                                                          |
+| Author         | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67                                      |
+| IPFS           | https://cloudflare-ipfs.com/ipfs/QmPK9AqeoV6v5xeuiTeFcj9Px7y87KMQ1gGhvHft2GMtqE |
+| Voting System  | Single choice voting                                                            |
+| Start date     | Aug 6, 2021, 10:00 PM                                                           |
+| End date       | Aug 11, 2021, 10:00 PM                                                          |
 
 ## Results
 
