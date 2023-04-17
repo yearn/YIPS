@@ -208,5 +208,5 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0x8f7417fa5565d9f4
 
 | Result | Value |
 | ------ | ----- |
-| Yes    |       |
-| No     |       |
+| Yes    |  908 YFI (99.68%)     |
+| No     |  2.9 YFI (0.32%)      |
