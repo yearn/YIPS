@@ -50,9 +50,9 @@ The grant amount will align ApeWorX significantly with the long-term success of 
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0x1d34233f80a83c3fc4e41583ba115bfd51d3308c7b35249198cab0e49cd527f3)_
-
 ## Information
+
+_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0x1d34233f80a83c3fc4e41583ba115bfd51d3308c7b35249198cab0e49cd527f3)_
 
 | Name          | Value                                                                           |
 | ------------- | ------------------------------------------------------------------------------- |

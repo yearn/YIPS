@@ -80,9 +80,9 @@ Copyright and related rights waived via [CC0](https://creativecommons.org/public
 1. https://github.com/yearn/veYFI/commit/bb9d8ac9dd90a9a9772b9663ce4fa232fda7bce2 
 1. https://gov.yearn.finance/t/yip-66-streamlining-contributor-compensation/12247
 
-_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0xc50b60f712adb8568f10f565fc467e8c5d8fe1f4920683696f81c7920397942a)_
-
 ## Information
+
+_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0xc50b60f712adb8568f10f565fc467e8c5d8fe1f4920683696f81c7920397942a)_
 
 | Name          | Value                                                                           |
 | ------------- | ------------------------------------------------------------------------------- |

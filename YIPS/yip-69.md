@@ -82,9 +82,9 @@ By establishing strict fee guidelines, yTeam powers become better restricted. Va
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0xe4c2c990eaf4bb4a7a8031c461f5db820bae08fd7b81441d56e8cc0378c44afe)_
-
 ## Information
+
+_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0xe4c2c990eaf4bb4a7a8031c461f5db820bae08fd7b81441d56e8cc0378c44afe)_
 
 | Name          | Value                                                                           |
 | ------------- | ------------------------------------------------------------------------------- |
