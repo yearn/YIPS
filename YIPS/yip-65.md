@@ -1,7 +1,7 @@
 ---
 yip: 65
 title: Evolving YFI Tokenomics
-status: Voting
+status: Approved
 author: 0xJiji, banteg, daryllautk, HAtTip3675, onlylarping, vany365, Wot_Is_Goin_On
 discussions-to: https://gov.yearn.finance/t/yip-65-evolving-yfi-tokenomics/11994
 created: 2021-12-23
