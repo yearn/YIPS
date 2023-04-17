@@ -8,10 +8,11 @@
  
 ![Validate](https://github.com/iearn-finance/YIPS/workflows/Validate/badge.svg?branch=master) [![Discord](https://img.shields.io/discord/734804446353031319.svg?color=768AD4&label=discord&logo=https%3A%2F%2Fdiscordapp.com%2Fassets%2F8c9701b98ad4372b58f13fd9f65f966e.svg)](https://discordapp.com/channels/734804446353031319/) [![Telegram](https://img.shields.io/badge/chat-on%20Telegram-blue.svg)](https://t.me/yearnfinance) [![Twitter Follow](https://img.shields.io/twitter/follow/iearnfinance.svg?label=iearnfinance&style=social)](https://twitter.com/iearnfinance)
 
-- [YIPs](#yips)
-  * [Contributing](#contributing)
-  * [YIP Statuses](#yip-statuses)
-  * [Validation](#validation)
+- [Contributing](#contributing)
+- [YIP Statuses](#yip-statuses)
+- [Validation](#validation)
+- [YIP Generator](#yip-generator)
+- [Copyright](#copyright)
   
 [Visit the Governance Proposal Documentation Webpage](https://docs.yearn.finance/governance/proposal-repository)
 	
@@ -46,6 +47,7 @@ When you believe your YIP is mature and ready to progress past the WIP phase, yo
 - **Withdrawn** - a YIP that has been withdrawn by the author(s).
 - **Deferred** - a YIP that is pending another YIP/some other change that should be bundled with it together.
 - **Moribund** - a YIP that was implemented but is now obsolete and requires no explicit replacement.
+- **Voting** - a YIP that is in the voting phase on snapshot.
 
 ## Validation
 
