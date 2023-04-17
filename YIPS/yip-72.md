@@ -312,16 +312,16 @@ _Source: [Snapshot]()_
 
 ## Information
 
-| Name          | Value                                                                           |
-| ------------- | ------------------------------------------------------------------------------- |
-| Snapshot Space| [veYFI.eth](https://snapshot.org/#/veyfi.eth)                                   |
-| Strategie(s)  | veYFI, delegation                                                               |
-| Author        |                                                                                 |
-| IPFS          | https://cloudflare-ipfs.com/ipfs/QmNxWT18NXKcvJJVbR63bYHSbKenw1oKP95wuzLM8dicrc |
-| Voting System | Single choice voting                                                            |
-| Start date    |                                                                                 |
-| End date      |                                                                                 |
-| Snapshot      |                                                                                 |
+| Name           | Value                                                                           |
+| -------------- | ------------------------------------------------------------------------------- |
+| Snapshot Space | [veYFI.eth](https://snapshot.org/#/veyfi.eth)                                   |
+| Strategie(s)   | veYFI, delegation                                                               |
+| Author         |                                                                                 |
+| IPFS           | https://cloudflare-ipfs.com/ipfs/QmNxWT18NXKcvJJVbR63bYHSbKenw1oKP95wuzLM8dicrc |
+| Voting System  | Single choice voting                                                            |
+| Start date     |                                                                                 |
+| End date       |                                                                                 |
+| Snapshot       |                                                                                 |
 
 ## Results
 
