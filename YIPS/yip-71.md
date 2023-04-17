@@ -89,7 +89,7 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0xc50b60f712adb856
 | Snapshot Space| [ybaby.eth](https://snapshot.org/#/ybaby.eth)                                   |
 | Strategie(s)  | YFI, delegation                                                                 |
 | Author        | wentokyo.eth                                                                    |
-| IPFS          | https://cloudflare-ipfs.com/ipfs/QmNxWT18NXKcvJJVbR63bYHSbKenw1oKP95wuzLM8dicrc |
+| IPFS          | https://snapshot.mypinata.cloud/ipfs/bafkreihcrsciiqm3fhr2kehbtqfjwk7fykepgfv2xgb6rjwwbxm2orwxfq |
 | Voting System | Single choice voting                                                            |
 | Start date    | Nov 25, 2022, 1:40 PM                                                           |
 | End date      | Nov 30, 2022, 1:40 PM                                                           |
