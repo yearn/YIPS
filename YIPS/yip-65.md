@@ -189,13 +189,13 @@ _In required order:_
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmPK9AqeoV6v5xeuiTeFcj9Px7y87KMQ1gGhvHft2GMtqE)_
+_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/0x8f7417fa5565d9f46e16618503e8808c36d51b2a9e8217a68c632d7c090d69d9).
 
 ## Information
 
 | Name           | Value                                                                           |
 | -------------- | ------------------------------------------------------------------------------- |
-| Snapshot Space | [ybaby.eth ](https://snapshot.org/#/ybaby.eth)                                  |
+| Snapshot Space | [ybaby.eth](https://snapshot.org/#/ybaby.eth)                                   |
 | Strategie(s)   | YFI, delegation                                                                 |
 | Author         | wentokyo.eth                                                                    |
 | IPFS           | https://cloudflare-ipfs.com/ipfs/QmNxWT18NXKcvJJVbR63bYHSbKenw1oKP95wuzLM8dicrc |
