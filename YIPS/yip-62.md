@@ -51,7 +51,7 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmddCbGYbkooZ1zp8o
 
 | Name           | Value                                                                     |
 | -------------  | ------------------------------------------------------------------------- |
-| Snapshot Space | [ybaby.eth](https://snapshot.org/#/ybaby.eth)                            |
+| Snapshot Space | [ybaby.eth](https://snapshot.org/#/ybaby.eth)                             |
 | Strategie(s)   | pagination, delegation                                                    |
 | Author         | 0x29C4dbC1a81d06c9AA2fAed93Bb8B4a78F3eabDb                                |
 | IPFS           | https://ipfs.fleek.co/ipfs/QmddCbGYbkooZ1zp8oYnbBz6frXLRc9xbkapXcuZcdzmMF |
