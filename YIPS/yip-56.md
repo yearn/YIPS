@@ -106,8 +106,6 @@ _Figure 1. Staking rewards earned over time (USD).[[5]](https://gov.yearn.financ
 - Jan 13: Clarified voting specification to explicitly state that YFI in the treasury cannot be used to vote. [DL]
 - Jan 16: Snapshot poll link added.
 
-_Source: [Snapshot](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ)_
-
 ## References
 
 1. <https://gov.yearn.finance/t/yip-54-formalize-operations-funding/>
@@ -123,14 +121,18 @@ _Source: [Snapshot](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcj
 
 ## Information
 
+_Source: [Snapshot](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ)_
+
 | Name          | Value                                                                     |
 | ------------- | ------------------------------------------------------------------------- |
+| Snapshot Space | [yearn](https://snapshot.org/#/yearn)                                    |
 | Strategie(s)  | erc20-balance-of, yearn-vault                                             |
 | Author        | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67                                |
 | IPFS          | https://ipfs.fleek.co/ipfs/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ |
 | Voting System | Single choice voting                                                      |
 | Start date    | Jan 16, 2021, 10:00 AM                                                    |
 | End date      | Jan 19, 2021, 10:00 AM                                                    |
+| Snapshot      | https://etherscan.io/block/11667095                                       |
 
 ## Results
 

@@ -108,6 +108,8 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmPK9AqeoV6v5xeuiT
 | Voting System  | Single choice voting                                                            |
 | Start date     | Aug 6, 2021, 10:00 PM                                                           |
 | End date       | Aug 11, 2021, 10:00 PM                                                          |
+| Snapshot       | https://etherscan.io/block/12971775                                             |
+
 
 ## Results
 

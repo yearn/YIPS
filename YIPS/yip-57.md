@@ -152,8 +152,6 @@ A proof of concept for minting has been produced [[11]](https://gov.yearn.finan
 - Jan 28: Clarified in the Specification that all YFI retention packages will be subject to vesting.
 - Jan 28: Changed title to YIP-57 and added binding snapshot vote link.
 
-_Source: [Snapshot](https://snapshot.org/#/yearn/proposal/QmX8oYTSkaXSARYZn7RuQzUufW9bVVQtwJ3zxurWrquS9a)_
-
 ## References
 
 1. <https://gov.yearn.finance/t/token-allocations-at-peer-projects>
@@ -172,14 +170,18 @@ _Source: [Snapshot](https://snapshot.org/#/yearn/proposal/QmX8oYTSkaXSARYZn7RuQz
 
 ## Information
 
+_Source: [Snapshot](https://snapshot.org/#/yearn/proposal/QmX8oYTSkaXSARYZn7RuQzUufW9bVVQtwJ3zxurWrquS9a)_
+
 | Name          | Value                                                                     |
 | ------------- | ------------------------------------------------------------------------- |
+| Snapshot Space | [yearn](https://snapshot.org/#/yearn)                                    |
 | Strategie(s)  | erc20-balance-of, yearn-vault, delegation                                 |
 | Author        | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67                                |
 | IPFS          | https://ipfs.fleek.co/ipfs/QmX8oYTSkaXSARYZn7RuQzUufW9bVVQtwJ3zxurWrquS9a |
 | Voting System | Single choice voting                                                      |
 | Start date    | Jan 28, 2021, 12:00 PM                                                    |
 | End date      | Feb 2, 2021, 12:00 PM                                                     |
+| Snapshot      | https://etherscan.io/block/11745800                                       |
 
 ## Results
 

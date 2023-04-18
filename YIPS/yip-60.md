@@ -62,6 +62,7 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmNqAqRKMFcoRjaRYA
 | Voting System | Single choice voting                                                      |
 | Start date    | Apr 7, 2021                                                               |
 | End date      | Apr 12, 2021                                                              |
+| Snapshot       | https://etherscan.io/block/12196456                                      |
 
 ## Results
 

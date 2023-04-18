@@ -249,8 +249,9 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmSMyYeKrRpnA7Xn56
 | Author        | 0x29C4dbC1a81d06c9AA2fAed93Bb8B4a78F3eabDb                                |
 | IPFS          | https://ipfs.fleek.co/ipfs/QmSMyYeKrRpnA7Xn56o2NtbCUzxmhzCupL7LxMA1reXxq4 |
 | Voting System | Single choice voting                                                      |
-| Start date    | Apr 20, 2021                                                    |
-| End date      | Apr 25, 2021                                                    |
+| Start date    | Apr 20, 2021                                                              |
+| End date      | Apr 25, 2021                                                              |
+| Snapshot       | https://etherscan.io/block/12276205                                      |
 
 ## Results
 
