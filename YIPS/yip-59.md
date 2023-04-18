@@ -42,22 +42,23 @@ Another alternative would be to let the Multisig mandate expire, and be replaced
 - Any changes made by YIPs adopted after YIP-41 still apply.
 - Further changes to the mandate can be made through Yearn's Governance process.
 
-_Source: [Snapshot](https://snapshot.org/#/yearn/proposal/QmdRCXH6BQpNcucoZqAtS5hQKjckE2428qiZoWjxmJXbs3)_
-
 ## References
 
 1. https://yips.yearn.finance/YIPS/yip-41
 
 ## Information
 
+_Source: [Snapshot](https://snapshot.org/#/yearn/proposal/QmdRCXH6BQpNcucoZqAtS5hQKjckE2428qiZoWjxmJXbs3)_
+
 | Name          | Value                                                                     |
 | ------------- | ------------------------------------------------------------------------- |
+| Snapshot Space | [yearn](https://snapshot.org/#/yearn)                                    |
 | Strategie(s)  | erc20-balance-of, yearn-vault, delegation                                 |
 | Author        | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67                                |
 | IPFS          | https://ipfs.fleek.co/ipfs/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ |
 | Voting System | Single choice voting                                                      |
-| Start date    | Feb 18, 2021, 9:25 PM                                                     |
-| End date      | Feb 23, 2021, 9:25 PM                                                     |
+| Start date    | Feb 18, 2021                                                              |
+| End date      | Feb 23, 2021                                                              |
 
 ## Results
 
