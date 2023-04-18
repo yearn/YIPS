@@ -1,7 +1,7 @@
 ---
 yip: 57
 title: Funding Yearn’s Future
-status: Approved
+status: Implemented
 author: aleks-blockchaincap, banteg (@banteg), dudesahn (@dudesahn), ekrenzke, lehnberg (@lehnberg), ryanwatkins, srs-parafi, tracheopteryx (@tracheopteryx), vooncer, yfi-cent, milkyklim (@milkyklim)
 discussions-to: https://gov.yearn.finance/t/yip-57-funding-yearns-future/9319
 created: 2021-01-28

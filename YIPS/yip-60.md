@@ -1,7 +1,7 @@
 ---
 yip: 60
 title: Airdrops to Yearn Vaults
-status: Approved
+status: Implemented
 author: lehnberg (@lehnberg)
 discussions-to: https://gov.yearn.finance/t/yip-60-airdrops-to-yearn-vaults/10356
 created: 2021-04-07

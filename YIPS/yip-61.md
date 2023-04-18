@@ -1,7 +1,7 @@
 ---
 yip: 61
 title: Governance 2.0
-status: Approved
+status: Implemented
 author: tracheopteryx, lexnode
 discussions-to: https://gov.yearn.finance/t/yip-61-governance-2-0/10460#binding-snapshot-vote-28
 created: 2021-04-20

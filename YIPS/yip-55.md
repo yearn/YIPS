@@ -1,7 +1,7 @@
 ---
 yip: 55
 title: Formalize the YIP Process
-status: Approved
+status: Implemented
 author: Franklin (@franklin), Dudesahn (@dudesahn)
 discussions-to: https://gov.yearn.finance/t/yip-55-formalize-the-yip-process/7959
 created: 2020-11-12
@@ -73,3 +73,25 @@ _Unavailable_
 ## Copyright
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## Information
+
+_Source: [Snapshot](https://snapshot.org/#/yearn/proposal/QmZA8zJtLPqQAHi1jMdYX9MdMQ1ZmtRP8zuHccm6HFSzpF)_
+
+| Name          | Value                                                                     |
+| ------------- | ------------------------------------------------------------------------- |
+| Snapshot Space | [yearn](https://snapshot.org/#/yearn)                                    |
+| Strategie(s)  | erc20-balance-of, yearn-vault                                             |
+| Author        | 0x25B28EE7f335F0396f41f129039F1583345B21b8                                |
+| IPFS          | https://ipfs.fleek.co/ipfs/QmZA8zJtLPqQAHi1jMdYX9MdMQ1ZmtRP8zuHccm6HFSzpF |
+| Voting System | Single choice voting                                                      |
+| Start date    | Nov 17, 2020                                                              |
+| End date      | Nov 22, 2020                                                              |
+| Snapshot      | https://etherscan.io/block/11275892                                       |
+
+## Results
+
+| Result | Value               |
+| ------ | ------------------- |
+| Yes    |                     |
+| No     |                     |
