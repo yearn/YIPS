@@ -2,7 +2,7 @@
 yip: 61
 title: Governance 2.0
 status: Approved
-author: tracheopteryx (@tracheopteryx), lexnode (@lex-node)
+author: tracheopteryx, lexnode
 discussions-to: https://gov.yearn.finance/t/yip-61-governance-2-0/10460#binding-snapshot-vote-28
 created: 2021-04-20
 ---
@@ -240,14 +240,17 @@ _Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmSMyYeKrRpnA7Xn56
 
 ## Information
 
+_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmSMyYeKrRpnA7Xn56o2NtbCUzxmhzCupL7LxMA1reXxq4)_
+
 | Name          | Value                                                                     |
 | ------------- | ------------------------------------------------------------------------- |
+| Snapshot Space | [ybaby.eth](https://snapshot.org/#/ybaby.eth)                            |
 | Strategie(s)  | pagination, delegation                                                    |
 | Author        | 0x29C4dbC1a81d06c9AA2fAed93Bb8B4a78F3eabDb                                |
 | IPFS          | https://ipfs.fleek.co/ipfs/QmSMyYeKrRpnA7Xn56o2NtbCUzxmhzCupL7LxMA1reXxq4 |
 | Voting System | Single choice voting                                                      |
-| Start date    | Apr 20, 2021, 2:00 AM                                                     |
-| End date      | Apr 25, 2021, 2:00 AM                                                     |
+| Start date    | Apr 20, 2021                                                    |
+| End date      | Apr 25, 2021                                                    |
 
 ## Results
 

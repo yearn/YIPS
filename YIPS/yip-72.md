@@ -3,7 +3,7 @@ yip: 72
 title: Launch yETH
 author: 0xkorin, 0xPickles 
 discussions-to: https://gov.yearn.finance/t/proposal-launch-yeth/13158
-status:
+status: Voting
 created:
 ---
 
@@ -308,9 +308,9 @@ yETH is designed to be governed by its token holders who decide on assets to onb
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-_Source: [Snapshot]()_
-
 ## Information
+
+_Source: [Snapshot]()_
 
 | Name           | Value                                                                           |
 | -------------- | ------------------------------------------------------------------------------- |
