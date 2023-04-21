@@ -310,18 +310,18 @@ Copyright and related rights waived via [CC0](https://creativecommons.org/public
 
 ## Information
 
-_Source: [Snapshot]()_
+_Source: [Snapshot](https://snapshot.org/#/veyfi.eth/proposal/0x8969cde98d5d8a7be745e442a3288ce0cf3b35bf99ab72265f66c96d117a0f78)_
 
 | Name           | Value                                                                           |
 | -------------- | ------------------------------------------------------------------------------- |
 | Snapshot Space | [veYFI.eth](https://snapshot.org/#/veyfi.eth)                                   |
 | Strategie(s)   | veYFI, delegation                                                               |
-| Author         |                                                                                 |
+| Author         | 0x2f5504C9AC9E3B26cBFd656627c3CbF39db7Bea6                                      |
 | IPFS           | https://cloudflare-ipfs.com/ipfs/QmNxWT18NXKcvJJVbR63bYHSbKenw1oKP95wuzLM8dicrc |
 | Voting System  | Single choice voting                                                            |
-| Start date     |                                                                                 |
-| End date       |                                                                                 |
-| Snapshot       |                                                                                 |
+| Start date     | 2023-04-21                                                                      |
+| End date       | 2023-04-26                                                                      |
+| Snapshot       | https://etherscan.io/block/17094722                                             |
 
 ## Results
 
