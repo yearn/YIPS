@@ -3,7 +3,7 @@ yip: 72
 title: Launch yETH
 author: 0xkorin, 0xPickles 
 discussions-to: https://gov.yearn.finance/t/proposal-launch-yeth/13158
-status: Voting
+status: Approved
 created: 2023-04-21
 ---
 
@@ -327,5 +327,5 @@ _Source: [Snapshot](https://snapshot.org/#/veyfi.eth/proposal/0x8969cde98d5d8a7b
 
 | Result | Value             |
 | ------ | ----------------- |
-| Yes    |                   |
-| No     |                   |
+| Yes    | 152 veYFI (100%)  |
+| No     | 0 veYFI (0.00%)   |
