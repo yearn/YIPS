@@ -1,7 +1,7 @@
 ---
 yip: 60
 title: Airdrops to Yearn Vaults
-status: Approved
+status: Implemented
 author: lehnberg (@lehnberg)
 discussions-to: https://gov.yearn.finance/t/yip-60-airdrops-to-yearn-vaults/10356
 created: 2021-04-07
@@ -47,18 +47,22 @@ The rationale for this proposal is motivated by the following objectives:
 1. Returns are used to boost the returns of the affected vault for the benefit of its current depositors. This is done by converting the returns into `want` tokens, and donating them to the vault in question, boosting the returns of each current tokenholder as a result.
 1. Decisions on the details of the above steps are left to be taken by the Operations, Engineering, and Finance teams with the instruction to meet these instructions as best as possible. Decisions can be overruled as usual through the existing Multi-sig and Governance processes. Both groups should be kept up to date on airdrop claims as they progress.
 
-_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmNqAqRKMFcoRjaRYAKCVETij6sjJ4S1293kbpYDMVvcjB)_
+
 
 ## Information
 
+_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmNqAqRKMFcoRjaRYAKCVETij6sjJ4S1293kbpYDMVvcjB)_
+
 | Name          | Value                                                                     |
 | ------------- | ------------------------------------------------------------------------- |
+| Snapshot Space | [ybaby.eth](https://snapshot.org/#/ybaby.eth)                            |
 | Strategie(s)  | erc20-balance-of, erc20-balance-of-delegation                             |
 | Author        | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67                                |
 | IPFS          | https://ipfs.fleek.co/ipfs/QmNqAqRKMFcoRjaRYAKCVETij6sjJ4S1293kbpYDMVvcjB |
 | Voting System | Single choice voting                                                      |
-| Start date    | Apr 7, 2021, 9:30 PM                                                      |
-| End date      | Apr 12, 2021, 9:30 PM                                                     |
+| Start date    | Apr 7, 2021                                                               |
+| End date      | Apr 12, 2021                                                              |
+| Snapshot       | https://etherscan.io/block/12196456                                      |
 
 ## Results
 

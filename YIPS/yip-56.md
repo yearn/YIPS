@@ -1,7 +1,7 @@
 ---
 yip: 56
 title: BABY:\ Buyback and Build Yearn
-status: Approved
+status: Implemented
 author: banteg (@banteg), lexnode (@lex-node), lehnberg (@lehnberg), milkyklim (@milkyklim), tracheopteryx (@tracheopteryx), RyanWatkins
 discussions-to: https://gov.yearn.finance/t/yip-56-buyback-and-build/8929
 created: 2021-01-16
@@ -106,8 +106,6 @@ _Figure 1. Staking rewards earned over time (USD).[[5]](https://gov.yearn.financ
 - Jan 13: Clarified voting specification to explicitly state that YFI in the treasury cannot be used to vote. [DL]
 - Jan 16: Snapshot poll link added.
 
-_Source: [Snapshot](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ)_
-
 ## References
 
 1. <https://gov.yearn.finance/t/yip-54-formalize-operations-funding/>
@@ -121,16 +119,24 @@ _Source: [Snapshot](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcj
 9. [GitHub - banteg/guest-list 10](https://github.com/banteg/guest-list)
 10. [https://ygov.finance/ 13](https://ygov.finance/)
 
+## Copyright
+
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ## Information
+
+_Source: [Snapshot](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ)_
 
 | Name          | Value                                                                     |
 | ------------- | ------------------------------------------------------------------------- |
+| Snapshot Space | [yearn](https://snapshot.org/#/yearn)                                    |
 | Strategie(s)  | erc20-balance-of, yearn-vault                                             |
 | Author        | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67                                |
 | IPFS          | https://ipfs.fleek.co/ipfs/Qmb6gBzjvgLMazSrQQGVcjutLNdkVyM2Lh6yckMzdoaHWZ |
 | Voting System | Single choice voting                                                      |
 | Start date    | Jan 16, 2021, 10:00 AM                                                    |
 | End date      | Jan 19, 2021, 10:00 AM                                                    |
+| Snapshot      | https://etherscan.io/block/11667095                                       |
 
 ## Results
 
@@ -139,6 +145,3 @@ _Source: [Snapshot](https://snapshot.org/#/yearn/proposal/Qmb6gBzjvgLMazSrQQGVcj
 | Yes    | 790.83 YFI (99.44%) |
 | No     | 4.47 YFI (0.56%)    |
 
-## Copyright
-
-Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

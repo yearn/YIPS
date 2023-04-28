@@ -46,6 +46,7 @@ When you believe your YIP is mature and ready to progress past the WIP phase, yo
 - **Withdrawn** - a YIP that has been withdrawn by the author(s).
 - **Deferred** - a YIP that is pending another YIP/some other change that should be bundled with it together.
 - **Moribund** - a YIP that was implemented but is now obsolete and requires no explicit replacement.
+- **Voting** - a YIP that is in the voting phase on snapshot.
 
 ## Validation
 

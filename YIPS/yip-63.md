@@ -1,7 +1,7 @@
 ---
 yip: 62
 title: Fund Builder-First Legal Activism DAO
-status: Approved
+status: Implemented
 author: Andre Cronje (@andrecronje), tracheopteryx (@tracheopteryx), lexnode (@lex-node), Judge Jowday (@judge-jowday), Sh Brennan, Birdman Haxxor
 discussions-to: https://gov.yearn.finance/t/yip-63-fund-builder-first-legal-activism-dao/11280
 created: 2021-08-06
@@ -91,20 +91,25 @@ Read up on LeXpunK:
 
 ## Copyright
 
-Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).## References
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmPK9AqeoV6v5xeuiTeFcj9Px7y87KMQ1gGhvHft2GMtqE)_
+
 
 ## Information
 
-| Name          | Value                                                                           |
-| ------------- | ------------------------------------------------------------------------------- |
-| Strategie(s)  | pagination, delegation                                                          |
-| Author        | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67                                      |
-| IPFS          | https://cloudflare-ipfs.com/ipfs/QmPK9AqeoV6v5xeuiTeFcj9Px7y87KMQ1gGhvHft2GMtqE |
-| Voting System | Single choice voting                                                            |
-| Start date    | Aug 6, 2021, 10:00 PM                                                           |
-| End date      | Aug 11, 2021, 10:00 PM                                                          |
+_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmPK9AqeoV6v5xeuiTeFcj9Px7y87KMQ1gGhvHft2GMtqE)_
+
+| Name           | Value                                                                           |
+| -------------  | ------------------------------------------------------------------------------- |
+| Snapshot Space | [ybaby.eth](https://snapshot.org/#/ybaby.eth)                                   |
+| Strategie(s)   | pagination, delegation                                                          |
+| Author         | 0x7A1057E6e9093DA9C1D4C1D049609B6889fC4c67                                      |
+| IPFS           | https://cloudflare-ipfs.com/ipfs/QmPK9AqeoV6v5xeuiTeFcj9Px7y87KMQ1gGhvHft2GMtqE |
+| Voting System  | Single choice voting                                                            |
+| Start date     | Aug 6, 2021, 10:00 PM                                                           |
+| End date       | Aug 11, 2021, 10:00 PM                                                          |
+| Snapshot       | https://etherscan.io/block/12971775                                             |
+
 
 ## Results
 

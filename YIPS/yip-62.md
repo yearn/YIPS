@@ -1,7 +1,7 @@
 ---
 yip: 62
 title: Change Two Multisig Signers
-status: Approved
+status: Implemented
 author: banteg (@banteg), lehnberg (@lehnberg), milkyklim (@milkyklim), tracheopteryx (@tracheopteryx)
 discussions-to: https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758
 created: 2021-05-24
@@ -34,7 +34,7 @@ Serving on the yearn multisig is hard work, we should rotate signers regularly a
 
 Big thanks to everyone on the multisig, this adjustment should not be seen as a critique in any way. We are all busy and appreciate all the work this group does.
 
-[![photo_2021-05-20 17.06.53](/YIPS/assets/yip-62/figure1.png)
+![photo_2021-05-20 17.06.53](/YIPS/assets/yip-62/figure1.png)
 
 _Analysis of multisig signer activity as of 26 April 2021_
 
@@ -45,18 +45,21 @@ To execute the transition we don't need to change the threshold, just execute 2 
 1.  Replace 0x6626593c237f530d15ae9980a95ef938ac15c35c (Tarun) with 0x757280Bd46fC5B1C8b85628E800c443525Afc09b (Ryan)
 2.  Replace 0x50B0C406a5C1fC492F84c3F3D4552391cF4672f2 (Substreight) with 0x7321ED86B0Eb914b789D6A4CcBDd3bB10f367153 (Leo)
 
-_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmddCbGYbkooZ1zp8oYnbBz6frXLRc9xbkapXcuZcdzmMF)_
 
 ## Information
 
-| Name          | Value                                                                     |
-| ------------- | ------------------------------------------------------------------------- |
-| Strategie(s)  | pagination, delegation                                                    |
-| Author        | 0x29C4dbC1a81d06c9AA2fAed93Bb8B4a78F3eabDb                                |
-| IPFS          | https://ipfs.fleek.co/ipfs/QmddCbGYbkooZ1zp8oYnbBz6frXLRc9xbkapXcuZcdzmMF |
-| Voting System | Single choice voting                                                      |
-| Start date    | May 24, 2021, 12:00 PM                                                    |
-| End date      | May 29, 2021, 12:00 PM                                                    |
+_Source: [Snapshot](https://snapshot.org/#/ybaby.eth/proposal/QmddCbGYbkooZ1zp8oYnbBz6frXLRc9xbkapXcuZcdzmMF)_
+
+| Name           | Value                                                                     |
+| -------------  | ------------------------------------------------------------------------- |
+| Snapshot Space | [ybaby.eth](https://snapshot.org/#/ybaby.eth)                             |
+| Strategie(s)   | pagination, delegation                                                    |
+| Author         | 0x29C4dbC1a81d06c9AA2fAed93Bb8B4a78F3eabDb                                |
+| IPFS           | https://ipfs.fleek.co/ipfs/QmddCbGYbkooZ1zp8oYnbBz6frXLRc9xbkapXcuZcdzmMF |
+| Voting System  | Single choice voting                                                      |
+| Start date     | May 24, 2021, 12:00 PM                                                    |
+| End date       | May 29, 2021, 12:00 PM                                                    |
+| Snapshot       | https://etherscan.io/block/12498244                                       |
 
 ## Results
 
