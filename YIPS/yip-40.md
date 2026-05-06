@@ -2,7 +2,7 @@
 yip: 40
 title: Replace inactive multisig signers
 status: Implemented
-author: cp287 (@illlefr4u), Artem K (@banteg)
+author: illlefr4u, banteg
 discussions-to: https://gov.yearn.finance/t/change-participants-of-the-multisig-wallet/2991
 
 created: 2020-08-24

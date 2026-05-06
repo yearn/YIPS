@@ -2,7 +2,7 @@
 yip: 1
 title: Minting more YFI
 status: Implemented
-author: Andre Cronje (@andrecronje)
+author: andrecronje
 discussions-to: https://gov.yearn.finance/t/proposal-0-yfi-supply/24
 created: 2020-07-19
 ---

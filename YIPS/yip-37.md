@@ -2,7 +2,7 @@
 yip: 37
 title: Participate in CRV governance and 2.5x CRV reward boost
 status: Implemented
-author: Andre Cronje (@andrecronje), Artem K (@banteg)
+author: andrecronje, banteg
 discussions-to: https://gov.yearn.finance/t/pre-crv-rewards-distribution-liquidation-or-boost/2481
 
 created: 2020-08-17

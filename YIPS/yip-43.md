@@ -2,7 +2,7 @@
 yip: 43
 title: Improve YIP categories
 status: Rejected
-author: sam bacha <sam@freighttrust.com>
+author: sambacha
 discussions-to: https://gov.yearn.finance/t/proposal-add-new-statuses-to-yip-proposals-non-protocol-change/3608
 
 created: 2020-08-24
@@ -107,7 +107,7 @@ Below is a sample `.yaml` file to illustrate the _new_ header that should be use
 ---
 YIP: <YIP number>
 Title: <YIP title>
-Author: < firstName, lastName, @githubUsrName, contact@address.com >
+Author: <username>
 Type: <Informational | Standards Track>
 Status: <WIP | Proposed | Approved | Deferred | Withdrawn | Rejected |
            Implemented | Replaced | Moribund>

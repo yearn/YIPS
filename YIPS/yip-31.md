@@ -2,7 +2,7 @@
 yip: 31
 title: YFI Inflation Distribution
 status: Rejected
-author: Substreight (@substreight), DeltaTiger (@deltatigernz), Hannes Graah (@Graadient), Daryl Lau (@Daryllautk)
+author: substreight, deltatigernz, Graadient, Daryllautk
 discussions-to: https://gov.yearn.finance/t/yip-31-yfi-inflation-distribution/1445
 created: 2020-07-30
 ---

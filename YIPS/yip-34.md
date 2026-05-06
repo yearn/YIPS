@@ -2,7 +2,7 @@
 yip: 34
 title: Add Synthetix (SNX) to yVaults
 status: Approved
-author: Substreight (@substreight)
+author: substreight
 discussions-to: https://gov.yearn.finance/t/yip-34-add-synthetix-snx-to-yvaults/2149
 created: 2020-08-06
 ---

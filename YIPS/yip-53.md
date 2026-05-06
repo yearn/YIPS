@@ -2,7 +2,7 @@
 yip: 53
 title: yAcademy
 status: Approved
-author: Ali Atiia (@aliatiia)
+author: aliatiia
 discussions-to: https://gov.yearn.finance/t/yip-53-yacademy-planting-the-seed-of-a-sustainably-secure-future-for-yearn-and-beyond , https://gov.yearn.finance/t/lets-poach-samczsun-and-plant-the-seed-for-an-auditing-academy/5507
 created: 2020-11-11
 implementation: https://yacademy.yearn.finance
@@ -103,4 +103,3 @@ yAcademy may go through iterations as we learn and adjust during the first 1-2 y
 
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
-

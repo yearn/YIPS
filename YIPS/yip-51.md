@@ -2,7 +2,7 @@
 yip: 51
 title: Set Vault v2 fee structure
 status: Approved
-author: banteg (@banteg), lehnberg (@lehnberg), milkyklim (@milkyklim), tracheopteryx (@tracheopteryx)
+author: banteg, lehnberg, milkyklim, tracheopteryx
 discussions-to: https://gov.yearn.finance/t/yip-51-set-vault-v2-fee-structure/7752
 created: 2020-11-06
 ---

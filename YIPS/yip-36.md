@@ -2,7 +2,7 @@
 yip: 36
 title: System rewards as operational capital
 status: Implemented
-author: Andre Cronje (@andrecronje), iTo, n00b (@jchi18), Artem K (@banteg)
+author: andrecronje, iTo, jchi18, banteg
 discussions-to: https://gov.yearn.finance/t/system-rewards-as-operational-capital/1974
 
 created: 2020-08-10

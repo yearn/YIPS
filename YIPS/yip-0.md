@@ -75,7 +75,7 @@ Each YIP must begin with an [RFC 822](https://www.ietf.org/rfc/rfc822.txt) style
 
 `title:` <YIP title>
 
-`author:` <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s). Details are below.>
+`author:` <a list of the author's or authors' username(s). Details are below.>
 
 `* discussions-to:` \<a url pointing to the official discussion thread at gov.yearn.finance\>
 
@@ -95,19 +95,11 @@ Headers requiring dates will always do so in the format of ISO 8601 (yyyy-mm-dd)
 
 #### `author` header
 
-The `author` header optionally lists the names, email addresses or usernames of the authors/owners of the YIP. Those who prefer anonymity may use a username only, or a first name and a username. The format of the author header value must be:
+The `author` header lists the usernames of the authors/owners of the YIP. The format of the author header value must be:
 
-> Random J. User &lt;address@dom.ain&gt;
+> username
 
-or
-
-> Random J. User (@username)
-
-if the email address or GitHub username is included, and
-
-> Random J. User
-
-if the email address is not given.
+Use commas to separate multiple authors.
 
 #### `discussions-to` header
 
@@ -133,15 +125,15 @@ YIPs may include auxiliary files such as diagrams. Such files must be named YIP-
 
 The current YIP editors are:
 
-`* Artem K (@banteg)`
+`* banteg`
 
-`* Cooper Turley (@Cooopahtroopa)`
+`* Cooopahtroopa`
 
-`* Daryl Lau (@Daryllautk)`
+`* Daryllautk`
 
-`* Klim K (@milkyklim)`
+`* milkyklim`
 
-`* Sunil Srivatsa (@alphastorm)`
+`* alphastorm`
 
 ## YIP Editor Responsibilities
 

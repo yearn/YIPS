@@ -2,7 +2,7 @@
 yip: 52
 title: Make Strategist Skin in Game Partner for Make Benefit of Glorious Brain of Yearn
 status: Approved
-author: banteg (@banteg), lehnberg (@lehnberg), milkyklim (@milkyklim)
+author: banteg, lehnberg, milkyklim
 discussions-to: https://gov.yearn.finance/t/yip-52-make-strategist-skin-in-game-partner-for-make-benefit-of-glorious-brain-of-yearn/
 created: 2020-11-09
 ---

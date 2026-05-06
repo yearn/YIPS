@@ -2,7 +2,7 @@
 yip: 14
 title: Yearn Rewards Reserve
 status: Rejected
-author: YieldBouncer (@yieldbouncer)
+author: yieldbouncer
 discussions-to: https://gov.yearn.finance/t/yip-14-yearn-rewards-reserve/136
 created: 2020-07-24
 ---

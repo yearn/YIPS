@@ -2,7 +2,7 @@
 yip: 30
 title: YFI Inflation Schedule
 status: Rejected
-author: Substreight (@substreight), DeltaTiger (@deltatigernz), Hannes Graah (@Graadient), Daryl Lau (@Daryllautk), yfi_whale
+author: substreight, deltatigernz, Graadient, Daryllautk, yfi_whale
 discussions-to: https://gov.yearn.finance/t/yip-30-yfi-inflation-schedule/1439
 created: 2020-07-28
 ---

@@ -2,7 +2,7 @@
 yip: 33
 title: Add LINK to yVaults
 status: Implemented
-author: franklin (@franklin501)
+author: franklin501
 discussions-to: https://gov.yearn.finance/t/add-link-as-the-first-asset-for-the-upcoming-delegated-yvaults-release/847
 created: 2020-08-02
 ---

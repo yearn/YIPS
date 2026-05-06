@@ -2,7 +2,7 @@
 yip: 55
 title: Formalize the YIP Process
 status: Implemented
-author: Franklin (@franklin), Dudesahn (@dudesahn)
+author: franklin, dudesahn
 discussions-to: https://gov.yearn.finance/t/yip-55-formalize-the-yip-process/7959
 created: 2020-11-12
 ---

@@ -2,7 +2,7 @@
 yip: 39
 title: Add Curve sBTC Pool LP-Tokens yVault
 status: Implemented
-author: uhmpeps (@az)
+author: az
 discussions-to: https://gov.yearn.finance/t/proposal-add-curve-sbtc-pool-lp-tokens-yvault/3251
 
 created: 08/23/2020

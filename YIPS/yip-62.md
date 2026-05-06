@@ -2,7 +2,7 @@
 yip: 62
 title: Change Two Multisig Signers
 status: Implemented
-author: banteg (@banteg), lehnberg (@lehnberg), milkyklim (@milkyklim), tracheopteryx (@tracheopteryx)
+author: banteg, lehnberg, milkyklim, tracheopteryx
 discussions-to: https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758
 created: 2021-05-24
 ---
@@ -25,8 +25,8 @@ You can learn about our voting rules in YIP-55[[2]](https://gov.yearn.finance/t/
 
 If adopted, this proposal will:
 
-- remove [@Substreight](https://gov.yearn.finance/u/substreight) (Joe Mahon)[[3]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) and [@tchitra](https://gov.yearn.finance/u/tchitra) (Tarun Chitra)[[4]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) as multisig signers
-- add [@RyanWatkins](https://gov.yearn.finance/u/ryanwatkins)[[5]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) and [@Lumberg](https://gov.yearn.finance/u/lumberg) (Leo Cheng)[[6]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) as mulitsig signers
+- remove [@Substreight](https://gov.yearn.finance/u/substreight)[[3]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) and [@tchitra](https://gov.yearn.finance/u/tchitra)[[4]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) as multisig signers
+- add [@RyanWatkins](https://gov.yearn.finance/u/ryanwatkins)[[5]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) and [@Lumberg](https://gov.yearn.finance/u/lumberg)[[6]](https://gov.yearn.finance/t/yip-62-change-two-multisig-signers/10758#References) as mulitsig signers
 
 ## Motivation
 

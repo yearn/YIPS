@@ -2,7 +2,7 @@
 yip: 45
 title: Add a bounty for proposing YIPs that are implemented
 status: Implemented
-author: Sunil Srivatsa (@alphastorm)
+author: alphastorm
 discussions-to: https://gov.yearn.finance/t/yip-45-add-a-bounty-for-proposing-yips-that-are-implemented/3337
 created: 2020-09-01
 ---

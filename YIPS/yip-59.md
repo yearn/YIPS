@@ -2,7 +2,7 @@
 yip: 59
 title: Temporarily extend Multisig empowerment
 status: Implemented
-author: lehnberg (@lehnberg)
+author: lehnberg
 discussions-to: https://gov.yearn.finance/t/yip-59-temporarily-extend-multisig-empowerment/9746
 created: 2021-02-18
 ---

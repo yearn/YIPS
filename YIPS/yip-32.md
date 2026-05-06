@@ -2,7 +2,7 @@
 yip: 32
 title: Remove YFI burning
 status: Implemented
-author: Sunil Srivatsa (@alphastorm)
+author: alphastorm
 discussions-to: https://gov.yearn.finance/t/yip-32-remove-yfi-burning/1907
 created: 2020-08-01
 ---

@@ -2,7 +2,7 @@
 yip: 2
 title: Burn YFI for fees
 status: Rejected
-author: Andre Cronje (@andrecronje)
+author: andrecronje
 discussions-to: https://gov.yearn.finance/t/proposal-1-yfi-fee-collection/25
 created: 2020-07-19
 ---

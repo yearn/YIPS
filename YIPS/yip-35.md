@@ -2,7 +2,7 @@
 yip: 35
 title: Distribute Donations vs Purchase YFI
 status: Implemented
-author: Andre Cronje (@andrecronje), Klim K (@milkyklim)
+author: andrecronje, milkyklim
 discussions-to: https://gov.yearn.finance/t/distribution-donations-vs-purchasing-yfi/2244
 
 created: 2020-08-10
